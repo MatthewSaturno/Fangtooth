@@ -1,0 +1,2774 @@
+[
+    {
+        "FS Grouping": "Advertising and promotions",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 16000.0
+    },
+    {
+        "FS Grouping": "Advertising and promotions",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 33000.0
+    },
+    {
+        "FS Grouping": "Advertising and promotions",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 14000.0
+    },
+    {
+        "FS Grouping": "Advertising and promotions",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 19000.0
+    },
+    {
+        "FS Grouping": "Advertising and promotions",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 3000.0
+    },
+    {
+        "FS Grouping": "Advertising and promotions",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 14000.0
+    },
+    {
+        "FS Grouping": "Amortization",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 2000.0
+    },
+    {
+        "FS Grouping": "Amortization",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "Amortization",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 3000.0
+    },
+    {
+        "FS Grouping": "Amortization",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 3000.0
+    },
+    {
+        "FS Grouping": "Amortization",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 1000.0
+    },
+    {
+        "FS Grouping": "Amortization",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 3000.0
+    },
+    {
+        "FS Grouping": "Bad debt",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 4000.0
+    },
+    {
+        "FS Grouping": "Bad debt",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 12000.0
+    },
+    {
+        "FS Grouping": "Bad debt",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "Bad debt",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "Bad debt",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 2000.0
+    },
+    {
+        "FS Grouping": "Bad debt",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "Bank fees",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 800.0
+    },
+    {
+        "FS Grouping": "Bank fees",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 2400.0
+    },
+    {
+        "FS Grouping": "Bank fees",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "Bank fees",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "Bank fees",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 400.0
+    },
+    {
+        "FS Grouping": "Bank fees",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "Cost of sales",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 136991.25956
+    },
+    {
+        "FS Grouping": "Cost of sales",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 894339.64244
+    },
+    {
+        "FS Grouping": "Cost of sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 540835.9124
+    },
+    {
+        "FS Grouping": "Cost of sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 626951.58632
+    },
+    {
+        "FS Grouping": "Cost of sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 482193.8008
+    },
+    {
+        "FS Grouping": "Cost of sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 608920.95864
+    },
+    {
+        "FS Grouping": "Depreciation",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 4000.0
+    },
+    {
+        "FS Grouping": "Depreciation",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 12000.0
+    },
+    {
+        "FS Grouping": "Depreciation",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "Depreciation",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "Depreciation",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 2000.0
+    },
+    {
+        "FS Grouping": "Depreciation",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "Foreign currency gains/losses",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 159.9254783471116
+    },
+    {
+        "FS Grouping": "Foreign currency gains/losses",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 479.7764350413348
+    },
+    {
+        "FS Grouping": "Foreign currency gains/losses",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 239.8882175206674
+    },
+    {
+        "FS Grouping": "Foreign currency gains/losses",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 239.8882175206674
+    },
+    {
+        "FS Grouping": "Foreign currency gains/losses",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 79.9627391735558
+    },
+    {
+        "FS Grouping": "Foreign currency gains/losses",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 239.8882175206674
+    },
+    {
+        "FS Grouping": "Freight",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 20000.0
+    },
+    {
+        "FS Grouping": "Freight",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 60000.0
+    },
+    {
+        "FS Grouping": "Freight",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 30000.0
+    },
+    {
+        "FS Grouping": "Freight",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 30000.0
+    },
+    {
+        "FS Grouping": "Freight",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 10000.0
+    },
+    {
+        "FS Grouping": "Freight",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 30000.0
+    },
+    {
+        "FS Grouping": "Gains/losses on sale of equipment",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 0.0
+    },
+    {
+        "FS Grouping": "Gains/losses on sale of equipment",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": -3793.0
+    },
+    {
+        "FS Grouping": "Gains/losses on sale of equipment",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 3516.0
+    },
+    {
+        "FS Grouping": "Gains/losses on sale of equipment",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 0.0
+    },
+    {
+        "FS Grouping": "Gains/losses on sale of equipment",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 0.0
+    },
+    {
+        "FS Grouping": "Gains/losses on sale of equipment",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 3039.0
+    },
+    {
+        "FS Grouping": "Income taxes",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 16000.0
+    },
+    {
+        "FS Grouping": "Income taxes",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 48000.0
+    },
+    {
+        "FS Grouping": "Income taxes",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 24000.0
+    },
+    {
+        "FS Grouping": "Income taxes",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 24000.0
+    },
+    {
+        "FS Grouping": "Income taxes",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 8000.0
+    },
+    {
+        "FS Grouping": "Income taxes",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 24000.0
+    },
+    {
+        "FS Grouping": "Insurance",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 3600.0
+    },
+    {
+        "FS Grouping": "Insurance",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 10800.0
+    },
+    {
+        "FS Grouping": "Insurance",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 5400.0
+    },
+    {
+        "FS Grouping": "Insurance",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 5400.0
+    },
+    {
+        "FS Grouping": "Insurance",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "Insurance",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 5400.0
+    },
+    {
+        "FS Grouping": "Interest expense",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 8394.2600244873
+    },
+    {
+        "FS Grouping": "Interest expense",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 24073.55680839149
+    },
+    {
+        "FS Grouping": "Interest expense",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 11373.6357752364
+    },
+    {
+        "FS Grouping": "Interest expense",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 10901.32297883058
+    },
+    {
+        "FS Grouping": "Interest expense",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 3353.638318838356
+    },
+    {
+        "FS Grouping": "Interest expense",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 10404.89704924472
+    },
+    {
+        "FS Grouping": "Investment income",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": -4000.0
+    },
+    {
+        "FS Grouping": "Investment income",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": -12000.0
+    },
+    {
+        "FS Grouping": "Investment income",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": -6000.0
+    },
+    {
+        "FS Grouping": "Investment income",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": -6000.0
+    },
+    {
+        "FS Grouping": "Investment income",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": -2000.0
+    },
+    {
+        "FS Grouping": "Investment income",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": -6000.0
+    },
+    {
+        "FS Grouping": "Management salaries",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 60000.0
+    },
+    {
+        "FS Grouping": "Management salaries",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 180000.0
+    },
+    {
+        "FS Grouping": "Management salaries",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 90000.0
+    },
+    {
+        "FS Grouping": "Management salaries",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 90000.0
+    },
+    {
+        "FS Grouping": "Management salaries",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 30000.0
+    },
+    {
+        "FS Grouping": "Management salaries",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 90000.0
+    },
+    {
+        "FS Grouping": "Meals and entertainment",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 2600.0
+    },
+    {
+        "FS Grouping": "Meals and entertainment",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 16800.0
+    },
+    {
+        "FS Grouping": "Meals and entertainment",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 8400.0
+    },
+    {
+        "FS Grouping": "Meals and entertainment",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 8400.0
+    },
+    {
+        "FS Grouping": "Meals and entertainment",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 5800.0
+    },
+    {
+        "FS Grouping": "Meals and entertainment",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 8400.0
+    },
+    {
+        "FS Grouping": "Office expenses",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 5400.0
+    },
+    {
+        "FS Grouping": "Office expenses",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 16200.0
+    },
+    {
+        "FS Grouping": "Office expenses",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 8100.0
+    },
+    {
+        "FS Grouping": "Office expenses",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 8100.0
+    },
+    {
+        "FS Grouping": "Office expenses",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 2700.0
+    },
+    {
+        "FS Grouping": "Office expenses",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 8100.0
+    },
+    {
+        "FS Grouping": "Professional fees",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 8800.0
+    },
+    {
+        "FS Grouping": "Professional fees",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 26400.0
+    },
+    {
+        "FS Grouping": "Professional fees",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 32000.0
+    },
+    {
+        "FS Grouping": "Professional fees",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 13200.0
+    },
+    {
+        "FS Grouping": "Professional fees",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 4400.0
+    },
+    {
+        "FS Grouping": "Professional fees",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 13200.0
+    },
+    {
+        "FS Grouping": "Rent",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 14000.0
+    },
+    {
+        "FS Grouping": "Rent",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 42000.0
+    },
+    {
+        "FS Grouping": "Rent",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 21000.0
+    },
+    {
+        "FS Grouping": "Rent",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 21000.0
+    },
+    {
+        "FS Grouping": "Rent",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 7000.0
+    },
+    {
+        "FS Grouping": "Rent",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 21000.0
+    },
+    {
+        "FS Grouping": "Salaries and wages",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 100000.0
+    },
+    {
+        "FS Grouping": "Salaries and wages",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 300000.0
+    },
+    {
+        "FS Grouping": "Salaries and wages",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 150000.0
+    },
+    {
+        "FS Grouping": "Salaries and wages",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 150000.0
+    },
+    {
+        "FS Grouping": "Salaries and wages",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 50000.0
+    },
+    {
+        "FS Grouping": "Salaries and wages",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 150000.0
+    },
+    {
+        "FS Grouping": "Sales",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": -367417.2
+    },
+    {
+        "FS Grouping": "Sales",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": -2320715.84
+    },
+    {
+        "FS Grouping": "Sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": -1445337.96
+    },
+    {
+        "FS Grouping": "Sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": -1653705.48
+    },
+    {
+        "FS Grouping": "Sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": -1237403.2
+    },
+    {
+        "FS Grouping": "Sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": -1622544.68
+    },
+    {
+        "FS Grouping": "Telephone and internet",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "Telephone and internet",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 3600.0
+    },
+    {
+        "FS Grouping": "Telephone and internet",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "Telephone and internet",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "Telephone and internet",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 600.0
+    },
+    {
+        "FS Grouping": "Telephone and internet",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "Travel expenses",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "Travel expenses",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 3600.0
+    },
+    {
+        "FS Grouping": "Travel expenses",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "Travel expenses",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "Travel expenses",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 600.0
+    },
+    {
+        "FS Grouping": "Travel expenses",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "Utilities",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "Utilities",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 5400.0
+    },
+    {
+        "FS Grouping": "Utilities",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 2700.0
+    },
+    {
+        "FS Grouping": "Utilities",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 2700.0
+    },
+    {
+        "FS Grouping": "Utilities",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 900.0
+    },
+    {
+        "FS Grouping": "Utilities",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 2700.0
+    },
+    {
+        "FS Grouping": "Vehicle expenses",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 2300.0
+    },
+    {
+        "FS Grouping": "Vehicle expenses",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 6900.0
+    },
+    {
+        "FS Grouping": "Vehicle expenses",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 3450.0
+    },
+    {
+        "FS Grouping": "Vehicle expenses",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 3450.0
+    },
+    {
+        "FS Grouping": "Vehicle expenses",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 1150.0
+    },
+    {
+        "FS Grouping": "Vehicle expenses",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 3450.0
+    },
+    {
+        "FS Grouping": "4001 - Hat sales",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": -208556.64
+    },
+    {
+        "FS Grouping": "4001 - Hat sales",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": -1389042.84
+    },
+    {
+        "FS Grouping": "4001 - Hat sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": -970882.44
+    },
+    {
+        "FS Grouping": "4001 - Hat sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": -1084012.32
+    },
+    {
+        "FS Grouping": "4001 - Hat sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": -863678.2
+    },
+    {
+        "FS Grouping": "4001 - Hat sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": -1126014.68
+    },
+    {
+        "FS Grouping": "4002 - T-shirt sales",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": -158860.56
+    },
+    {
+        "FS Grouping": "4002 - T-shirt sales",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": -931673.0
+    },
+    {
+        "FS Grouping": "4002 - T-shirt sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": -474455.52
+    },
+    {
+        "FS Grouping": "4002 - T-shirt sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": -569693.1600000001
+    },
+    {
+        "FS Grouping": "4002 - T-shirt sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": -373725.0
+    },
+    {
+        "FS Grouping": "4002 - T-shirt sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": -496530.0
+    },
+    {
+        "FS Grouping": "5001 - Hat cost of sales",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 86488.28748
+    },
+    {
+        "FS Grouping": "5001 - Hat cost of sales",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 585808.24604
+    },
+    {
+        "FS Grouping": "5001 - Hat cost of sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 381427.26476
+    },
+    {
+        "FS Grouping": "5001 - Hat cost of sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 423391.8669199999
+    },
+    {
+        "FS Grouping": "5001 - Hat cost of sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 342466.5508
+    },
+    {
+        "FS Grouping": "5001 - Hat cost of sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 435350.4236400001
+    },
+    {
+        "FS Grouping": "5002 - T-shirt cost of sales",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 50502.97208
+    },
+    {
+        "FS Grouping": "5002 - T-shirt cost of sales",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 308531.3964
+    },
+    {
+        "FS Grouping": "5002 - T-shirt cost of sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 159408.64764
+    },
+    {
+        "FS Grouping": "5002 - T-shirt cost of sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 203559.7194
+    },
+    {
+        "FS Grouping": "5002 - T-shirt cost of sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 139727.25
+    },
+    {
+        "FS Grouping": "5002 - T-shirt cost of sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 173570.535
+    },
+    {
+        "FS Grouping": "6000 - Online marketing ads",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 4000.0
+    },
+    {
+        "FS Grouping": "6000 - Online marketing ads",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 12000.0
+    },
+    {
+        "FS Grouping": "6000 - Online marketing ads",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "6000 - Online marketing ads",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "6000 - Online marketing ads",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 2000.0
+    },
+    {
+        "FS Grouping": "6000 - Online marketing ads",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "6001 - Promotion - trade shows",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 10000.0
+    },
+    {
+        "FS Grouping": "6001 - Promotion - trade shows",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 10000.0
+    },
+    {
+        "FS Grouping": "6001 - Promotion - trade shows",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 0.0
+    },
+    {
+        "FS Grouping": "6001 - Promotion - trade shows",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 10000.0
+    },
+    {
+        "FS Grouping": "6001 - Promotion - trade shows",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 0.0
+    },
+    {
+        "FS Grouping": "6001 - Promotion - trade shows",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 0.0
+    },
+    {
+        "FS Grouping": "6002 - Promotion - commercials",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 2000.0
+    },
+    {
+        "FS Grouping": "6002 - Promotion - commercials",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "6002 - Promotion - commercials",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 3000.0
+    },
+    {
+        "FS Grouping": "6002 - Promotion - commercials",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 3000.0
+    },
+    {
+        "FS Grouping": "6002 - Promotion - commercials",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 1000.0
+    },
+    {
+        "FS Grouping": "6002 - Promotion - commercials",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 3000.0
+    },
+    {
+        "FS Grouping": "6003 - Donations - golf tournaments",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 0.0
+    },
+    {
+        "FS Grouping": "6003 - Donations - golf tournaments",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 5000.0
+    },
+    {
+        "FS Grouping": "6003 - Donations - golf tournaments",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 5000.0
+    },
+    {
+        "FS Grouping": "6003 - Donations - golf tournaments",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 0.0
+    },
+    {
+        "FS Grouping": "6003 - Donations - golf tournaments",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 0.0
+    },
+    {
+        "FS Grouping": "6003 - Donations - golf tournaments",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 5000.0
+    },
+    {
+        "FS Grouping": "6100 - Depreciation - fixed assets",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 4000.0
+    },
+    {
+        "FS Grouping": "6100 - Depreciation - fixed assets",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 12000.0
+    },
+    {
+        "FS Grouping": "6100 - Depreciation - fixed assets",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "6100 - Depreciation - fixed assets",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "6100 - Depreciation - fixed assets",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 2000.0
+    },
+    {
+        "FS Grouping": "6100 - Depreciation - fixed assets",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "6101 - Amortization - software",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 2000.0
+    },
+    {
+        "FS Grouping": "6101 - Amortization - software",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "6101 - Amortization - software",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 3000.0
+    },
+    {
+        "FS Grouping": "6101 - Amortization - software",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 3000.0
+    },
+    {
+        "FS Grouping": "6101 - Amortization - software",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 1000.0
+    },
+    {
+        "FS Grouping": "6101 - Amortization - software",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 3000.0
+    },
+    {
+        "FS Grouping": "6110 - Vehicle maintenance",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 400.0
+    },
+    {
+        "FS Grouping": "6110 - Vehicle maintenance",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6110 - Vehicle maintenance",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 600.0
+    },
+    {
+        "FS Grouping": "6110 - Vehicle maintenance",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 600.0
+    },
+    {
+        "FS Grouping": "6110 - Vehicle maintenance",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 200.0
+    },
+    {
+        "FS Grouping": "6110 - Vehicle maintenance",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 600.0
+    },
+    {
+        "FS Grouping": "6111 - Other vehicle expenses",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 500.0
+    },
+    {
+        "FS Grouping": "6111 - Other vehicle expenses",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 1500.0
+    },
+    {
+        "FS Grouping": "6111 - Other vehicle expenses",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 750.0
+    },
+    {
+        "FS Grouping": "6111 - Other vehicle expenses",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 750.0
+    },
+    {
+        "FS Grouping": "6111 - Other vehicle expenses",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 250.0
+    },
+    {
+        "FS Grouping": "6111 - Other vehicle expenses",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 750.0
+    },
+    {
+        "FS Grouping": "6112 - Vehicle fuel",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6112 - Vehicle fuel",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 3600.0
+    },
+    {
+        "FS Grouping": "6112 - Vehicle fuel",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "6112 - Vehicle fuel",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "6112 - Vehicle fuel",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 600.0
+    },
+    {
+        "FS Grouping": "6112 - Vehicle fuel",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "6200 - Insurance - stores",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 1600.0
+    },
+    {
+        "FS Grouping": "6200 - Insurance - stores",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 4800.0
+    },
+    {
+        "FS Grouping": "6200 - Insurance - stores",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 2400.0
+    },
+    {
+        "FS Grouping": "6200 - Insurance - stores",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 2400.0
+    },
+    {
+        "FS Grouping": "6200 - Insurance - stores",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 800.0
+    },
+    {
+        "FS Grouping": "6200 - Insurance - stores",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 2400.0
+    },
+    {
+        "FS Grouping": "6201 - Insurance - life insurance for Matthew Saturno",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 2000.0
+    },
+    {
+        "FS Grouping": "6201 - Insurance - life insurance for Matthew Saturno",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "6201 - Insurance - life insurance for Matthew Saturno",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 3000.0
+    },
+    {
+        "FS Grouping": "6201 - Insurance - life insurance for Matthew Saturno",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 3000.0
+    },
+    {
+        "FS Grouping": "6201 - Insurance - life insurance for Matthew Saturno",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 1000.0
+    },
+    {
+        "FS Grouping": "6201 - Insurance - life insurance for Matthew Saturno",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 3000.0
+    },
+    {
+        "FS Grouping": "6210 - Rent",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 14000.0
+    },
+    {
+        "FS Grouping": "6210 - Rent",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 42000.0
+    },
+    {
+        "FS Grouping": "6210 - Rent",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 21000.0
+    },
+    {
+        "FS Grouping": "6210 - Rent",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 21000.0
+    },
+    {
+        "FS Grouping": "6210 - Rent",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 7000.0
+    },
+    {
+        "FS Grouping": "6210 - Rent",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 21000.0
+    },
+    {
+        "FS Grouping": "6300 - Office supplies",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 2400.0
+    },
+    {
+        "FS Grouping": "6300 - Office supplies",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 7200.0
+    },
+    {
+        "FS Grouping": "6300 - Office supplies",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 3600.0
+    },
+    {
+        "FS Grouping": "6300 - Office supplies",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 3600.0
+    },
+    {
+        "FS Grouping": "6300 - Office supplies",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6300 - Office supplies",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 3600.0
+    },
+    {
+        "FS Grouping": "6301 - Mail/courier expenses",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 800.0
+    },
+    {
+        "FS Grouping": "6301 - Mail/courier expenses",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 2400.0
+    },
+    {
+        "FS Grouping": "6301 - Mail/courier expenses",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6301 - Mail/courier expenses",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6301 - Mail/courier expenses",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 400.0
+    },
+    {
+        "FS Grouping": "6301 - Mail/courier expenses",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6302 - General office/store maintenance",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6302 - General office/store maintenance",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 3600.0
+    },
+    {
+        "FS Grouping": "6302 - General office/store maintenance",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "6302 - General office/store maintenance",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "6302 - General office/store maintenance",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 600.0
+    },
+    {
+        "FS Grouping": "6302 - General office/store maintenance",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "6303 - Cleaning services",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 1000.0
+    },
+    {
+        "FS Grouping": "6303 - Cleaning services",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 3000.0
+    },
+    {
+        "FS Grouping": "6303 - Cleaning services",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 1500.0
+    },
+    {
+        "FS Grouping": "6303 - Cleaning services",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 1500.0
+    },
+    {
+        "FS Grouping": "6303 - Cleaning services",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 500.0
+    },
+    {
+        "FS Grouping": "6303 - Cleaning services",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 1500.0
+    },
+    {
+        "FS Grouping": "6304 - Parking",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 200.0
+    },
+    {
+        "FS Grouping": "6304 - Parking",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 600.0
+    },
+    {
+        "FS Grouping": "6304 - Parking",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 300.0
+    },
+    {
+        "FS Grouping": "6304 - Parking",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 300.0
+    },
+    {
+        "FS Grouping": "6304 - Parking",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 100.0
+    },
+    {
+        "FS Grouping": "6304 - Parking",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 300.0
+    },
+    {
+        "FS Grouping": "6310 - Freight and delivery costs",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 20000.0
+    },
+    {
+        "FS Grouping": "6310 - Freight and delivery costs",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 60000.0
+    },
+    {
+        "FS Grouping": "6310 - Freight and delivery costs",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 30000.0
+    },
+    {
+        "FS Grouping": "6310 - Freight and delivery costs",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 30000.0
+    },
+    {
+        "FS Grouping": "6310 - Freight and delivery costs",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 10000.0
+    },
+    {
+        "FS Grouping": "6310 - Freight and delivery costs",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 30000.0
+    },
+    {
+        "FS Grouping": "6400 - Gas",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 600.0
+    },
+    {
+        "FS Grouping": "6400 - Gas",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "6400 - Gas",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 900.0
+    },
+    {
+        "FS Grouping": "6400 - Gas",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 900.0
+    },
+    {
+        "FS Grouping": "6400 - Gas",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 300.0
+    },
+    {
+        "FS Grouping": "6400 - Gas",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 900.0
+    },
+    {
+        "FS Grouping": "6401 - Electricity",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 800.0
+    },
+    {
+        "FS Grouping": "6401 - Electricity",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 2400.0
+    },
+    {
+        "FS Grouping": "6401 - Electricity",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6401 - Electricity",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6401 - Electricity",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 400.0
+    },
+    {
+        "FS Grouping": "6401 - Electricity",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6402 - Water",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 400.0
+    },
+    {
+        "FS Grouping": "6402 - Water",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6402 - Water",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 600.0
+    },
+    {
+        "FS Grouping": "6402 - Water",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 600.0
+    },
+    {
+        "FS Grouping": "6402 - Water",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 200.0
+    },
+    {
+        "FS Grouping": "6402 - Water",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 600.0
+    },
+    {
+        "FS Grouping": "6410 - Management salaries",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 60000.0
+    },
+    {
+        "FS Grouping": "6410 - Management salaries",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 180000.0
+    },
+    {
+        "FS Grouping": "6410 - Management salaries",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 90000.0
+    },
+    {
+        "FS Grouping": "6410 - Management salaries",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 90000.0
+    },
+    {
+        "FS Grouping": "6410 - Management salaries",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 30000.0
+    },
+    {
+        "FS Grouping": "6410 - Management salaries",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 90000.0
+    },
+    {
+        "FS Grouping": "6411 - Admin salaries",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 40000.0
+    },
+    {
+        "FS Grouping": "6411 - Admin salaries",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 120000.0
+    },
+    {
+        "FS Grouping": "6411 - Admin salaries",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 60000.0
+    },
+    {
+        "FS Grouping": "6411 - Admin salaries",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 60000.0
+    },
+    {
+        "FS Grouping": "6411 - Admin salaries",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 20000.0
+    },
+    {
+        "FS Grouping": "6411 - Admin salaries",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 60000.0
+    },
+    {
+        "FS Grouping": "6412 - Sales salaries",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 60000.0
+    },
+    {
+        "FS Grouping": "6412 - Sales salaries",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 180000.0
+    },
+    {
+        "FS Grouping": "6412 - Sales salaries",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 90000.0
+    },
+    {
+        "FS Grouping": "6412 - Sales salaries",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 90000.0
+    },
+    {
+        "FS Grouping": "6412 - Sales salaries",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 30000.0
+    },
+    {
+        "FS Grouping": "6412 - Sales salaries",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 90000.0
+    },
+    {
+        "FS Grouping": "6500 - Client dinners",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 1600.0
+    },
+    {
+        "FS Grouping": "6500 - Client dinners",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 4800.0
+    },
+    {
+        "FS Grouping": "6500 - Client dinners",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 2400.0
+    },
+    {
+        "FS Grouping": "6500 - Client dinners",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 2400.0
+    },
+    {
+        "FS Grouping": "6500 - Client dinners",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 800.0
+    },
+    {
+        "FS Grouping": "6500 - Client dinners",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 2400.0
+    },
+    {
+        "FS Grouping": "6501 - Jays/Leafs/Raptors tickets",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 1000.0
+    },
+    {
+        "FS Grouping": "6501 - Jays/Leafs/Raptors tickets",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 4000.0
+    },
+    {
+        "FS Grouping": "6501 - Jays/Leafs/Raptors tickets",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 2000.0
+    },
+    {
+        "FS Grouping": "6501 - Jays/Leafs/Raptors tickets",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 2000.0
+    },
+    {
+        "FS Grouping": "6501 - Jays/Leafs/Raptors tickets",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 1000.0
+    },
+    {
+        "FS Grouping": "6501 - Jays/Leafs/Raptors tickets",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 2000.0
+    },
+    {
+        "FS Grouping": "6502 - Holiday parties",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 0.0
+    },
+    {
+        "FS Grouping": "6502 - Holiday parties",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 8000.0
+    },
+    {
+        "FS Grouping": "6502 - Holiday parties",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 4000.0
+    },
+    {
+        "FS Grouping": "6502 - Holiday parties",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 4000.0
+    },
+    {
+        "FS Grouping": "6502 - Holiday parties",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 4000.0
+    },
+    {
+        "FS Grouping": "6502 - Holiday parties",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 4000.0
+    },
+    {
+        "FS Grouping": "6503 - Travel expenses",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6503 - Travel expenses",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 3600.0
+    },
+    {
+        "FS Grouping": "6503 - Travel expenses",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "6503 - Travel expenses",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "6503 - Travel expenses",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 600.0
+    },
+    {
+        "FS Grouping": "6503 - Travel expenses",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 1800.0
+    },
+    {
+        "FS Grouping": "6600 - Telephone expenses",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 400.0
+    },
+    {
+        "FS Grouping": "6600 - Telephone expenses",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6600 - Telephone expenses",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 600.0
+    },
+    {
+        "FS Grouping": "6600 - Telephone expenses",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 600.0
+    },
+    {
+        "FS Grouping": "6600 - Telephone expenses",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 200.0
+    },
+    {
+        "FS Grouping": "6600 - Telephone expenses",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 600.0
+    },
+    {
+        "FS Grouping": "6601 - Internet expenses",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 800.0
+    },
+    {
+        "FS Grouping": "6601 - Internet expenses",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 2400.0
+    },
+    {
+        "FS Grouping": "6601 - Internet expenses",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6601 - Internet expenses",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6601 - Internet expenses",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 400.0
+    },
+    {
+        "FS Grouping": "6601 - Internet expenses",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6700 - Interest on short term loans",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 1750.0
+    },
+    {
+        "FS Grouping": "6700 - Interest on short term loans",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 5250.0
+    },
+    {
+        "FS Grouping": "6700 - Interest on short term loans",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 2625.0
+    },
+    {
+        "FS Grouping": "6700 - Interest on short term loans",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 2625.0
+    },
+    {
+        "FS Grouping": "6700 - Interest on short term loans",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 875.0
+    },
+    {
+        "FS Grouping": "6700 - Interest on short term loans",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 2625.0
+    },
+    {
+        "FS Grouping": "6701 - Interest on long term loans",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 6644.260024487299
+    },
+    {
+        "FS Grouping": "6701 - Interest on long term loans",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 18823.55680839149
+    },
+    {
+        "FS Grouping": "6701 - Interest on long term loans",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 8748.6357752364
+    },
+    {
+        "FS Grouping": "6701 - Interest on long term loans",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 8276.322978830576
+    },
+    {
+        "FS Grouping": "6701 - Interest on long term loans",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 2478.638318838356
+    },
+    {
+        "FS Grouping": "6701 - Interest on long term loans",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 7779.897049244722
+    },
+    {
+        "FS Grouping": "6702 - Bank charges",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 800.0
+    },
+    {
+        "FS Grouping": "6702 - Bank charges",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 2400.0
+    },
+    {
+        "FS Grouping": "6702 - Bank charges",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6702 - Bank charges",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6702 - Bank charges",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 400.0
+    },
+    {
+        "FS Grouping": "6702 - Bank charges",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 1200.0
+    },
+    {
+        "FS Grouping": "6800 - Customer write-offs",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 4000.0
+    },
+    {
+        "FS Grouping": "6800 - Customer write-offs",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 12000.0
+    },
+    {
+        "FS Grouping": "6800 - Customer write-offs",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "6800 - Customer write-offs",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "6800 - Customer write-offs",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 2000.0
+    },
+    {
+        "FS Grouping": "6800 - Customer write-offs",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "6900 - Legal costs",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 4800.0
+    },
+    {
+        "FS Grouping": "6900 - Legal costs",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 14400.0
+    },
+    {
+        "FS Grouping": "6900 - Legal costs",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 26000.0
+    },
+    {
+        "FS Grouping": "6900 - Legal costs",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 7200.0
+    },
+    {
+        "FS Grouping": "6900 - Legal costs",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 2400.0
+    },
+    {
+        "FS Grouping": "6900 - Legal costs",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 7200.0
+    },
+    {
+        "FS Grouping": "6901 - Accounting costs",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 4000.0
+    },
+    {
+        "FS Grouping": "6901 - Accounting costs",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 12000.0
+    },
+    {
+        "FS Grouping": "6901 - Accounting costs",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "6901 - Accounting costs",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "6901 - Accounting costs",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 2000.0
+    },
+    {
+        "FS Grouping": "6901 - Accounting costs",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "7000 - Investment income",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": -4000.0
+    },
+    {
+        "FS Grouping": "7000 - Investment income",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": -12000.0
+    },
+    {
+        "FS Grouping": "7000 - Investment income",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": -6000.0
+    },
+    {
+        "FS Grouping": "7000 - Investment income",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": -6000.0
+    },
+    {
+        "FS Grouping": "7000 - Investment income",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": -2000.0
+    },
+    {
+        "FS Grouping": "7000 - Investment income",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": -6000.0
+    },
+    {
+        "FS Grouping": "7001 - Gains/losses on sale of equipment",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 0.0
+    },
+    {
+        "FS Grouping": "7001 - Gains/losses on sale of equipment",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": -3793.0
+    },
+    {
+        "FS Grouping": "7001 - Gains/losses on sale of equipment",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 3516.0
+    },
+    {
+        "FS Grouping": "7001 - Gains/losses on sale of equipment",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 0.0
+    },
+    {
+        "FS Grouping": "7001 - Gains/losses on sale of equipment",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 0.0
+    },
+    {
+        "FS Grouping": "7001 - Gains/losses on sale of equipment",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 3039.0
+    },
+    {
+        "FS Grouping": "7002 - Foreign currency gains/losses",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 159.9254783471116
+    },
+    {
+        "FS Grouping": "7002 - Foreign currency gains/losses",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 479.7764350413348
+    },
+    {
+        "FS Grouping": "7002 - Foreign currency gains/losses",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 239.8882175206674
+    },
+    {
+        "FS Grouping": "7002 - Foreign currency gains/losses",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 239.8882175206674
+    },
+    {
+        "FS Grouping": "7002 - Foreign currency gains/losses",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 79.9627391735558
+    },
+    {
+        "FS Grouping": "7002 - Foreign currency gains/losses",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 239.8882175206674
+    },
+    {
+        "FS Grouping": "8000 - Income taxes",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 16000.0
+    },
+    {
+        "FS Grouping": "8000 - Income taxes",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 48000.0
+    },
+    {
+        "FS Grouping": "8000 - Income taxes",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 24000.0
+    },
+    {
+        "FS Grouping": "8000 - Income taxes",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 24000.0
+    },
+    {
+        "FS Grouping": "8000 - Income taxes",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 8000.0
+    },
+    {
+        "FS Grouping": "8000 - Income taxes",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 24000.0
+    },
+    {
+        "FS Grouping": "Accounting",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 4000.0
+    },
+    {
+        "FS Grouping": "Accounting",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 12000.0
+    },
+    {
+        "FS Grouping": "Accounting",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "Accounting",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "Accounting",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 2000.0
+    },
+    {
+        "FS Grouping": "Accounting",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "Donations",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 0.0
+    },
+    {
+        "FS Grouping": "Donations",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 5000.0
+    },
+    {
+        "FS Grouping": "Donations",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 5000.0
+    },
+    {
+        "FS Grouping": "Donations",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 0.0
+    },
+    {
+        "FS Grouping": "Donations",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 0.0
+    },
+    {
+        "FS Grouping": "Donations",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 5000.0
+    },
+    {
+        "FS Grouping": "Hat cost of sales",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 86488.28748
+    },
+    {
+        "FS Grouping": "Hat cost of sales",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 585808.24604
+    },
+    {
+        "FS Grouping": "Hat cost of sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 381427.26476
+    },
+    {
+        "FS Grouping": "Hat cost of sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 423391.8669199999
+    },
+    {
+        "FS Grouping": "Hat cost of sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 342466.5508
+    },
+    {
+        "FS Grouping": "Hat cost of sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 435350.4236400001
+    },
+    {
+        "FS Grouping": "Hat sales",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": -208556.64
+    },
+    {
+        "FS Grouping": "Hat sales",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": -1389042.84
+    },
+    {
+        "FS Grouping": "Hat sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": -970882.44
+    },
+    {
+        "FS Grouping": "Hat sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": -1084012.32
+    },
+    {
+        "FS Grouping": "Hat sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": -863678.2
+    },
+    {
+        "FS Grouping": "Hat sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": -1126014.68
+    },
+    {
+        "FS Grouping": "Legal",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 4800.0
+    },
+    {
+        "FS Grouping": "Legal",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 14400.0
+    },
+    {
+        "FS Grouping": "Legal",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 26000.0
+    },
+    {
+        "FS Grouping": "Legal",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 7200.0
+    },
+    {
+        "FS Grouping": "Legal",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 2400.0
+    },
+    {
+        "FS Grouping": "Legal",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 7200.0
+    },
+    {
+        "FS Grouping": "Other advertising and promotions",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 2000.0
+    },
+    {
+        "FS Grouping": "Other advertising and promotions",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "Other advertising and promotions",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 3000.0
+    },
+    {
+        "FS Grouping": "Other advertising and promotions",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 3000.0
+    },
+    {
+        "FS Grouping": "Other advertising and promotions",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 1000.0
+    },
+    {
+        "FS Grouping": "Other advertising and promotions",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 3000.0
+    },
+    {
+        "FS Grouping": "Promotions/ads",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 14000.0
+    },
+    {
+        "FS Grouping": "Promotions/ads",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 22000.0
+    },
+    {
+        "FS Grouping": "Promotions/ads",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "Promotions/ads",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 16000.0
+    },
+    {
+        "FS Grouping": "Promotions/ads",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 2000.0
+    },
+    {
+        "FS Grouping": "Promotions/ads",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 6000.0
+    },
+    {
+        "FS Grouping": "T-shirt cost of sales",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": 50502.97208
+    },
+    {
+        "FS Grouping": "T-shirt cost of sales",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": 308531.3964
+    },
+    {
+        "FS Grouping": "T-shirt cost of sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": 159408.64764
+    },
+    {
+        "FS Grouping": "T-shirt cost of sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": 203559.7194
+    },
+    {
+        "FS Grouping": "T-shirt cost of sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": 139727.25
+    },
+    {
+        "FS Grouping": "T-shirt cost of sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": 173570.535
+    },
+    {
+        "FS Grouping": "T-shirt sales",
+        "Fiscal Year": "F21",
+        "LTM Period": "No",
+        "Ending Balance": -158860.56
+    },
+    {
+        "FS Grouping": "T-shirt sales",
+        "Fiscal Year": "F22",
+        "LTM Period": "No",
+        "Ending Balance": -931673.0
+    },
+    {
+        "FS Grouping": "T-shirt sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "No",
+        "Ending Balance": -474455.52
+    },
+    {
+        "FS Grouping": "T-shirt sales",
+        "Fiscal Year": "F23",
+        "LTM Period": "Yes",
+        "Ending Balance": -569693.1600000001
+    },
+    {
+        "FS Grouping": "T-shirt sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "No",
+        "Ending Balance": -373725.0
+    },
+    {
+        "FS Grouping": "T-shirt sales",
+        "Fiscal Year": "F24",
+        "LTM Period": "Yes",
+        "Ending Balance": -496530.0
+    }
+]
