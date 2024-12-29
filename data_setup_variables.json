@@ -1,9 +1,9 @@
 {
-  "company_name": "Mattydfsdfsdfsd",
+  "company_name": "Yooo",
   "currency": "CAD",
-  "denomination": "$",
+  "denomination": "$000",
   "value_date": "2023-12-31",
   "fiscal_year": "2023-03-31",
-  "chart_of_accounts": "Chart of Accounts.xlsx",
+  "chart_of_accounts": "Combined_FS.xlsx",
   "trial_balance": "TB11.xlsx"
 }
