@@ -1,11 +1,11 @@
 {
-    "company_name": "MattyBoy Inc.",
+    "company_name": "LegacyInc.",
     "currency": "USD",
     "denomination": "$000",
-    "value_date": "2023-10-31",
+    "value_date": "2023-07-31",
     "fiscal_year": "2023-04-30",
     "fiscal_year_end_month": 4,
     "LTM_fiscal_year": "F24",
-    "LTM_name": "LTM Oct 23",
+    "LTM_name": "LTM Jul 23",
     "YTD_name": "F24 YTD"
 }
