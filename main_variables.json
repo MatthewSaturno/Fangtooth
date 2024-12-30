@@ -1,11 +1,11 @@
 {
-    "company_name": "GOGOOG",
+    "company_name": "YOUZA",
     "currency": "CAD",
     "denomination": "$",
-    "value_date": "2023-03-31",
-    "fiscal_year": "2023-02-28",
-    "fiscal_year_end_month": 2,
+    "value_date": "2023-12-31",
+    "fiscal_year": "2023-03-31",
+    "fiscal_year_end_month": 3,
     "LTM_fiscal_year": "F24",
-    "LTM_name": "LTM Mar 23",
+    "LTM_name": "LTM Dec 23",
     "YTD_name": "F24 YTD"
 }
