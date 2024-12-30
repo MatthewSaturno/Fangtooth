@@ -1,9 +1,9 @@
 {
-  "company_name": "Hi There",
+  "company_name": "MAMMA MIA",
   "currency": "CAD",
   "denomination": "$",
-  "value_date": "2023-12-31",
-  "fiscal_year": "2023-03-31",
+  "value_date": "2023-10-31",
+  "fiscal_year": "2023-04-30",
   "chart_of_accounts": "Chart of Accounts.xlsx",
   "trial_balance": "TB11.xlsx"
 }
