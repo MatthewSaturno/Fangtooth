@@ -1,8 +1,8 @@
 {
-  "company_name": "FTI",
-  "currency": "CAD",
-  "denomination": "$",
-  "value_date": "2023-10-31",
+  "company_name": "Laser Tag Inc.",
+  "currency": "USD",
+  "denomination": "$000",
+  "value_date": "2023-11-30",
   "fiscal_year": "2023-07-31",
   "chart_of_accounts": "Chart of Accounts.xlsx",
   "trial_balance": "TB11.xlsx"
