@@ -1,8 +1,8 @@
 {
-  "company_name": "MattyBoy Inc.",
+  "company_name": "LegacyInc.",
   "currency": "USD",
   "denomination": "$000",
-  "value_date": "2023-10-31",
+  "value_date": "2023-07-31",
   "fiscal_year": "2023-04-30",
   "chart_of_accounts": "Chart of Accounts.xlsx",
   "trial_balance": "TB11.xlsx"
