@@ -26459,7 +26459,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1000 - Bank - CAD",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26475,7 +26475,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1001 - Bank - USD",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26491,7 +26491,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1002 - Bank - other currencies",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26507,7 +26507,7 @@
         "Detailed Grouping": "Marketable securities",
         "Account": "1100 - Marketable securities",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26523,7 +26523,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1200 - Accounts receivable - trade CAD",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26539,7 +26539,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1201 - Accounts receivable - trade USD",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26555,7 +26555,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1202 - Accounts receivable - other",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26571,7 +26571,7 @@
         "Detailed Grouping": "Inventory",
         "Account": "1300 - Inventory - t-shirts",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26587,7 +26587,7 @@
         "Detailed Grouping": "Inventory",
         "Account": "1301 - Inventory - hats",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26603,7 +26603,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1400 - Prepaid supplies",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26619,7 +26619,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1401 - Prepaid insurance",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26635,7 +26635,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1402 - Prepaid - other",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26651,7 +26651,7 @@
         "Detailed Grouping": "Other assets",
         "Account": "1500 - Other assets",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26667,7 +26667,7 @@
         "Detailed Grouping": "Furniture and fixtures",
         "Account": "1600 - Furniture and fixtures",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26683,7 +26683,7 @@
         "Detailed Grouping": "Vehicles",
         "Account": "1601 - Vehicles",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26699,7 +26699,7 @@
         "Detailed Grouping": "Office equipment",
         "Account": "1602 - Office equipment",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26715,7 +26715,7 @@
         "Detailed Grouping": "Leasehold improvements",
         "Account": "1603 - Leasehold improvements",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26731,7 +26731,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1700 - Accumulated depreciation - Furniture and fixtures",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26747,7 +26747,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1701 - Accumulated depreciation - Vehicles",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26763,7 +26763,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1702 - Accumulated depreciation - Office equipment",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26779,7 +26779,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1703 - Accumulated depreciation - Leasehold improvements",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26795,7 +26795,7 @@
         "Detailed Grouping": "Goodwill",
         "Account": "1800 - Goodwill",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26811,7 +26811,7 @@
         "Detailed Grouping": "Intangible assets",
         "Account": "1801 - Software",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26827,7 +26827,7 @@
         "Detailed Grouping": "Intangible assets",
         "Account": "1901 - Accumulated amortization - Software",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26843,7 +26843,7 @@
         "Detailed Grouping": "Trade payables",
         "Account": "2000 - Accounts payable - trade CAD",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26859,7 +26859,7 @@
         "Detailed Grouping": "Trade payables",
         "Account": "2002 - Accounts payable - other",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26875,7 +26875,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2100 - Accrued expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26891,7 +26891,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2101 - Accrued salaries and wages",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26907,7 +26907,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2102 - Accrued vacation pay",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26923,7 +26923,7 @@
         "Detailed Grouping": "Other accounts payable and accrued liabilities",
         "Account": "2103 - Sales tax liability",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26939,7 +26939,7 @@
         "Detailed Grouping": "Short term loan",
         "Account": "2200 - Short term loan - XYZ Bank",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26955,7 +26955,7 @@
         "Detailed Grouping": "Short term loan",
         "Account": "2201 - Short term loan - EFG Bank",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26971,7 +26971,7 @@
         "Detailed Grouping": "Customer deposits",
         "Account": "2300 - Customer deposits",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -26987,7 +26987,7 @@
         "Detailed Grouping": "Income taxes payable",
         "Account": "2400 - Income taxes payable - federal",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27003,7 +27003,7 @@
         "Detailed Grouping": "Income taxes payable",
         "Account": "2401 - Income taxes payable - provincial",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27019,7 +27019,7 @@
         "Detailed Grouping": "Term loan",
         "Account": "2500 - Term loan - ABC Bank",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27035,7 +27035,7 @@
         "Detailed Grouping": "Due to related parties",
         "Account": "2600 - Advances from Saturno Holdings Inc.",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27051,7 +27051,7 @@
         "Detailed Grouping": "Due to related parties",
         "Account": "2601 - Advances from Saturno Trust Co.",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27067,7 +27067,7 @@
         "Detailed Grouping": "Due to shareholders",
         "Account": "2700 - Shareholder loan - Matt Saturno",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27083,7 +27083,7 @@
         "Detailed Grouping": "Common shares",
         "Account": "3000 - Common shares",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27099,7 +27099,7 @@
         "Detailed Grouping": "Preferred shares",
         "Account": "3001 - Preference shares",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27115,7 +27115,7 @@
         "Detailed Grouping": "Retained earnings",
         "Account": "3002 - Dividends",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27131,7 +27131,7 @@
         "Detailed Grouping": "Retained earnings",
         "Account": "3003 - Retained earnings",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27147,7 +27147,7 @@
         "Detailed Grouping": "Hat sales",
         "Account": "4001 - Hat sales",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27163,7 +27163,7 @@
         "Detailed Grouping": "T-shirt sales",
         "Account": "4002 - T-shirt sales",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27179,7 +27179,7 @@
         "Detailed Grouping": "Hat cost of sales",
         "Account": "5001 - Hat cost of sales",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27195,7 +27195,7 @@
         "Detailed Grouping": "T-shirt cost of sales",
         "Account": "5002 - T-shirt cost of sales",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27211,7 +27211,7 @@
         "Detailed Grouping": "Promotions/ads",
         "Account": "6000 - Online marketing ads",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27227,7 +27227,7 @@
         "Detailed Grouping": "Promotions/ads",
         "Account": "6001 - Promotion - trade shows",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27243,7 +27243,7 @@
         "Detailed Grouping": "Other advertising and promotions",
         "Account": "6002 - Promotion - commercials",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27259,7 +27259,7 @@
         "Detailed Grouping": "Donations",
         "Account": "6003 - Donations - golf tournaments",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27275,7 +27275,7 @@
         "Detailed Grouping": "Depreciation",
         "Account": "6100 - Depreciation - fixed assets",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27291,7 +27291,7 @@
         "Detailed Grouping": "Amortization",
         "Account": "6101 - Amortization - software",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27307,7 +27307,7 @@
         "Detailed Grouping": "Insurance",
         "Account": "6200 - Insurance - stores",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27323,7 +27323,7 @@
         "Detailed Grouping": "Insurance",
         "Account": "6201 - Insurance - life insurance for Matthew Saturno",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27339,7 +27339,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6300 - Office supplies",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27355,7 +27355,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6301 - Mail/courier expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27371,7 +27371,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6302 - General office/store maintenance",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27387,7 +27387,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6303 - Cleaning services",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27403,7 +27403,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6304 - Parking",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27419,7 +27419,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6400 - Gas",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27435,7 +27435,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6401 - Electricity",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27451,7 +27451,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6402 - Water",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27467,7 +27467,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6500 - Client dinners",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27483,7 +27483,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6501 - Jays/Leafs/Raptors tickets",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27499,7 +27499,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6502 - Holiday parties",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27515,7 +27515,7 @@
         "Detailed Grouping": "Travel expenses",
         "Account": "6503 - Travel expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27531,7 +27531,7 @@
         "Detailed Grouping": "Telephone and internet",
         "Account": "6600 - Telephone expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27547,7 +27547,7 @@
         "Detailed Grouping": "Telephone and internet",
         "Account": "6601 - Internet expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27563,7 +27563,7 @@
         "Detailed Grouping": "Interest expense",
         "Account": "6700 - Interest on short term loans",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27579,7 +27579,7 @@
         "Detailed Grouping": "Interest expense",
         "Account": "6701 - Interest on long term loans",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27595,7 +27595,7 @@
         "Detailed Grouping": "Bank fees",
         "Account": "6702 - Bank charges",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27611,7 +27611,7 @@
         "Detailed Grouping": "Bad debt",
         "Account": "6800 - Customer write-offs",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27627,7 +27627,7 @@
         "Detailed Grouping": "Legal",
         "Account": "6900 - Legal costs",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27643,7 +27643,7 @@
         "Detailed Grouping": "Accounting",
         "Account": "6901 - Accounting costs",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27659,7 +27659,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6110 - Vehicle maintenance",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27675,7 +27675,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6111 - Other vehicle expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27691,7 +27691,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6112 - Vehicle fuel",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27707,7 +27707,7 @@
         "Detailed Grouping": "Rent",
         "Account": "6210 - Rent",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27723,7 +27723,7 @@
         "Detailed Grouping": "Freight",
         "Account": "6310 - Freight and delivery costs",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27739,7 +27739,7 @@
         "Detailed Grouping": "Management salaries",
         "Account": "6410 - Management salaries",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27755,7 +27755,7 @@
         "Detailed Grouping": "Salaries and wages",
         "Account": "6411 - Admin salaries",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27771,7 +27771,7 @@
         "Detailed Grouping": "Salaries and wages",
         "Account": "6412 - Sales salaries",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27787,7 +27787,7 @@
         "Detailed Grouping": "Investment income",
         "Account": "7000 - Investment income",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27803,7 +27803,7 @@
         "Detailed Grouping": "Gains/losses on sale of equipment",
         "Account": "7001 - Gains/losses on sale of equipment",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27819,7 +27819,7 @@
         "Detailed Grouping": "Foreign currency gains/losses",
         "Account": "7002 - Foreign currency gains/losses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27835,7 +27835,7 @@
         "Detailed Grouping": "Income taxes",
         "Account": "8000 - Income taxes",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-08-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27851,7 +27851,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1000 - Bank - CAD",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27867,7 +27867,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1001 - Bank - USD",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27883,7 +27883,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1002 - Bank - other currencies",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27899,7 +27899,7 @@
         "Detailed Grouping": "Marketable securities",
         "Account": "1100 - Marketable securities",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27915,7 +27915,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1200 - Accounts receivable - trade CAD",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27931,7 +27931,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1201 - Accounts receivable - trade USD",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27947,7 +27947,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1202 - Accounts receivable - other",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27963,7 +27963,7 @@
         "Detailed Grouping": "Inventory",
         "Account": "1300 - Inventory - t-shirts",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27979,7 +27979,7 @@
         "Detailed Grouping": "Inventory",
         "Account": "1301 - Inventory - hats",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -27995,7 +27995,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1400 - Prepaid supplies",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28011,7 +28011,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1401 - Prepaid insurance",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28027,7 +28027,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1402 - Prepaid - other",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28043,7 +28043,7 @@
         "Detailed Grouping": "Other assets",
         "Account": "1500 - Other assets",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28059,7 +28059,7 @@
         "Detailed Grouping": "Furniture and fixtures",
         "Account": "1600 - Furniture and fixtures",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28075,7 +28075,7 @@
         "Detailed Grouping": "Vehicles",
         "Account": "1601 - Vehicles",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28091,7 +28091,7 @@
         "Detailed Grouping": "Office equipment",
         "Account": "1602 - Office equipment",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28107,7 +28107,7 @@
         "Detailed Grouping": "Leasehold improvements",
         "Account": "1603 - Leasehold improvements",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28123,7 +28123,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1700 - Accumulated depreciation - Furniture and fixtures",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28139,7 +28139,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1701 - Accumulated depreciation - Vehicles",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28155,7 +28155,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1702 - Accumulated depreciation - Office equipment",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28171,7 +28171,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1703 - Accumulated depreciation - Leasehold improvements",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28187,7 +28187,7 @@
         "Detailed Grouping": "Goodwill",
         "Account": "1800 - Goodwill",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28203,7 +28203,7 @@
         "Detailed Grouping": "Intangible assets",
         "Account": "1801 - Software",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28219,7 +28219,7 @@
         "Detailed Grouping": "Intangible assets",
         "Account": "1901 - Accumulated amortization - Software",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28235,7 +28235,7 @@
         "Detailed Grouping": "Trade payables",
         "Account": "2000 - Accounts payable - trade CAD",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28251,7 +28251,7 @@
         "Detailed Grouping": "Trade payables",
         "Account": "2002 - Accounts payable - other",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28267,7 +28267,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2100 - Accrued expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28283,7 +28283,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2101 - Accrued salaries and wages",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28299,7 +28299,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2102 - Accrued vacation pay",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28315,7 +28315,7 @@
         "Detailed Grouping": "Other accounts payable and accrued liabilities",
         "Account": "2103 - Sales tax liability",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28331,7 +28331,7 @@
         "Detailed Grouping": "Short term loan",
         "Account": "2200 - Short term loan - XYZ Bank",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28347,7 +28347,7 @@
         "Detailed Grouping": "Short term loan",
         "Account": "2201 - Short term loan - EFG Bank",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28363,7 +28363,7 @@
         "Detailed Grouping": "Customer deposits",
         "Account": "2300 - Customer deposits",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28379,7 +28379,7 @@
         "Detailed Grouping": "Income taxes payable",
         "Account": "2400 - Income taxes payable - federal",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28395,7 +28395,7 @@
         "Detailed Grouping": "Income taxes payable",
         "Account": "2401 - Income taxes payable - provincial",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28411,7 +28411,7 @@
         "Detailed Grouping": "Term loan",
         "Account": "2500 - Term loan - ABC Bank",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28427,7 +28427,7 @@
         "Detailed Grouping": "Due to related parties",
         "Account": "2600 - Advances from Saturno Holdings Inc.",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28443,7 +28443,7 @@
         "Detailed Grouping": "Due to related parties",
         "Account": "2601 - Advances from Saturno Trust Co.",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28459,7 +28459,7 @@
         "Detailed Grouping": "Due to shareholders",
         "Account": "2700 - Shareholder loan - Matt Saturno",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28475,7 +28475,7 @@
         "Detailed Grouping": "Common shares",
         "Account": "3000 - Common shares",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28491,7 +28491,7 @@
         "Detailed Grouping": "Preferred shares",
         "Account": "3001 - Preference shares",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28507,7 +28507,7 @@
         "Detailed Grouping": "Retained earnings",
         "Account": "3002 - Dividends",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28523,7 +28523,7 @@
         "Detailed Grouping": "Retained earnings",
         "Account": "3003 - Retained earnings",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28539,7 +28539,7 @@
         "Detailed Grouping": "Hat sales",
         "Account": "4001 - Hat sales",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28555,7 +28555,7 @@
         "Detailed Grouping": "T-shirt sales",
         "Account": "4002 - T-shirt sales",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28571,7 +28571,7 @@
         "Detailed Grouping": "Hat cost of sales",
         "Account": "5001 - Hat cost of sales",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28587,7 +28587,7 @@
         "Detailed Grouping": "T-shirt cost of sales",
         "Account": "5002 - T-shirt cost of sales",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28603,7 +28603,7 @@
         "Detailed Grouping": "Promotions/ads",
         "Account": "6000 - Online marketing ads",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28619,7 +28619,7 @@
         "Detailed Grouping": "Promotions/ads",
         "Account": "6001 - Promotion - trade shows",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28635,7 +28635,7 @@
         "Detailed Grouping": "Other advertising and promotions",
         "Account": "6002 - Promotion - commercials",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28651,7 +28651,7 @@
         "Detailed Grouping": "Donations",
         "Account": "6003 - Donations - golf tournaments",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28667,7 +28667,7 @@
         "Detailed Grouping": "Depreciation",
         "Account": "6100 - Depreciation - fixed assets",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28683,7 +28683,7 @@
         "Detailed Grouping": "Amortization",
         "Account": "6101 - Amortization - software",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28699,7 +28699,7 @@
         "Detailed Grouping": "Insurance",
         "Account": "6200 - Insurance - stores",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28715,7 +28715,7 @@
         "Detailed Grouping": "Insurance",
         "Account": "6201 - Insurance - life insurance for Matthew Saturno",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28731,7 +28731,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6300 - Office supplies",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28747,7 +28747,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6301 - Mail/courier expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28763,7 +28763,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6302 - General office/store maintenance",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28779,7 +28779,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6303 - Cleaning services",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28795,7 +28795,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6304 - Parking",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28811,7 +28811,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6400 - Gas",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28827,7 +28827,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6401 - Electricity",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28843,7 +28843,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6402 - Water",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28859,7 +28859,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6500 - Client dinners",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28875,7 +28875,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6501 - Jays/Leafs/Raptors tickets",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28891,7 +28891,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6502 - Holiday parties",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28907,7 +28907,7 @@
         "Detailed Grouping": "Travel expenses",
         "Account": "6503 - Travel expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28923,7 +28923,7 @@
         "Detailed Grouping": "Telephone and internet",
         "Account": "6600 - Telephone expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28939,7 +28939,7 @@
         "Detailed Grouping": "Telephone and internet",
         "Account": "6601 - Internet expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28955,7 +28955,7 @@
         "Detailed Grouping": "Interest expense",
         "Account": "6700 - Interest on short term loans",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28971,7 +28971,7 @@
         "Detailed Grouping": "Interest expense",
         "Account": "6701 - Interest on long term loans",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -28987,7 +28987,7 @@
         "Detailed Grouping": "Bank fees",
         "Account": "6702 - Bank charges",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29003,7 +29003,7 @@
         "Detailed Grouping": "Bad debt",
         "Account": "6800 - Customer write-offs",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29019,7 +29019,7 @@
         "Detailed Grouping": "Legal",
         "Account": "6900 - Legal costs",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29035,7 +29035,7 @@
         "Detailed Grouping": "Accounting",
         "Account": "6901 - Accounting costs",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29051,7 +29051,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6110 - Vehicle maintenance",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29067,7 +29067,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6111 - Other vehicle expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29083,7 +29083,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6112 - Vehicle fuel",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29099,7 +29099,7 @@
         "Detailed Grouping": "Rent",
         "Account": "6210 - Rent",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29115,7 +29115,7 @@
         "Detailed Grouping": "Freight",
         "Account": "6310 - Freight and delivery costs",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29131,7 +29131,7 @@
         "Detailed Grouping": "Management salaries",
         "Account": "6410 - Management salaries",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29147,7 +29147,7 @@
         "Detailed Grouping": "Salaries and wages",
         "Account": "6411 - Admin salaries",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29163,7 +29163,7 @@
         "Detailed Grouping": "Salaries and wages",
         "Account": "6412 - Sales salaries",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29179,7 +29179,7 @@
         "Detailed Grouping": "Investment income",
         "Account": "7000 - Investment income",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29195,7 +29195,7 @@
         "Detailed Grouping": "Gains/losses on sale of equipment",
         "Account": "7001 - Gains/losses on sale of equipment",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29211,7 +29211,7 @@
         "Detailed Grouping": "Foreign currency gains/losses",
         "Account": "7002 - Foreign currency gains/losses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29227,7 +29227,7 @@
         "Detailed Grouping": "Income taxes",
         "Account": "8000 - Income taxes",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-09-30",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29243,7 +29243,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1000 - Bank - CAD",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29259,7 +29259,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1001 - Bank - USD",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29275,7 +29275,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1002 - Bank - other currencies",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29291,7 +29291,7 @@
         "Detailed Grouping": "Marketable securities",
         "Account": "1100 - Marketable securities",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29307,7 +29307,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1200 - Accounts receivable - trade CAD",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29323,7 +29323,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1201 - Accounts receivable - trade USD",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29339,7 +29339,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1202 - Accounts receivable - other",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29355,7 +29355,7 @@
         "Detailed Grouping": "Inventory",
         "Account": "1300 - Inventory - t-shirts",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29371,7 +29371,7 @@
         "Detailed Grouping": "Inventory",
         "Account": "1301 - Inventory - hats",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29387,7 +29387,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1400 - Prepaid supplies",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29403,7 +29403,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1401 - Prepaid insurance",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29419,7 +29419,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1402 - Prepaid - other",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29435,7 +29435,7 @@
         "Detailed Grouping": "Other assets",
         "Account": "1500 - Other assets",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29451,7 +29451,7 @@
         "Detailed Grouping": "Furniture and fixtures",
         "Account": "1600 - Furniture and fixtures",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29467,7 +29467,7 @@
         "Detailed Grouping": "Vehicles",
         "Account": "1601 - Vehicles",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29483,7 +29483,7 @@
         "Detailed Grouping": "Office equipment",
         "Account": "1602 - Office equipment",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29499,7 +29499,7 @@
         "Detailed Grouping": "Leasehold improvements",
         "Account": "1603 - Leasehold improvements",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29515,7 +29515,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1700 - Accumulated depreciation - Furniture and fixtures",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29531,7 +29531,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1701 - Accumulated depreciation - Vehicles",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29547,7 +29547,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1702 - Accumulated depreciation - Office equipment",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29563,7 +29563,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1703 - Accumulated depreciation - Leasehold improvements",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29579,7 +29579,7 @@
         "Detailed Grouping": "Goodwill",
         "Account": "1800 - Goodwill",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29595,7 +29595,7 @@
         "Detailed Grouping": "Intangible assets",
         "Account": "1801 - Software",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29611,7 +29611,7 @@
         "Detailed Grouping": "Intangible assets",
         "Account": "1901 - Accumulated amortization - Software",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29627,7 +29627,7 @@
         "Detailed Grouping": "Trade payables",
         "Account": "2000 - Accounts payable - trade CAD",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29643,7 +29643,7 @@
         "Detailed Grouping": "Trade payables",
         "Account": "2002 - Accounts payable - other",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29659,7 +29659,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2100 - Accrued expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29675,7 +29675,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2101 - Accrued salaries and wages",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29691,7 +29691,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2102 - Accrued vacation pay",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29707,7 +29707,7 @@
         "Detailed Grouping": "Other accounts payable and accrued liabilities",
         "Account": "2103 - Sales tax liability",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29723,7 +29723,7 @@
         "Detailed Grouping": "Short term loan",
         "Account": "2200 - Short term loan - XYZ Bank",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29739,7 +29739,7 @@
         "Detailed Grouping": "Short term loan",
         "Account": "2201 - Short term loan - EFG Bank",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29755,7 +29755,7 @@
         "Detailed Grouping": "Customer deposits",
         "Account": "2300 - Customer deposits",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29771,7 +29771,7 @@
         "Detailed Grouping": "Income taxes payable",
         "Account": "2400 - Income taxes payable - federal",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29787,7 +29787,7 @@
         "Detailed Grouping": "Income taxes payable",
         "Account": "2401 - Income taxes payable - provincial",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29803,7 +29803,7 @@
         "Detailed Grouping": "Term loan",
         "Account": "2500 - Term loan - ABC Bank",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29819,7 +29819,7 @@
         "Detailed Grouping": "Due to related parties",
         "Account": "2600 - Advances from Saturno Holdings Inc.",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29835,7 +29835,7 @@
         "Detailed Grouping": "Due to related parties",
         "Account": "2601 - Advances from Saturno Trust Co.",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29851,7 +29851,7 @@
         "Detailed Grouping": "Due to shareholders",
         "Account": "2700 - Shareholder loan - Matt Saturno",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29867,7 +29867,7 @@
         "Detailed Grouping": "Common shares",
         "Account": "3000 - Common shares",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29883,7 +29883,7 @@
         "Detailed Grouping": "Preferred shares",
         "Account": "3001 - Preference shares",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29899,7 +29899,7 @@
         "Detailed Grouping": "Retained earnings",
         "Account": "3002 - Dividends",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29915,7 +29915,7 @@
         "Detailed Grouping": "Retained earnings",
         "Account": "3003 - Retained earnings",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29931,7 +29931,7 @@
         "Detailed Grouping": "Hat sales",
         "Account": "4001 - Hat sales",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29947,7 +29947,7 @@
         "Detailed Grouping": "T-shirt sales",
         "Account": "4002 - T-shirt sales",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29963,7 +29963,7 @@
         "Detailed Grouping": "Hat cost of sales",
         "Account": "5001 - Hat cost of sales",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29979,7 +29979,7 @@
         "Detailed Grouping": "T-shirt cost of sales",
         "Account": "5002 - T-shirt cost of sales",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -29995,7 +29995,7 @@
         "Detailed Grouping": "Promotions/ads",
         "Account": "6000 - Online marketing ads",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30011,7 +30011,7 @@
         "Detailed Grouping": "Promotions/ads",
         "Account": "6001 - Promotion - trade shows",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30027,7 +30027,7 @@
         "Detailed Grouping": "Other advertising and promotions",
         "Account": "6002 - Promotion - commercials",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30043,7 +30043,7 @@
         "Detailed Grouping": "Donations",
         "Account": "6003 - Donations - golf tournaments",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30059,7 +30059,7 @@
         "Detailed Grouping": "Depreciation",
         "Account": "6100 - Depreciation - fixed assets",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30075,7 +30075,7 @@
         "Detailed Grouping": "Amortization",
         "Account": "6101 - Amortization - software",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30091,7 +30091,7 @@
         "Detailed Grouping": "Insurance",
         "Account": "6200 - Insurance - stores",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30107,7 +30107,7 @@
         "Detailed Grouping": "Insurance",
         "Account": "6201 - Insurance - life insurance for Matthew Saturno",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30123,7 +30123,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6300 - Office supplies",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30139,7 +30139,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6301 - Mail/courier expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30155,7 +30155,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6302 - General office/store maintenance",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30171,7 +30171,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6303 - Cleaning services",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30187,7 +30187,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6304 - Parking",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30203,7 +30203,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6400 - Gas",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30219,7 +30219,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6401 - Electricity",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30235,7 +30235,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6402 - Water",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30251,7 +30251,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6500 - Client dinners",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30267,7 +30267,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6501 - Jays/Leafs/Raptors tickets",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30283,7 +30283,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6502 - Holiday parties",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30299,7 +30299,7 @@
         "Detailed Grouping": "Travel expenses",
         "Account": "6503 - Travel expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30315,7 +30315,7 @@
         "Detailed Grouping": "Telephone and internet",
         "Account": "6600 - Telephone expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30331,7 +30331,7 @@
         "Detailed Grouping": "Telephone and internet",
         "Account": "6601 - Internet expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30347,7 +30347,7 @@
         "Detailed Grouping": "Interest expense",
         "Account": "6700 - Interest on short term loans",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30363,7 +30363,7 @@
         "Detailed Grouping": "Interest expense",
         "Account": "6701 - Interest on long term loans",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30379,7 +30379,7 @@
         "Detailed Grouping": "Bank fees",
         "Account": "6702 - Bank charges",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30395,7 +30395,7 @@
         "Detailed Grouping": "Bad debt",
         "Account": "6800 - Customer write-offs",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30411,7 +30411,7 @@
         "Detailed Grouping": "Legal",
         "Account": "6900 - Legal costs",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30427,7 +30427,7 @@
         "Detailed Grouping": "Accounting",
         "Account": "6901 - Accounting costs",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30443,7 +30443,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6110 - Vehicle maintenance",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30459,7 +30459,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6111 - Other vehicle expenses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30475,7 +30475,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6112 - Vehicle fuel",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30491,7 +30491,7 @@
         "Detailed Grouping": "Rent",
         "Account": "6210 - Rent",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30507,7 +30507,7 @@
         "Detailed Grouping": "Freight",
         "Account": "6310 - Freight and delivery costs",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30523,7 +30523,7 @@
         "Detailed Grouping": "Management salaries",
         "Account": "6410 - Management salaries",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30539,7 +30539,7 @@
         "Detailed Grouping": "Salaries and wages",
         "Account": "6411 - Admin salaries",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30555,7 +30555,7 @@
         "Detailed Grouping": "Salaries and wages",
         "Account": "6412 - Sales salaries",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30571,7 +30571,7 @@
         "Detailed Grouping": "Investment income",
         "Account": "7000 - Investment income",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30587,7 +30587,7 @@
         "Detailed Grouping": "Gains/losses on sale of equipment",
         "Account": "7001 - Gains/losses on sale of equipment",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30603,7 +30603,7 @@
         "Detailed Grouping": "Foreign currency gains/losses",
         "Account": "7002 - Foreign currency gains/losses",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -30619,7 +30619,7 @@
         "Detailed Grouping": "Income taxes",
         "Account": "8000 - Income taxes",
         "Fiscal Year": "F23",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Last Day of Month": "2022-10-31",
         "Fiscal Quarter": "F23-Q2"
     },
@@ -43163,7 +43163,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1000 - Bank - CAD",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43179,7 +43179,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1001 - Bank - USD",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43195,7 +43195,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1002 - Bank - other currencies",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43211,7 +43211,7 @@
         "Detailed Grouping": "Marketable securities",
         "Account": "1100 - Marketable securities",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43227,7 +43227,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1200 - Accounts receivable - trade CAD",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43243,7 +43243,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1201 - Accounts receivable - trade USD",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43259,7 +43259,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1202 - Accounts receivable - other",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43275,7 +43275,7 @@
         "Detailed Grouping": "Inventory",
         "Account": "1300 - Inventory - t-shirts",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43291,7 +43291,7 @@
         "Detailed Grouping": "Inventory",
         "Account": "1301 - Inventory - hats",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43307,7 +43307,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1400 - Prepaid supplies",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43323,7 +43323,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1401 - Prepaid insurance",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43339,7 +43339,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1402 - Prepaid - other",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43355,7 +43355,7 @@
         "Detailed Grouping": "Other assets",
         "Account": "1500 - Other assets",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43371,7 +43371,7 @@
         "Detailed Grouping": "Furniture and fixtures",
         "Account": "1600 - Furniture and fixtures",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43387,7 +43387,7 @@
         "Detailed Grouping": "Vehicles",
         "Account": "1601 - Vehicles",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43403,7 +43403,7 @@
         "Detailed Grouping": "Office equipment",
         "Account": "1602 - Office equipment",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43419,7 +43419,7 @@
         "Detailed Grouping": "Leasehold improvements",
         "Account": "1603 - Leasehold improvements",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43435,7 +43435,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1700 - Accumulated depreciation - Furniture and fixtures",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43451,7 +43451,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1701 - Accumulated depreciation - Vehicles",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43467,7 +43467,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1702 - Accumulated depreciation - Office equipment",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43483,7 +43483,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1703 - Accumulated depreciation - Leasehold improvements",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43499,7 +43499,7 @@
         "Detailed Grouping": "Goodwill",
         "Account": "1800 - Goodwill",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43515,7 +43515,7 @@
         "Detailed Grouping": "Intangible assets",
         "Account": "1801 - Software",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43531,7 +43531,7 @@
         "Detailed Grouping": "Intangible assets",
         "Account": "1901 - Accumulated amortization - Software",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43547,7 +43547,7 @@
         "Detailed Grouping": "Trade payables",
         "Account": "2000 - Accounts payable - trade CAD",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43563,7 +43563,7 @@
         "Detailed Grouping": "Trade payables",
         "Account": "2002 - Accounts payable - other",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43579,7 +43579,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2100 - Accrued expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43595,7 +43595,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2101 - Accrued salaries and wages",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43611,7 +43611,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2102 - Accrued vacation pay",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43627,7 +43627,7 @@
         "Detailed Grouping": "Other accounts payable and accrued liabilities",
         "Account": "2103 - Sales tax liability",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43643,7 +43643,7 @@
         "Detailed Grouping": "Short term loan",
         "Account": "2200 - Short term loan - XYZ Bank",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43659,7 +43659,7 @@
         "Detailed Grouping": "Short term loan",
         "Account": "2201 - Short term loan - EFG Bank",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43675,7 +43675,7 @@
         "Detailed Grouping": "Customer deposits",
         "Account": "2300 - Customer deposits",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43691,7 +43691,7 @@
         "Detailed Grouping": "Income taxes payable",
         "Account": "2400 - Income taxes payable - federal",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43707,7 +43707,7 @@
         "Detailed Grouping": "Income taxes payable",
         "Account": "2401 - Income taxes payable - provincial",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43723,7 +43723,7 @@
         "Detailed Grouping": "Term loan",
         "Account": "2500 - Term loan - ABC Bank",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43739,7 +43739,7 @@
         "Detailed Grouping": "Due to related parties",
         "Account": "2600 - Advances from Saturno Holdings Inc.",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43755,7 +43755,7 @@
         "Detailed Grouping": "Due to related parties",
         "Account": "2601 - Advances from Saturno Trust Co.",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43771,7 +43771,7 @@
         "Detailed Grouping": "Due to shareholders",
         "Account": "2700 - Shareholder loan - Matt Saturno",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43787,7 +43787,7 @@
         "Detailed Grouping": "Common shares",
         "Account": "3000 - Common shares",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43803,7 +43803,7 @@
         "Detailed Grouping": "Preferred shares",
         "Account": "3001 - Preference shares",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43819,7 +43819,7 @@
         "Detailed Grouping": "Retained earnings",
         "Account": "3002 - Dividends",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43835,7 +43835,7 @@
         "Detailed Grouping": "Retained earnings",
         "Account": "3003 - Retained earnings",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43851,7 +43851,7 @@
         "Detailed Grouping": "Hat sales",
         "Account": "4001 - Hat sales",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43867,7 +43867,7 @@
         "Detailed Grouping": "T-shirt sales",
         "Account": "4002 - T-shirt sales",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43883,7 +43883,7 @@
         "Detailed Grouping": "Hat cost of sales",
         "Account": "5001 - Hat cost of sales",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43899,7 +43899,7 @@
         "Detailed Grouping": "T-shirt cost of sales",
         "Account": "5002 - T-shirt cost of sales",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43915,7 +43915,7 @@
         "Detailed Grouping": "Promotions/ads",
         "Account": "6000 - Online marketing ads",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43931,7 +43931,7 @@
         "Detailed Grouping": "Promotions/ads",
         "Account": "6001 - Promotion - trade shows",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43947,7 +43947,7 @@
         "Detailed Grouping": "Other advertising and promotions",
         "Account": "6002 - Promotion - commercials",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43963,7 +43963,7 @@
         "Detailed Grouping": "Donations",
         "Account": "6003 - Donations - golf tournaments",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43979,7 +43979,7 @@
         "Detailed Grouping": "Depreciation",
         "Account": "6100 - Depreciation - fixed assets",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -43995,7 +43995,7 @@
         "Detailed Grouping": "Amortization",
         "Account": "6101 - Amortization - software",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44011,7 +44011,7 @@
         "Detailed Grouping": "Insurance",
         "Account": "6200 - Insurance - stores",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44027,7 +44027,7 @@
         "Detailed Grouping": "Insurance",
         "Account": "6201 - Insurance - life insurance for Matthew Saturno",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44043,7 +44043,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6300 - Office supplies",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44059,7 +44059,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6301 - Mail/courier expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44075,7 +44075,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6302 - General office/store maintenance",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44091,7 +44091,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6303 - Cleaning services",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44107,7 +44107,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6304 - Parking",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44123,7 +44123,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6400 - Gas",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44139,7 +44139,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6401 - Electricity",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44155,7 +44155,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6402 - Water",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44171,7 +44171,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6500 - Client dinners",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44187,7 +44187,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6501 - Jays/Leafs/Raptors tickets",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44203,7 +44203,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6502 - Holiday parties",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44219,7 +44219,7 @@
         "Detailed Grouping": "Travel expenses",
         "Account": "6503 - Travel expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44235,7 +44235,7 @@
         "Detailed Grouping": "Telephone and internet",
         "Account": "6600 - Telephone expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44251,7 +44251,7 @@
         "Detailed Grouping": "Telephone and internet",
         "Account": "6601 - Internet expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44267,7 +44267,7 @@
         "Detailed Grouping": "Interest expense",
         "Account": "6700 - Interest on short term loans",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44283,7 +44283,7 @@
         "Detailed Grouping": "Interest expense",
         "Account": "6701 - Interest on long term loans",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44299,7 +44299,7 @@
         "Detailed Grouping": "Bank fees",
         "Account": "6702 - Bank charges",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44315,7 +44315,7 @@
         "Detailed Grouping": "Bad debt",
         "Account": "6800 - Customer write-offs",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44331,7 +44331,7 @@
         "Detailed Grouping": "Legal",
         "Account": "6900 - Legal costs",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44347,7 +44347,7 @@
         "Detailed Grouping": "Accounting",
         "Account": "6901 - Accounting costs",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44363,7 +44363,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6110 - Vehicle maintenance",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44379,7 +44379,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6111 - Other vehicle expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44395,7 +44395,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6112 - Vehicle fuel",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44411,7 +44411,7 @@
         "Detailed Grouping": "Rent",
         "Account": "6210 - Rent",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44427,7 +44427,7 @@
         "Detailed Grouping": "Freight",
         "Account": "6310 - Freight and delivery costs",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44443,7 +44443,7 @@
         "Detailed Grouping": "Management salaries",
         "Account": "6410 - Management salaries",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44459,7 +44459,7 @@
         "Detailed Grouping": "Salaries and wages",
         "Account": "6411 - Admin salaries",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44475,7 +44475,7 @@
         "Detailed Grouping": "Salaries and wages",
         "Account": "6412 - Sales salaries",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44491,7 +44491,7 @@
         "Detailed Grouping": "Investment income",
         "Account": "7000 - Investment income",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44507,7 +44507,7 @@
         "Detailed Grouping": "Gains/losses on sale of equipment",
         "Account": "7001 - Gains/losses on sale of equipment",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44523,7 +44523,7 @@
         "Detailed Grouping": "Foreign currency gains/losses",
         "Account": "7002 - Foreign currency gains/losses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44539,7 +44539,7 @@
         "Detailed Grouping": "Income taxes",
         "Account": "8000 - Income taxes",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-08-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44555,7 +44555,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1000 - Bank - CAD",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44571,7 +44571,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1001 - Bank - USD",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44587,7 +44587,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1002 - Bank - other currencies",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44603,7 +44603,7 @@
         "Detailed Grouping": "Marketable securities",
         "Account": "1100 - Marketable securities",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44619,7 +44619,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1200 - Accounts receivable - trade CAD",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44635,7 +44635,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1201 - Accounts receivable - trade USD",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44651,7 +44651,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1202 - Accounts receivable - other",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44667,7 +44667,7 @@
         "Detailed Grouping": "Inventory",
         "Account": "1300 - Inventory - t-shirts",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44683,7 +44683,7 @@
         "Detailed Grouping": "Inventory",
         "Account": "1301 - Inventory - hats",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44699,7 +44699,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1400 - Prepaid supplies",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44715,7 +44715,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1401 - Prepaid insurance",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44731,7 +44731,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1402 - Prepaid - other",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44747,7 +44747,7 @@
         "Detailed Grouping": "Other assets",
         "Account": "1500 - Other assets",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44763,7 +44763,7 @@
         "Detailed Grouping": "Furniture and fixtures",
         "Account": "1600 - Furniture and fixtures",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44779,7 +44779,7 @@
         "Detailed Grouping": "Vehicles",
         "Account": "1601 - Vehicles",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44795,7 +44795,7 @@
         "Detailed Grouping": "Office equipment",
         "Account": "1602 - Office equipment",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44811,7 +44811,7 @@
         "Detailed Grouping": "Leasehold improvements",
         "Account": "1603 - Leasehold improvements",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44827,7 +44827,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1700 - Accumulated depreciation - Furniture and fixtures",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44843,7 +44843,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1701 - Accumulated depreciation - Vehicles",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44859,7 +44859,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1702 - Accumulated depreciation - Office equipment",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44875,7 +44875,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1703 - Accumulated depreciation - Leasehold improvements",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44891,7 +44891,7 @@
         "Detailed Grouping": "Goodwill",
         "Account": "1800 - Goodwill",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44907,7 +44907,7 @@
         "Detailed Grouping": "Intangible assets",
         "Account": "1801 - Software",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44923,7 +44923,7 @@
         "Detailed Grouping": "Intangible assets",
         "Account": "1901 - Accumulated amortization - Software",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44939,7 +44939,7 @@
         "Detailed Grouping": "Trade payables",
         "Account": "2000 - Accounts payable - trade CAD",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44955,7 +44955,7 @@
         "Detailed Grouping": "Trade payables",
         "Account": "2002 - Accounts payable - other",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44971,7 +44971,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2100 - Accrued expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -44987,7 +44987,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2101 - Accrued salaries and wages",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45003,7 +45003,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2102 - Accrued vacation pay",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45019,7 +45019,7 @@
         "Detailed Grouping": "Other accounts payable and accrued liabilities",
         "Account": "2103 - Sales tax liability",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45035,7 +45035,7 @@
         "Detailed Grouping": "Short term loan",
         "Account": "2200 - Short term loan - XYZ Bank",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45051,7 +45051,7 @@
         "Detailed Grouping": "Short term loan",
         "Account": "2201 - Short term loan - EFG Bank",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45067,7 +45067,7 @@
         "Detailed Grouping": "Customer deposits",
         "Account": "2300 - Customer deposits",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45083,7 +45083,7 @@
         "Detailed Grouping": "Income taxes payable",
         "Account": "2400 - Income taxes payable - federal",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45099,7 +45099,7 @@
         "Detailed Grouping": "Income taxes payable",
         "Account": "2401 - Income taxes payable - provincial",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45115,7 +45115,7 @@
         "Detailed Grouping": "Term loan",
         "Account": "2500 - Term loan - ABC Bank",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45131,7 +45131,7 @@
         "Detailed Grouping": "Due to related parties",
         "Account": "2600 - Advances from Saturno Holdings Inc.",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45147,7 +45147,7 @@
         "Detailed Grouping": "Due to related parties",
         "Account": "2601 - Advances from Saturno Trust Co.",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45163,7 +45163,7 @@
         "Detailed Grouping": "Due to shareholders",
         "Account": "2700 - Shareholder loan - Matt Saturno",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45179,7 +45179,7 @@
         "Detailed Grouping": "Common shares",
         "Account": "3000 - Common shares",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45195,7 +45195,7 @@
         "Detailed Grouping": "Preferred shares",
         "Account": "3001 - Preference shares",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45211,7 +45211,7 @@
         "Detailed Grouping": "Retained earnings",
         "Account": "3002 - Dividends",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45227,7 +45227,7 @@
         "Detailed Grouping": "Retained earnings",
         "Account": "3003 - Retained earnings",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45243,7 +45243,7 @@
         "Detailed Grouping": "Hat sales",
         "Account": "4001 - Hat sales",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45259,7 +45259,7 @@
         "Detailed Grouping": "T-shirt sales",
         "Account": "4002 - T-shirt sales",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45275,7 +45275,7 @@
         "Detailed Grouping": "Hat cost of sales",
         "Account": "5001 - Hat cost of sales",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45291,7 +45291,7 @@
         "Detailed Grouping": "T-shirt cost of sales",
         "Account": "5002 - T-shirt cost of sales",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45307,7 +45307,7 @@
         "Detailed Grouping": "Promotions/ads",
         "Account": "6000 - Online marketing ads",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45323,7 +45323,7 @@
         "Detailed Grouping": "Promotions/ads",
         "Account": "6001 - Promotion - trade shows",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45339,7 +45339,7 @@
         "Detailed Grouping": "Other advertising and promotions",
         "Account": "6002 - Promotion - commercials",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45355,7 +45355,7 @@
         "Detailed Grouping": "Donations",
         "Account": "6003 - Donations - golf tournaments",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45371,7 +45371,7 @@
         "Detailed Grouping": "Depreciation",
         "Account": "6100 - Depreciation - fixed assets",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45387,7 +45387,7 @@
         "Detailed Grouping": "Amortization",
         "Account": "6101 - Amortization - software",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45403,7 +45403,7 @@
         "Detailed Grouping": "Insurance",
         "Account": "6200 - Insurance - stores",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45419,7 +45419,7 @@
         "Detailed Grouping": "Insurance",
         "Account": "6201 - Insurance - life insurance for Matthew Saturno",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45435,7 +45435,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6300 - Office supplies",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45451,7 +45451,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6301 - Mail/courier expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45467,7 +45467,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6302 - General office/store maintenance",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45483,7 +45483,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6303 - Cleaning services",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45499,7 +45499,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6304 - Parking",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45515,7 +45515,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6400 - Gas",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45531,7 +45531,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6401 - Electricity",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45547,7 +45547,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6402 - Water",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45563,7 +45563,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6500 - Client dinners",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45579,7 +45579,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6501 - Jays/Leafs/Raptors tickets",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45595,7 +45595,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6502 - Holiday parties",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45611,7 +45611,7 @@
         "Detailed Grouping": "Travel expenses",
         "Account": "6503 - Travel expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45627,7 +45627,7 @@
         "Detailed Grouping": "Telephone and internet",
         "Account": "6600 - Telephone expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45643,7 +45643,7 @@
         "Detailed Grouping": "Telephone and internet",
         "Account": "6601 - Internet expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45659,7 +45659,7 @@
         "Detailed Grouping": "Interest expense",
         "Account": "6700 - Interest on short term loans",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45675,7 +45675,7 @@
         "Detailed Grouping": "Interest expense",
         "Account": "6701 - Interest on long term loans",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45691,7 +45691,7 @@
         "Detailed Grouping": "Bank fees",
         "Account": "6702 - Bank charges",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45707,7 +45707,7 @@
         "Detailed Grouping": "Bad debt",
         "Account": "6800 - Customer write-offs",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45723,7 +45723,7 @@
         "Detailed Grouping": "Legal",
         "Account": "6900 - Legal costs",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45739,7 +45739,7 @@
         "Detailed Grouping": "Accounting",
         "Account": "6901 - Accounting costs",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45755,7 +45755,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6110 - Vehicle maintenance",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45771,7 +45771,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6111 - Other vehicle expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45787,7 +45787,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6112 - Vehicle fuel",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45803,7 +45803,7 @@
         "Detailed Grouping": "Rent",
         "Account": "6210 - Rent",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45819,7 +45819,7 @@
         "Detailed Grouping": "Freight",
         "Account": "6310 - Freight and delivery costs",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45835,7 +45835,7 @@
         "Detailed Grouping": "Management salaries",
         "Account": "6410 - Management salaries",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45851,7 +45851,7 @@
         "Detailed Grouping": "Salaries and wages",
         "Account": "6411 - Admin salaries",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45867,7 +45867,7 @@
         "Detailed Grouping": "Salaries and wages",
         "Account": "6412 - Sales salaries",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45883,7 +45883,7 @@
         "Detailed Grouping": "Investment income",
         "Account": "7000 - Investment income",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45899,7 +45899,7 @@
         "Detailed Grouping": "Gains/losses on sale of equipment",
         "Account": "7001 - Gains/losses on sale of equipment",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45915,7 +45915,7 @@
         "Detailed Grouping": "Foreign currency gains/losses",
         "Account": "7002 - Foreign currency gains/losses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45931,7 +45931,7 @@
         "Detailed Grouping": "Income taxes",
         "Account": "8000 - Income taxes",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-09-30",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45947,7 +45947,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1000 - Bank - CAD",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45963,7 +45963,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1001 - Bank - USD",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45979,7 +45979,7 @@
         "Detailed Grouping": "Cash",
         "Account": "1002 - Bank - other currencies",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -45995,7 +45995,7 @@
         "Detailed Grouping": "Marketable securities",
         "Account": "1100 - Marketable securities",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46011,7 +46011,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1200 - Accounts receivable - trade CAD",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46027,7 +46027,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1201 - Accounts receivable - trade USD",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46043,7 +46043,7 @@
         "Detailed Grouping": "Accounts receivable",
         "Account": "1202 - Accounts receivable - other",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46059,7 +46059,7 @@
         "Detailed Grouping": "Inventory",
         "Account": "1300 - Inventory - t-shirts",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46075,7 +46075,7 @@
         "Detailed Grouping": "Inventory",
         "Account": "1301 - Inventory - hats",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46091,7 +46091,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1400 - Prepaid supplies",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46107,7 +46107,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1401 - Prepaid insurance",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46123,7 +46123,7 @@
         "Detailed Grouping": "Prepaird expenses",
         "Account": "1402 - Prepaid - other",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46139,7 +46139,7 @@
         "Detailed Grouping": "Other assets",
         "Account": "1500 - Other assets",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46155,7 +46155,7 @@
         "Detailed Grouping": "Furniture and fixtures",
         "Account": "1600 - Furniture and fixtures",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46171,7 +46171,7 @@
         "Detailed Grouping": "Vehicles",
         "Account": "1601 - Vehicles",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46187,7 +46187,7 @@
         "Detailed Grouping": "Office equipment",
         "Account": "1602 - Office equipment",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46203,7 +46203,7 @@
         "Detailed Grouping": "Leasehold improvements",
         "Account": "1603 - Leasehold improvements",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46219,7 +46219,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1700 - Accumulated depreciation - Furniture and fixtures",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46235,7 +46235,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1701 - Accumulated depreciation - Vehicles",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46251,7 +46251,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1702 - Accumulated depreciation - Office equipment",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46267,7 +46267,7 @@
         "Detailed Grouping": "Accumulated depreciation",
         "Account": "1703 - Accumulated depreciation - Leasehold improvements",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46283,7 +46283,7 @@
         "Detailed Grouping": "Goodwill",
         "Account": "1800 - Goodwill",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46299,7 +46299,7 @@
         "Detailed Grouping": "Intangible assets",
         "Account": "1801 - Software",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46315,7 +46315,7 @@
         "Detailed Grouping": "Intangible assets",
         "Account": "1901 - Accumulated amortization - Software",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46331,7 +46331,7 @@
         "Detailed Grouping": "Trade payables",
         "Account": "2000 - Accounts payable - trade CAD",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46347,7 +46347,7 @@
         "Detailed Grouping": "Trade payables",
         "Account": "2002 - Accounts payable - other",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46363,7 +46363,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2100 - Accrued expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46379,7 +46379,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2101 - Accrued salaries and wages",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46395,7 +46395,7 @@
         "Detailed Grouping": "Accrued liabilities",
         "Account": "2102 - Accrued vacation pay",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46411,7 +46411,7 @@
         "Detailed Grouping": "Other accounts payable and accrued liabilities",
         "Account": "2103 - Sales tax liability",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46427,7 +46427,7 @@
         "Detailed Grouping": "Short term loan",
         "Account": "2200 - Short term loan - XYZ Bank",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46443,7 +46443,7 @@
         "Detailed Grouping": "Short term loan",
         "Account": "2201 - Short term loan - EFG Bank",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46459,7 +46459,7 @@
         "Detailed Grouping": "Customer deposits",
         "Account": "2300 - Customer deposits",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46475,7 +46475,7 @@
         "Detailed Grouping": "Income taxes payable",
         "Account": "2400 - Income taxes payable - federal",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46491,7 +46491,7 @@
         "Detailed Grouping": "Income taxes payable",
         "Account": "2401 - Income taxes payable - provincial",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46507,7 +46507,7 @@
         "Detailed Grouping": "Term loan",
         "Account": "2500 - Term loan - ABC Bank",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46523,7 +46523,7 @@
         "Detailed Grouping": "Due to related parties",
         "Account": "2600 - Advances from Saturno Holdings Inc.",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46539,7 +46539,7 @@
         "Detailed Grouping": "Due to related parties",
         "Account": "2601 - Advances from Saturno Trust Co.",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46555,7 +46555,7 @@
         "Detailed Grouping": "Due to shareholders",
         "Account": "2700 - Shareholder loan - Matt Saturno",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46571,7 +46571,7 @@
         "Detailed Grouping": "Common shares",
         "Account": "3000 - Common shares",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46587,7 +46587,7 @@
         "Detailed Grouping": "Preferred shares",
         "Account": "3001 - Preference shares",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46603,7 +46603,7 @@
         "Detailed Grouping": "Retained earnings",
         "Account": "3002 - Dividends",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46619,7 +46619,7 @@
         "Detailed Grouping": "Retained earnings",
         "Account": "3003 - Retained earnings",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46635,7 +46635,7 @@
         "Detailed Grouping": "Hat sales",
         "Account": "4001 - Hat sales",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46651,7 +46651,7 @@
         "Detailed Grouping": "T-shirt sales",
         "Account": "4002 - T-shirt sales",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46667,7 +46667,7 @@
         "Detailed Grouping": "Hat cost of sales",
         "Account": "5001 - Hat cost of sales",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46683,7 +46683,7 @@
         "Detailed Grouping": "T-shirt cost of sales",
         "Account": "5002 - T-shirt cost of sales",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46699,7 +46699,7 @@
         "Detailed Grouping": "Promotions/ads",
         "Account": "6000 - Online marketing ads",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46715,7 +46715,7 @@
         "Detailed Grouping": "Promotions/ads",
         "Account": "6001 - Promotion - trade shows",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46731,7 +46731,7 @@
         "Detailed Grouping": "Other advertising and promotions",
         "Account": "6002 - Promotion - commercials",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46747,7 +46747,7 @@
         "Detailed Grouping": "Donations",
         "Account": "6003 - Donations - golf tournaments",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46763,7 +46763,7 @@
         "Detailed Grouping": "Depreciation",
         "Account": "6100 - Depreciation - fixed assets",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46779,7 +46779,7 @@
         "Detailed Grouping": "Amortization",
         "Account": "6101 - Amortization - software",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46795,7 +46795,7 @@
         "Detailed Grouping": "Insurance",
         "Account": "6200 - Insurance - stores",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46811,7 +46811,7 @@
         "Detailed Grouping": "Insurance",
         "Account": "6201 - Insurance - life insurance for Matthew Saturno",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46827,7 +46827,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6300 - Office supplies",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46843,7 +46843,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6301 - Mail/courier expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46859,7 +46859,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6302 - General office/store maintenance",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46875,7 +46875,7 @@
         "Detailed Grouping": "Office expenses",
         "Account": "6303 - Cleaning services",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46891,7 +46891,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6304 - Parking",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46907,7 +46907,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6400 - Gas",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46923,7 +46923,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6401 - Electricity",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46939,7 +46939,7 @@
         "Detailed Grouping": "Utilities",
         "Account": "6402 - Water",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46955,7 +46955,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6500 - Client dinners",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46971,7 +46971,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6501 - Jays/Leafs/Raptors tickets",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -46987,7 +46987,7 @@
         "Detailed Grouping": "Meals and entertainment",
         "Account": "6502 - Holiday parties",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47003,7 +47003,7 @@
         "Detailed Grouping": "Travel expenses",
         "Account": "6503 - Travel expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47019,7 +47019,7 @@
         "Detailed Grouping": "Telephone and internet",
         "Account": "6600 - Telephone expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47035,7 +47035,7 @@
         "Detailed Grouping": "Telephone and internet",
         "Account": "6601 - Internet expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47051,7 +47051,7 @@
         "Detailed Grouping": "Interest expense",
         "Account": "6700 - Interest on short term loans",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47067,7 +47067,7 @@
         "Detailed Grouping": "Interest expense",
         "Account": "6701 - Interest on long term loans",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47083,7 +47083,7 @@
         "Detailed Grouping": "Bank fees",
         "Account": "6702 - Bank charges",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47099,7 +47099,7 @@
         "Detailed Grouping": "Bad debt",
         "Account": "6800 - Customer write-offs",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47115,7 +47115,7 @@
         "Detailed Grouping": "Legal",
         "Account": "6900 - Legal costs",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47131,7 +47131,7 @@
         "Detailed Grouping": "Accounting",
         "Account": "6901 - Accounting costs",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47147,7 +47147,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6110 - Vehicle maintenance",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47163,7 +47163,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6111 - Other vehicle expenses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47179,7 +47179,7 @@
         "Detailed Grouping": "Vehicle expenses",
         "Account": "6112 - Vehicle fuel",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47195,7 +47195,7 @@
         "Detailed Grouping": "Rent",
         "Account": "6210 - Rent",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47211,7 +47211,7 @@
         "Detailed Grouping": "Freight",
         "Account": "6310 - Freight and delivery costs",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47227,7 +47227,7 @@
         "Detailed Grouping": "Management salaries",
         "Account": "6410 - Management salaries",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47243,7 +47243,7 @@
         "Detailed Grouping": "Salaries and wages",
         "Account": "6411 - Admin salaries",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47259,7 +47259,7 @@
         "Detailed Grouping": "Salaries and wages",
         "Account": "6412 - Sales salaries",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47275,7 +47275,7 @@
         "Detailed Grouping": "Investment income",
         "Account": "7000 - Investment income",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47291,7 +47291,7 @@
         "Detailed Grouping": "Gains/losses on sale of equipment",
         "Account": "7001 - Gains/losses on sale of equipment",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47307,7 +47307,7 @@
         "Detailed Grouping": "Foreign currency gains/losses",
         "Account": "7002 - Foreign currency gains/losses",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
@@ -47323,7 +47323,7 @@
         "Detailed Grouping": "Income taxes",
         "Account": "8000 - Income taxes",
         "Fiscal Year": "F24",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Last Day of Month": "2023-10-31",
         "Fiscal Quarter": "F24-Q2"
     },
