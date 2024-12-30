@@ -1,9 +1,9 @@
 {
-  "company_name": "GOGOOG",
+  "company_name": "YOUZA",
   "currency": "CAD",
   "denomination": "$",
-  "value_date": "2023-03-31",
-  "fiscal_year": "2023-02-28",
+  "value_date": "2023-12-31",
+  "fiscal_year": "2023-03-31",
   "chart_of_accounts": "Chart of Accounts.xlsx",
   "trial_balance": "TB11.xlsx"
 }
