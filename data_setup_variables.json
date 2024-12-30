@@ -1,9 +1,9 @@
 {
-  "company_name": "Matty Inc.",
+  "company_name": "Fangtooth Tech Inc.",
   "currency": "CAD",
   "denomination": "$",
-  "value_date": "2023-11-30",
-  "fiscal_year": "2023-07-31",
+  "value_date": "2023-10-31",
+  "fiscal_year": "2023-04-30",
   "chart_of_accounts": "Chart of Accounts.xlsx",
   "trial_balance": "TB11.xlsx"
 }
