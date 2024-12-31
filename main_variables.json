@@ -1,11 +1,11 @@
 {
-    "company_name": "Bobina Inc.",
-    "currency": "CAD",
-    "denomination": "$",
-    "value_date": "2023-10-31",
-    "fiscal_year": "2023-02-28",
-    "fiscal_year_end_month": 2,
+    "company_name": "Bibs and Bo Inc.",
+    "currency": "USD",
+    "denomination": "$000",
+    "value_date": "2023-08-31",
+    "fiscal_year": "2023-04-30",
+    "fiscal_year_end_month": 4,
     "LTM_fiscal_year": "F24",
-    "LTM_name": "LTM Oct 23",
+    "LTM_name": "LTM Aug 23",
     "YTD_name": "F24 YTD"
 }
