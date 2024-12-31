@@ -1,9 +1,9 @@
 {
-  "company_name": "Hello Inc.",
+  "company_name": "Bobina Inc.",
   "currency": "CAD",
   "denomination": "$",
-  "value_date": "2023-12-31",
-  "fiscal_year": "2023-01-31",
+  "value_date": "2023-10-31",
+  "fiscal_year": "2023-02-28",
   "chart_of_accounts": "Chart of Accounts.xlsx",
   "trial_balance": "TB11.xlsx"
 }
