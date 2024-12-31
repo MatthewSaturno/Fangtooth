@@ -1,9 +1,9 @@
 {
-  "company_name": "YOOO",
+  "company_name": "Bo-eyyyy",
   "currency": "CAD",
   "denomination": "$",
-  "value_date": "2023-11-30",
-  "fiscal_year": "2023-07-31",
+  "value_date": "2023-12-31",
+  "fiscal_year": "2023-06-30",
   "chart_of_accounts": "Chart of Accounts.xlsx",
   "trial_balance": "TB11.xlsx"
 }
