@@ -1,11 +1,11 @@
 {
-    "company_name": "Bibs and Bo Inc.",
+    "company_name": "Fangtooth Technologies Inc.",
     "currency": "USD",
     "denomination": "$000",
-    "value_date": "2023-08-31",
-    "fiscal_year": "2023-04-30",
-    "fiscal_year_end_month": 4,
+    "value_date": "2023-12-31",
+    "fiscal_year": "2023-03-31",
+    "fiscal_year_end_month": 3,
     "LTM_fiscal_year": "F24",
-    "LTM_name": "LTM Aug 23",
+    "LTM_name": "LTM Dec 23",
     "YTD_name": "F24 YTD"
 }
