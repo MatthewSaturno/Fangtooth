@@ -1,14 +1,14 @@
 {
-    "company_name": "Fang Tech Inc.",
+    "company_name": "Fangtooth Technologies Ltd.",
     "currency": "CAD",
     "denomination": "$",
-    "value_date": "2023-12-31",
-    "fiscal_year": "2023-04-30",
-    "fiscal_year_end_month": 4,
+    "value_date": "2023-06-30",
+    "fiscal_year": "2023-02-28",
+    "fiscal_year_end_month": 2,
     "LTM_fiscal_year": "F2024",
-    "LTM_name": "LTM Dec 23",
+    "LTM_name": "LTM Jun 23",
     "YTD_name": "F2024 YTD",
-    "fiscal_year_name": "April 30",
-    "value_date_name": "December 31",
+    "fiscal_year_name": "February 28",
+    "value_date_name": "June 30",
     "value_date_year": 2023
 }
