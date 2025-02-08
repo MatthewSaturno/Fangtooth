@@ -258,7 +258,7 @@
         "Month": "April",
         "LTM Period": "No",
         "Fiscal Quarter": "F2022-Q1",
-        "Amount": 4790.370341666667
+        "Amount": 4790.370341666668
     },
     {
         "Vendor": "ApolloApparelWholesale",
@@ -357,7 +357,7 @@
         "Month": "May",
         "LTM Period": "Yes",
         "Fiscal Quarter": "F2023-Q2",
-        "Amount": 10923.9725375
+        "Amount": 10923.972537500002
     },
     {
         "Vendor": "ApolloApparelWholesale",
@@ -384,7 +384,7 @@
         "Month": "August",
         "LTM Period": "Yes",
         "Fiscal Quarter": "F2023-Q3",
-        "Amount": 11830.161087500002
+        "Amount": 11830.1610875
     },
     {
         "Vendor": "ApolloApparelWholesale",
@@ -519,7 +519,7 @@
         "Month": "December",
         "LTM Period": "No",
         "Fiscal Quarter": "F2024-Q4",
-        "Amount": 19565.87819583334
+        "Amount": 19565.878195833335
     },
     {
         "Vendor": "AresAthleticWear",
@@ -726,7 +726,7 @@
         "Month": "December",
         "LTM Period": "Yes",
         "Fiscal Quarter": "F2023-Q4",
-        "Amount": 17562.229508333337
+        "Amount": 17562.229508333334
     },
     {
         "Vendor": "AresAthleticWear",
@@ -996,7 +996,7 @@
         "Month": "November",
         "LTM Period": "Yes",
         "Fiscal Quarter": "F2023-Q4",
-        "Amount": 3340.5928833333332
+        "Amount": 3340.5928833333337
     },
     {
         "Vendor": "ArtemisArcheryAttire",
@@ -1158,7 +1158,7 @@
         "Month": "October",
         "LTM Period": "No",
         "Fiscal Quarter": "F2022-Q3",
-        "Amount": 4897.337108333334
+        "Amount": 4897.337108333333
     },
     {
         "Vendor": "AthenaAttireWholesalers",
@@ -1176,7 +1176,7 @@
         "Month": "December",
         "LTM Period": "No",
         "Fiscal Quarter": "F2022-Q4",
-        "Amount": 10615.9496
+        "Amount": 10615.949600000002
     },
     {
         "Vendor": "AthenaAttireWholesalers",
@@ -1419,7 +1419,7 @@
         "Month": "July",
         "LTM Period": "No",
         "Fiscal Quarter": "F2022-Q2",
-        "Amount": 3759.1092916666666
+        "Amount": 3759.109291666667
     },
     {
         "Vendor": "DemeterDressDepot",
@@ -1518,7 +1518,7 @@
         "Month": "June",
         "LTM Period": "Yes",
         "Fiscal Quarter": "F2023-Q2",
-        "Amount": 6604.193858333333
+        "Amount": 6604.193858333334
     },
     {
         "Vendor": "DemeterDressDepot",
@@ -1527,7 +1527,7 @@
         "Month": "July",
         "LTM Period": "Yes",
         "Fiscal Quarter": "F2023-Q2",
-        "Amount": 7268.3075625
+        "Amount": 7268.307562500001
     },
     {
         "Vendor": "DemeterDressDepot",
@@ -1536,7 +1536,7 @@
         "Month": "August",
         "LTM Period": "Yes",
         "Fiscal Quarter": "F2023-Q3",
-        "Amount": 14390.918425000002
+        "Amount": 14390.918425
     },
     {
         "Vendor": "DemeterDressDepot",
@@ -1572,7 +1572,7 @@
         "Month": "December",
         "LTM Period": "Yes",
         "Fiscal Quarter": "F2023-Q4",
-        "Amount": 9345.017308333334
+        "Amount": 9345.017308333336
     },
     {
         "Vendor": "DemeterDressDepot",
@@ -1644,7 +1644,7 @@
         "Month": "September",
         "LTM Period": "No",
         "Fiscal Quarter": "F2024-Q3",
-        "Amount": 7299.928783333334
+        "Amount": 7299.928783333335
     },
     {
         "Vendor": "DemeterDressDepot",
@@ -1716,7 +1716,7 @@
         "Month": "May",
         "LTM Period": "No",
         "Fiscal Quarter": "F2022-Q2",
-        "Amount": 10214.211625
+        "Amount": 10214.211625000002
     },
     {
         "Vendor": "DionysusDeluxeTees",
@@ -1725,7 +1725,7 @@
         "Month": "June",
         "LTM Period": "No",
         "Fiscal Quarter": "F2022-Q2",
-        "Amount": 18383.989866666667
+        "Amount": 18383.98986666667
     },
     {
         "Vendor": "DionysusDeluxeTees",
@@ -1851,7 +1851,7 @@
         "Month": "August",
         "LTM Period": "Yes",
         "Fiscal Quarter": "F2023-Q3",
-        "Amount": 33934.01555833334
+        "Amount": 33934.01555833333
     },
     {
         "Vendor": "DionysusDeluxeTees",
@@ -2031,7 +2031,7 @@
         "Month": "April",
         "LTM Period": "No",
         "Fiscal Quarter": "F2022-Q1",
-        "Amount": 5786.3133
+        "Amount": 5786.313300000001
     },
     {
         "Vendor": "DionysusSockBoutique",
@@ -2139,7 +2139,7 @@
         "Month": "April",
         "LTM Period": "Yes",
         "Fiscal Quarter": "F2023-Q1",
-        "Amount": 3606.142220833334
+        "Amount": 3606.1422208333333
     },
     {
         "Vendor": "DionysusSockBoutique",
@@ -2157,7 +2157,7 @@
         "Month": "June",
         "LTM Period": "Yes",
         "Fiscal Quarter": "F2023-Q2",
-        "Amount": 7845.449083333335
+        "Amount": 7845.449083333334
     },
     {
         "Vendor": "DionysusSockBoutique",
@@ -2256,7 +2256,7 @@
         "Month": "May",
         "LTM Period": "No",
         "Fiscal Quarter": "F2024-Q2",
-        "Amount": 10141.367529166668
+        "Amount": 10141.36752916667
     },
     {
         "Vendor": "DionysusSockBoutique",
@@ -2544,7 +2544,7 @@
         "Month": "February",
         "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q1",
-        "Amount": 5532.365075000001
+        "Amount": 5532.3650750000015
     },
     {
         "Vendor": "ErosEliteTees",
@@ -2589,7 +2589,7 @@
         "Month": "July",
         "LTM Period": "No",
         "Fiscal Quarter": "F2024-Q2",
-        "Amount": 25994.587679166674
+        "Amount": 25994.58767916667
     },
     {
         "Vendor": "ErosEliteTees",
@@ -2724,7 +2724,7 @@
         "Month": "October",
         "LTM Period": "No",
         "Fiscal Quarter": "F2022-Q3",
-        "Amount": 4562.627783333334
+        "Amount": 4562.627783333333
     },
     {
         "Vendor": "HadesHosieryHaven",
@@ -2850,7 +2850,7 @@
         "Month": "December",
         "LTM Period": "Yes",
         "Fiscal Quarter": "F2023-Q4",
-        "Amount": 22192.477270833333
+        "Amount": 22192.477270833337
     },
     {
         "Vendor": "HadesHosieryHaven",
@@ -2922,7 +2922,7 @@
         "Month": "August",
         "LTM Period": "No",
         "Fiscal Quarter": "F2024-Q3",
-        "Amount": 9011.490641666669
+        "Amount": 9011.490641666667
     },
     {
         "Vendor": "HadesHosieryHaven",
@@ -3021,7 +3021,7 @@
         "Month": "August",
         "LTM Period": "No",
         "Fiscal Quarter": "F2022-Q3",
-        "Amount": 18670.56755
+        "Amount": 18670.567550000003
     },
     {
         "Vendor": "HephaestusThreads",
@@ -3048,7 +3048,7 @@
         "Month": "November",
         "LTM Period": "No",
         "Fiscal Quarter": "F2022-Q4",
-        "Amount": 17277.268408333333
+        "Amount": 17277.268408333337
     },
     {
         "Vendor": "HephaestusThreads",
@@ -3129,7 +3129,7 @@
         "Month": "September",
         "LTM Period": "Yes",
         "Fiscal Quarter": "F2023-Q3",
-        "Amount": 23529.60014166667
+        "Amount": 23529.600141666666
     },
     {
         "Vendor": "HephaestusThreads",
@@ -3471,7 +3471,7 @@
         "Month": "August",
         "LTM Period": "No",
         "Fiscal Quarter": "F2024-Q3",
-        "Amount": 6876.902958333334
+        "Amount": 6876.902958333335
     },
     {
         "Vendor": "HeraHosieryHeaven",
@@ -3516,7 +3516,7 @@
         "Month": "March",
         "LTM Period": "No",
         "Fiscal Quarter": "F2022-Q1",
-        "Amount": 5352.822225000001
+        "Amount": 5352.822225
     },
     {
         "Vendor": "HermesHosieryHub",
@@ -3669,7 +3669,7 @@
         "Month": "September",
         "LTM Period": "No",
         "Fiscal Quarter": "F2024-Q3",
-        "Amount": 7304.272287500002
+        "Amount": 7304.272287500001
     },
     {
         "Vendor": "HermesHosieryHub",
@@ -3741,7 +3741,7 @@
         "Month": "September",
         "LTM Period": "No",
         "Fiscal Quarter": "F2022-Q3",
-        "Amount": 3486.587375
+        "Amount": 3486.5873750000005
     },
     {
         "Vendor": "HermesWingedHosiery",
@@ -4137,7 +4137,7 @@
         "Month": "September",
         "LTM Period": "No",
         "Fiscal Quarter": "F2024-Q3",
-        "Amount": 12838.909087500004
+        "Amount": 12838.909087500002
     },
     {
         "Vendor": "HestiaHomeComforts",
@@ -4200,7 +4200,7 @@
         "Month": "June",
         "LTM Period": "No",
         "Fiscal Quarter": "F2022-Q2",
-        "Amount": 5759.188733333333
+        "Amount": 5759.188733333334
     },
     {
         "Vendor": "NikeVictoryWear",
@@ -4425,7 +4425,7 @@
         "Month": "July",
         "LTM Period": "No",
         "Fiscal Quarter": "F2024-Q2",
-        "Amount": 9653.274225000003
+        "Amount": 9653.274225000001
     },
     {
         "Vendor": "NikeVictoryWear",
@@ -4479,7 +4479,7 @@
         "Month": "January",
         "LTM Period": "No",
         "Fiscal Quarter": "F2021-Q4",
-        "Amount": 6245.439983333335
+        "Amount": 6245.439983333334
     },
     {
         "Vendor": "PanPineTees",
@@ -4722,7 +4722,7 @@
         "Month": "May",
         "LTM Period": "No",
         "Fiscal Quarter": "F2024-Q2",
-        "Amount": 5613.798333333335
+        "Amount": 5613.798333333334
     },
     {
         "Vendor": "PanPineTees",
@@ -4731,7 +4731,7 @@
         "Month": "June",
         "LTM Period": "No",
         "Fiscal Quarter": "F2024-Q2",
-        "Amount": 13964.378658333335
+        "Amount": 13964.378658333337
     },
     {
         "Vendor": "PanPineTees",
@@ -5118,7 +5118,7 @@
         "Month": "August",
         "LTM Period": "No",
         "Fiscal Quarter": "F2022-Q3",
-        "Amount": 7179.314650000001
+        "Amount": 7179.31465
     },
     {
         "Vendor": "PoseidonTidalTees",
@@ -5127,7 +5127,7 @@
         "Month": "September",
         "LTM Period": "No",
         "Fiscal Quarter": "F2022-Q3",
-        "Amount": 8977.470070833333
+        "Amount": 8977.470070833335
     },
     {
         "Vendor": "PoseidonTidalTees",
@@ -5280,7 +5280,7 @@
         "Month": "April",
         "LTM Period": "No",
         "Fiscal Quarter": "F2024-Q1",
-        "Amount": 3802.1146625
+        "Amount": 3802.1146625000006
     },
     {
         "Vendor": "PoseidonTidalTees",
@@ -5325,7 +5325,7 @@
         "Month": "September",
         "LTM Period": "No",
         "Fiscal Quarter": "F2024-Q3",
-        "Amount": 19238.047858333335
+        "Amount": 19238.04785833334
     },
     {
         "Vendor": "PoseidonTidalTees",
@@ -5487,7 +5487,7 @@
         "Month": "September",
         "LTM Period": "Yes",
         "Fiscal Quarter": "F2023-Q3",
-        "Amount": 8242.2905125
+        "Amount": 8242.290512500002
     },
     {
         "Vendor": "ZeusZephyrTees",
@@ -5595,7 +5595,7 @@
         "Month": "November",
         "LTM Period": "No",
         "Fiscal Quarter": "F2024-Q4",
-        "Amount": 6668.3211666666675
+        "Amount": 6668.321166666668
     },
     {
         "Vendor": "ZeusZephyrTees",
