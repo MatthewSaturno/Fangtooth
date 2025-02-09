@@ -10,20 +10,20 @@
     },
     {
         "Customer": "Astral Antiques",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 6925.0
     },
     {
         "Customer": "Astral Antiques",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 22581.84
     },
     {
@@ -41,7 +41,7 @@
         "Last Day of Month": "2021-05-31",
         "Month": "May",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 8772.68
     },
     {
@@ -50,7 +50,7 @@
         "Last Day of Month": "2021-06-30",
         "Month": "June",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 6212.4
     },
     {
@@ -68,7 +68,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 29337.8
     },
     {
@@ -77,7 +77,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 30557.199999999997
     },
     {
@@ -95,7 +95,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 35129.44
     },
     {
@@ -104,7 +104,7 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 46088.68
     },
     {
@@ -118,20 +118,20 @@
     },
     {
         "Customer": "Astral Antiques",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 9436.119999999999
     },
     {
         "Customer": "Astral Antiques",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 13271.64
     },
     {
@@ -139,7 +139,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q1",
         "Amount": 20970.96
     },
@@ -148,8 +148,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 17754.28
     },
     {
@@ -157,8 +157,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 8679.88
     },
     {
@@ -166,7 +166,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 29535.879999999997
     },
@@ -175,8 +175,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 32902.56
     },
     {
@@ -184,8 +184,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 59830.92
     },
     {
@@ -193,7 +193,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q3",
         "Amount": 23691.44
     },
@@ -202,8 +202,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 49532.36
     },
     {
@@ -211,8 +211,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 67762.88
     },
     {
@@ -226,20 +226,20 @@
     },
     {
         "Customer": "Astral Antiques",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 10529.4
     },
     {
         "Customer": "Astral Antiques",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 15258.68
     },
     {
@@ -247,7 +247,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q1",
         "Amount": 15548.76
     },
@@ -256,8 +256,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 12012.6
     },
     {
@@ -265,8 +265,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 22723.84
     },
     {
@@ -274,7 +274,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 37844.48
     },
@@ -283,8 +283,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 21503.96
     },
     {
@@ -292,8 +292,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 24311.6
     },
     {
@@ -301,7 +301,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q3",
         "Amount": 6142.52
     },
@@ -310,8 +310,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 81916.12000000001
     },
     {
@@ -319,26 +319,26 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 57704.12
     },
     {
         "Customer": "Astro Artifacts",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 1846.24
     },
     {
         "Customer": "Astro Artifacts",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 8561.24
     },
     {
@@ -356,7 +356,7 @@
         "Last Day of Month": "2021-05-31",
         "Month": "May",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 7469.92
     },
     {
@@ -365,7 +365,7 @@
         "Last Day of Month": "2021-06-30",
         "Month": "June",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 5582.639999999999
     },
     {
@@ -383,7 +383,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 10365.84
     },
     {
@@ -392,7 +392,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 24174.08
     },
     {
@@ -410,7 +410,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 22536.76
     },
     {
@@ -419,7 +419,7 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 31858.44
     },
     {
@@ -433,20 +433,20 @@
     },
     {
         "Customer": "Astro Artifacts",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 3920.4
     },
     {
         "Customer": "Astro Artifacts",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 6301.6
     },
     {
@@ -454,7 +454,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q1",
         "Amount": 14254.880000000001
     },
@@ -463,8 +463,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 19593.0
     },
     {
@@ -472,8 +472,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 6621.12
     },
     {
@@ -481,7 +481,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 11619.279999999999
     },
@@ -490,8 +490,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 15920.720000000001
     },
     {
@@ -499,8 +499,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 46849.84
     },
     {
@@ -508,7 +508,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q3",
         "Amount": 9995.44
     },
@@ -517,8 +517,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 30331.2
     },
     {
@@ -526,8 +526,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 54589.6
     },
     {
@@ -541,20 +541,20 @@
     },
     {
         "Customer": "Astro Artifacts",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 7521.72
     },
     {
         "Customer": "Astro Artifacts",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 10894.880000000001
     },
     {
@@ -562,7 +562,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q1",
         "Amount": 9298.0
     },
@@ -571,8 +571,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 21245.56
     },
     {
@@ -580,8 +580,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 13064.04
     },
     {
@@ -589,7 +589,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 23862.2
     },
@@ -598,8 +598,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 27230.52
     },
     {
@@ -607,8 +607,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 34035.92
     },
     {
@@ -616,7 +616,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q3",
         "Amount": 24889.960000000003
     },
@@ -625,8 +625,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 42555.520000000004
     },
     {
@@ -634,8 +634,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 61699.4
     },
     {
@@ -649,20 +649,20 @@
     },
     {
         "Customer": "Celestial Emporium",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 15402.64
     },
     {
         "Customer": "Celestial Emporium",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 6461.84
     },
     {
@@ -680,7 +680,7 @@
         "Last Day of Month": "2021-05-31",
         "Month": "May",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 12718.279999999999
     },
     {
@@ -689,7 +689,7 @@
         "Last Day of Month": "2021-06-30",
         "Month": "June",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 27287.0
     },
     {
@@ -707,7 +707,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 42100.56
     },
     {
@@ -716,7 +716,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 73070.8
     },
     {
@@ -734,7 +734,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 54901.28
     },
     {
@@ -743,7 +743,7 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 71012.31999999999
     },
     {
@@ -757,20 +757,20 @@
     },
     {
         "Customer": "Celestial Emporium",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 1524.6000000000001
     },
     {
         "Customer": "Celestial Emporium",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 12183.759999999998
     },
     {
@@ -778,7 +778,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q1",
         "Amount": 15633.759999999998
     },
@@ -787,8 +787,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 23502.16
     },
     {
@@ -796,8 +796,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 23975.039999999997
     },
     {
@@ -805,7 +805,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 67870.64
     },
@@ -814,8 +814,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 56860.32
     },
     {
@@ -823,8 +823,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 70229.4
     },
     {
@@ -832,7 +832,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q3",
         "Amount": 42356.64
     },
@@ -841,8 +841,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 80438.84
     },
     {
@@ -850,8 +850,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 117969.31999999999
     },
     {
@@ -865,20 +865,20 @@
     },
     {
         "Customer": "Celestial Emporium",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 25370.36
     },
     {
         "Customer": "Celestial Emporium",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 36684.240000000005
     },
     {
@@ -886,7 +886,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q1",
         "Amount": 41091.840000000004
     },
@@ -895,8 +895,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 13399.08
     },
     {
@@ -904,8 +904,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 43577.76
     },
     {
@@ -913,7 +913,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 22667.28
     },
@@ -922,8 +922,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 64002.36
     },
     {
@@ -931,8 +931,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 97107.88
     },
     {
@@ -940,7 +940,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q3",
         "Amount": 26331.760000000002
     },
@@ -949,8 +949,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 100473.16
     },
     {
@@ -958,8 +958,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 129071.28
     },
     {
@@ -973,20 +973,20 @@
     },
     {
         "Customer": "Comet Creations",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 2434.8399999999997
     },
     {
         "Customer": "Comet Creations",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 9191.0
     },
     {
@@ -1004,7 +1004,7 @@
         "Last Day of Month": "2021-05-31",
         "Month": "May",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 8561.36
     },
     {
@@ -1013,7 +1013,7 @@
         "Last Day of Month": "2021-06-30",
         "Month": "June",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 2895.24
     },
     {
@@ -1031,7 +1031,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 25056.2
     },
     {
@@ -1040,7 +1040,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 21156.239999999998
     },
     {
@@ -1058,7 +1058,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 9948.2
     },
     {
@@ -1067,7 +1067,7 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 14984.119999999999
     },
     {
@@ -1081,20 +1081,20 @@
     },
     {
         "Customer": "Comet Creations",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 7667.0
     },
     {
         "Customer": "Comet Creations",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 3638.6
     },
     {
@@ -1102,7 +1102,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q1",
         "Amount": 8024.24
     },
@@ -1111,8 +1111,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 5312.52
     },
     {
@@ -1120,8 +1120,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 7279.0
     },
     {
@@ -1129,7 +1129,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 11019.759999999998
     },
@@ -1138,8 +1138,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 27040.839999999997
     },
     {
@@ -1147,8 +1147,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 44853.479999999996
     },
     {
@@ -1156,7 +1156,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q3",
         "Amount": 6791.76
     },
@@ -1165,8 +1165,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 28067.2
     },
     {
@@ -1174,8 +1174,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 57206.56
     },
     {
@@ -1189,20 +1189,20 @@
     },
     {
         "Customer": "Comet Creations",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 1530.0
     },
     {
         "Customer": "Comet Creations",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 15734.240000000002
     },
     {
@@ -1210,7 +1210,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q1",
         "Amount": 4185.0
     },
@@ -1219,8 +1219,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 17066.0
     },
     {
@@ -1228,8 +1228,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 13451.400000000001
     },
     {
@@ -1237,7 +1237,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 10885.76
     },
@@ -1246,8 +1246,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 5099.6
     },
     {
@@ -1255,8 +1255,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 34322.96000000001
     },
     {
@@ -1264,7 +1264,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q3",
         "Amount": 11209.28
     },
@@ -1273,8 +1273,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 25023.120000000003
     },
     {
@@ -1282,8 +1282,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 42993.36
     },
     {
@@ -1297,11 +1297,11 @@
     },
     {
         "Customer": "Cosmic Collectibles",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 10578.279999999999
     },
     {
@@ -1319,7 +1319,7 @@
         "Last Day of Month": "2021-05-31",
         "Month": "May",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 15066.880000000001
     },
     {
@@ -1328,7 +1328,7 @@
         "Last Day of Month": "2021-06-30",
         "Month": "June",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 5456.16
     },
     {
@@ -1346,7 +1346,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 15948.8
     },
     {
@@ -1355,7 +1355,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 26903.719999999998
     },
     {
@@ -1373,7 +1373,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 8815.0
     },
     {
@@ -1382,7 +1382,7 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 10284.119999999999
     },
     {
@@ -1396,20 +1396,20 @@
     },
     {
         "Customer": "Cosmic Collectibles",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 2962.0800000000004
     },
     {
         "Customer": "Cosmic Collectibles",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 6168.0
     },
     {
@@ -1417,7 +1417,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q1",
         "Amount": 20371.0
     },
@@ -1426,8 +1426,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 4965.84
     },
     {
@@ -1435,8 +1435,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 6445.5199999999995
     },
     {
@@ -1444,7 +1444,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 14271.04
     },
@@ -1453,8 +1453,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 5925.719999999999
     },
     {
@@ -1462,8 +1462,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 36181.68
     },
     {
@@ -1471,7 +1471,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q3",
         "Amount": 5717.799999999999
     },
@@ -1480,8 +1480,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 10559.24
     },
     {
@@ -1489,8 +1489,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 27834.8
     },
     {
@@ -1504,20 +1504,20 @@
     },
     {
         "Customer": "Cosmic Collectibles",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 13748.16
     },
     {
         "Customer": "Cosmic Collectibles",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 4095.0
     },
     {
@@ -1525,7 +1525,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q1",
         "Amount": 2903.1200000000003
     },
@@ -1534,8 +1534,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 3694.88
     },
     {
@@ -1543,8 +1543,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 1935.0
     },
     {
@@ -1552,7 +1552,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 11084.640000000001
     },
@@ -1561,8 +1561,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 16792.96
     },
     {
@@ -1570,8 +1570,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 15703.840000000002
     },
     {
@@ -1579,8 +1579,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 32599.56
     },
     {
@@ -1588,8 +1588,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 4950.0
     },
     {
@@ -1607,7 +1607,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 2770.68
     },
     {
@@ -1616,7 +1616,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 1510.56
     },
     {
@@ -1625,16 +1625,16 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 6210.08
     },
     {
         "Customer": "Earthly Elegance",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 2439.36
     },
     {
@@ -1642,8 +1642,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 2308.6800000000003
     },
     {
@@ -1651,7 +1651,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 5094.04
     },
@@ -1660,8 +1660,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 9551.08
     },
     {
@@ -1669,8 +1669,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 5039.48
     },
     {
@@ -1678,8 +1678,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 4174.12
     },
     {
@@ -1687,8 +1687,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 7057.16
     },
     {
@@ -1705,7 +1705,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q1",
         "Amount": 14779.52
     },
@@ -1714,7 +1714,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 2160.0
     },
@@ -1723,8 +1723,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 3299.0
     },
     {
@@ -1732,7 +1732,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q3",
         "Amount": 945.0
     },
@@ -1741,8 +1741,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 14681.0
     },
     {
@@ -1750,8 +1750,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 13565.720000000001
     },
     {
@@ -1765,20 +1765,20 @@
     },
     {
         "Customer": "Galactic Goods",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 1511.28
     },
     {
         "Customer": "Galactic Goods",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 2099.0
     },
     {
@@ -1787,7 +1787,7 @@
         "Last Day of Month": "2021-05-31",
         "Month": "May",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 2014.6
     },
     {
@@ -1796,7 +1796,7 @@
         "Last Day of Month": "2021-06-30",
         "Month": "June",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 4701.76
     },
     {
@@ -1814,7 +1814,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 15362.52
     },
     {
@@ -1823,7 +1823,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 14647.84
     },
     {
@@ -1841,7 +1841,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 1679.1999999999998
     },
     {
@@ -1850,16 +1850,16 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 18552.52
     },
     {
         "Customer": "Galactic Goods",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 2090.88
     },
     {
@@ -1867,7 +1867,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q1",
         "Amount": 4617.360000000001
     },
@@ -1876,8 +1876,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 2702.96
     },
     {
@@ -1885,7 +1885,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 4366.32
     },
@@ -1894,8 +1894,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 12117.519999999999
     },
     {
@@ -1903,8 +1903,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 8537.76
     },
     {
@@ -1912,7 +1912,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q3",
         "Amount": 11851.439999999999
     },
@@ -1921,8 +1921,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 7727.4
     },
     {
@@ -1930,8 +1930,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 15336.24
     },
     {
@@ -1945,20 +1945,20 @@
     },
     {
         "Customer": "Galactic Goods",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 7389.76
     },
     {
         "Customer": "Galactic Goods",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 2700.0
     },
     {
@@ -1966,7 +1966,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q1",
         "Amount": 5938.200000000001
     },
@@ -1975,8 +1975,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 6993.88
     },
     {
@@ -1984,8 +1984,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 8334.76
     },
     {
@@ -1993,7 +1993,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 12293.560000000001
     },
@@ -2002,8 +2002,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 17489.24
     },
     {
@@ -2011,8 +2011,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 33039.840000000004
     },
     {
@@ -2020,7 +2020,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q3",
         "Amount": 8992.12
     },
@@ -2029,8 +2029,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 18106.48
     },
     {
@@ -2038,17 +2038,17 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 26694.800000000003
     },
     {
         "Customer": "Interstellar Emporium",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 2896.2
     },
     {
@@ -2075,7 +2075,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 1049.0
     },
     {
@@ -2084,7 +2084,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 5289.48
     },
     {
@@ -2093,7 +2093,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 4114.04
     },
     {
@@ -2102,25 +2102,25 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 15195.32
     },
     {
         "Customer": "Interstellar Emporium",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 2526.48
     },
     {
         "Customer": "Interstellar Emporium",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 9119.52
     },
     {
@@ -2128,7 +2128,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q1",
         "Amount": 6653.44
     },
@@ -2137,7 +2137,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 1873.0800000000002
     },
@@ -2146,8 +2146,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 10811.84
     },
     {
@@ -2155,8 +2155,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 11819.12
     },
     {
@@ -2164,7 +2164,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q3",
         "Amount": 3136.32
     },
@@ -2173,8 +2173,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 2265.12
     },
     {
@@ -2182,26 +2182,26 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 6590.8
     },
     {
         "Customer": "Interstellar Emporium",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 1979.4
     },
     {
         "Customer": "Interstellar Emporium",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 9237.2
     },
     {
@@ -2209,8 +2209,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 2771.1600000000003
     },
     {
@@ -2218,8 +2218,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 1715.48
     },
     {
@@ -2227,7 +2227,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 6607.72
     },
@@ -2236,8 +2236,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 5410.360000000001
     },
     {
@@ -2245,8 +2245,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 6598.0
     },
     {
@@ -2254,7 +2254,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q3",
         "Amount": 3826.84
     },
@@ -2263,8 +2263,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 12417.6
     },
     {
@@ -2272,8 +2272,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 6120.0
     },
     {
@@ -2287,20 +2287,20 @@
     },
     {
         "Customer": "Jupiter Junction",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 5037.6
     },
     {
         "Customer": "Jupiter Junction",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 19222.399999999998
     },
     {
@@ -2318,7 +2318,7 @@
         "Last Day of Month": "2021-06-30",
         "Month": "June",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 13723.04
     },
     {
@@ -2336,7 +2336,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 21994.2
     },
     {
@@ -2345,7 +2345,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 25516.52
     },
     {
@@ -2363,7 +2363,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 32906.52
     },
     {
@@ -2372,7 +2372,7 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 51412.76
     },
     {
@@ -2386,20 +2386,20 @@
     },
     {
         "Customer": "Jupiter Junction",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 7235.4400000000005
     },
     {
         "Customer": "Jupiter Junction",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 19733.32
     },
     {
@@ -2407,7 +2407,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q1",
         "Amount": 27341.48
     },
@@ -2416,8 +2416,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 8592.76
     },
     {
@@ -2425,8 +2425,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 14044.72
     },
     {
@@ -2434,7 +2434,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 31330.16
     },
@@ -2443,8 +2443,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 47087.64
     },
     {
@@ -2452,8 +2452,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 38410.44
     },
     {
@@ -2461,7 +2461,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q3",
         "Amount": 14744.359999999999
     },
@@ -2470,8 +2470,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 52854.4
     },
     {
@@ -2479,8 +2479,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 52360.4
     },
     {
@@ -2494,20 +2494,20 @@
     },
     {
         "Customer": "Jupiter Junction",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 16890.88
     },
     {
         "Customer": "Jupiter Junction",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 15441.12
     },
     {
@@ -2515,7 +2515,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q1",
         "Amount": 23366.0
     },
@@ -2524,8 +2524,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 11178.880000000001
     },
     {
@@ -2533,8 +2533,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 17571.32
     },
     {
@@ -2542,7 +2542,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 31907.520000000004
     },
@@ -2551,8 +2551,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 20544.96
     },
     {
@@ -2560,8 +2560,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 49421.68
     },
     {
@@ -2569,7 +2569,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q3",
         "Amount": 3479.6000000000004
     },
@@ -2578,8 +2578,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 53233.28
     },
     {
@@ -2587,8 +2587,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 123980.32
     },
     {
@@ -2602,11 +2602,11 @@
     },
     {
         "Customer": "Lunar Luxe",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 839.5999999999999
     },
     {
@@ -2624,7 +2624,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 2727.4
     },
     {
@@ -2633,7 +2633,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 5036.6
     },
     {
@@ -2642,7 +2642,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 6422.48
     },
     {
@@ -2651,25 +2651,25 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 6631.52
     },
     {
         "Customer": "Lunar Luxe",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 2599.0
     },
     {
         "Customer": "Lunar Luxe",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 5009.400000000001
     },
     {
@@ -2677,7 +2677,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q1",
         "Amount": 3092.76
     },
@@ -2686,8 +2686,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 3326.72
     },
     {
@@ -2695,7 +2695,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 16009.84
     },
@@ -2704,8 +2704,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 6549.48
     },
     {
@@ -2713,8 +2713,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 13814.56
     },
     {
@@ -2722,7 +2722,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q3",
         "Amount": 2134.44
     },
@@ -2731,8 +2731,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 2657.1600000000003
     },
     {
@@ -2740,17 +2740,17 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 14117.92
     },
     {
         "Customer": "Lunar Luxe",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 2835.0
     },
     {
@@ -2758,8 +2758,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 2375.28
     },
     {
@@ -2767,8 +2767,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 2903.1200000000003
     },
     {
@@ -2776,7 +2776,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 6070.160000000001
     },
@@ -2785,8 +2785,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 990.0
     },
     {
@@ -2794,8 +2794,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 8910.0
     },
     {
@@ -2803,7 +2803,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q3",
         "Amount": 3510.0
     },
@@ -2812,8 +2812,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 4680.0
     },
     {
@@ -2821,8 +2821,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 22203.920000000002
     },
     {
@@ -2836,20 +2836,20 @@
     },
     {
         "Customer": "Martian Merchandise",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 3022.56
     },
     {
         "Customer": "Martian Merchandise",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 5834.039999999999
     },
     {
@@ -2867,7 +2867,7 @@
         "Last Day of Month": "2021-05-31",
         "Month": "May",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 4322.639999999999
     },
     {
@@ -2876,7 +2876,7 @@
         "Last Day of Month": "2021-06-30",
         "Month": "June",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 3862.16
     },
     {
@@ -2894,7 +2894,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 13934.8
     },
     {
@@ -2903,7 +2903,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 5412.84
     },
     {
@@ -2921,7 +2921,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 22201.44
     },
     {
@@ -2930,7 +2930,7 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 14434.24
     },
     {
@@ -2944,20 +2944,20 @@
     },
     {
         "Customer": "Martian Merchandise",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 3265.2
     },
     {
         "Customer": "Martian Merchandise",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 2047.3200000000002
     },
     {
@@ -2965,7 +2965,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q1",
         "Amount": 4158.4
     },
@@ -2974,8 +2974,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 14251.279999999999
     },
     {
@@ -2983,7 +2983,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 9356.4
     },
@@ -2992,8 +2992,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 14620.64
     },
     {
@@ -3001,8 +3001,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 10846.2
     },
     {
@@ -3010,7 +3010,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q3",
         "Amount": 1089.0
     },
@@ -3019,8 +3019,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 12668.08
     },
     {
@@ -3028,8 +3028,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 18814.76
     },
     {
@@ -3046,7 +3046,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q1",
         "Amount": 3293.52
     },
@@ -3055,8 +3055,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 10500.84
     },
     {
@@ -3064,8 +3064,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 2655.0
     },
     {
@@ -3073,7 +3073,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 15970.76
     },
@@ -3082,8 +3082,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 31993.24
     },
     {
@@ -3091,8 +3091,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 22812.04
     },
     {
@@ -3100,8 +3100,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 16619.64
     },
     {
@@ -3109,26 +3109,26 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 30498.56
     },
     {
         "Customer": "Meteorite Market",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 2223.88
     },
     {
         "Customer": "Meteorite Market",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 2182.96
     },
     {
@@ -3146,7 +3146,7 @@
         "Last Day of Month": "2021-05-31",
         "Month": "May",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 5414.04
     },
     {
@@ -3155,7 +3155,7 @@
         "Last Day of Month": "2021-06-30",
         "Month": "June",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 2350.8799999999997
     },
     {
@@ -3173,7 +3173,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 2518.2799999999997
     },
     {
@@ -3182,7 +3182,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 11414.76
     },
     {
@@ -3200,7 +3200,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 10617.64
     },
     {
@@ -3209,7 +3209,7 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 12128.84
     },
     {
@@ -3226,7 +3226,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q1",
         "Amount": 6549.48
     },
@@ -3235,8 +3235,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 2570.04
     },
     {
@@ -3244,8 +3244,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 3638.6
     },
     {
@@ -3253,7 +3253,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 5353.16
     },
@@ -3262,8 +3262,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 7797.0
     },
     {
@@ -3271,8 +3271,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 1001.8800000000001
     },
     {
@@ -3280,8 +3280,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 12735.439999999999
     },
     {
@@ -3289,8 +3289,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 10482.68
     },
     {
@@ -3304,11 +3304,11 @@
     },
     {
         "Customer": "Meteorite Market",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 4090.76
     },
     {
@@ -3316,8 +3316,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 2340.0
     },
     {
@@ -3325,8 +3325,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 4618.6
     },
     {
@@ -3334,7 +3334,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 10401.12
     },
@@ -3343,8 +3343,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 6070.160000000001
     },
     {
@@ -3352,8 +3352,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 2700.0
     },
     {
@@ -3361,7 +3361,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q3",
         "Amount": 8445.44
     },
@@ -3370,8 +3370,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 18541.280000000002
     },
     {
@@ -3379,8 +3379,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 14577.000000000002
     },
     {
@@ -3394,11 +3394,11 @@
     },
     {
         "Customer": "Neptune's Nook",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 6714.639999999999
     },
     {
@@ -3416,7 +3416,7 @@
         "Last Day of Month": "2021-05-31",
         "Month": "May",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 839.2
     },
     {
@@ -3434,7 +3434,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 15485.8
     },
     {
@@ -3443,7 +3443,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 13181.72
     },
     {
@@ -3461,7 +3461,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 14439.52
     },
     {
@@ -3470,7 +3470,7 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 21069.44
     },
     {
@@ -3484,11 +3484,11 @@
     },
     {
         "Customer": "Neptune's Nook",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 7143.84
     },
     {
@@ -3496,8 +3496,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 11525.2
     },
     {
@@ -3505,8 +3505,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 5405.92
     },
     {
@@ -3514,7 +3514,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 3326.72
     },
@@ -3523,8 +3523,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 12761.72
     },
     {
@@ -3532,8 +3532,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 11442.119999999999
     },
     {
@@ -3541,8 +3541,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 40100.28
     },
     {
@@ -3556,20 +3556,20 @@
     },
     {
         "Customer": "Neptune's Nook",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 11216.6
     },
     {
         "Customer": "Neptune's Nook",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 7521.72
     },
     {
@@ -3577,7 +3577,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q1",
         "Amount": 1080.0
     },
@@ -3586,8 +3586,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 6686.16
     },
     {
@@ -3595,8 +3595,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 3375.0
     },
     {
@@ -3604,7 +3604,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 11475.0
     },
@@ -3613,8 +3613,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 38358.96
     },
     {
@@ -3622,8 +3622,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 15857.080000000002
     },
     {
@@ -3631,7 +3631,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q3",
         "Amount": 6178.4
     },
@@ -3640,8 +3640,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 17919.760000000002
     },
     {
@@ -3649,8 +3649,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 23812.36
     },
     {
@@ -3664,20 +3664,20 @@
     },
     {
         "Customer": "Pluto's Finds",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 1343.36
     },
     {
         "Customer": "Pluto's Finds",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 1846.24
     },
     {
@@ -3695,7 +3695,7 @@
         "Last Day of Month": "2021-05-31",
         "Month": "May",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 11206.6
     },
     {
@@ -3704,7 +3704,7 @@
         "Last Day of Month": "2021-06-30",
         "Month": "June",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 9693.68
     },
     {
@@ -3722,7 +3722,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 11669.52
     },
     {
@@ -3731,7 +3731,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 7217.56
     },
     {
@@ -3749,7 +3749,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 19391.76
     },
     {
@@ -3758,7 +3758,7 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 34751.56
     },
     {
@@ -3772,20 +3772,20 @@
     },
     {
         "Customer": "Pluto's Finds",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 12971.88
     },
     {
         "Customer": "Pluto's Finds",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 10707.880000000001
     },
     {
@@ -3793,7 +3793,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q1",
         "Amount": 5445.0
     },
@@ -3802,8 +3802,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 9459.92
     },
     {
@@ -3811,7 +3811,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 23408.76
     },
@@ -3820,8 +3820,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 14478.519999999999
     },
     {
@@ -3829,8 +3829,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 24566.24
     },
     {
@@ -3838,7 +3838,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q3",
         "Amount": 2918.52
     },
@@ -3847,8 +3847,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 15659.8
     },
     {
@@ -3856,8 +3856,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 26639.16
     },
     {
@@ -3871,20 +3871,20 @@
     },
     {
         "Customer": "Pluto's Finds",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 4721.360000000001
     },
     {
         "Customer": "Pluto's Finds",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 6178.400000000001
     },
     {
@@ -3892,7 +3892,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q1",
         "Amount": 16652.48
     },
@@ -3901,8 +3901,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 3167.04
     },
     {
@@ -3910,8 +3910,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 24574.96
     },
     {
@@ -3919,7 +3919,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 4860.0
     },
@@ -3928,8 +3928,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 29087.120000000003
     },
     {
@@ -3937,8 +3937,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 40905.16
     },
     {
@@ -3946,7 +3946,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q3",
         "Amount": 1847.44
     },
@@ -3955,8 +3955,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 25017.640000000003
     },
     {
@@ -3964,8 +3964,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 21048.52
     },
     {
@@ -3979,20 +3979,20 @@
     },
     {
         "Customer": "Solar Flare Fashion",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 4531.68
     },
     {
         "Customer": "Solar Flare Fashion",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 6632.839999999999
     },
     {
@@ -4010,7 +4010,7 @@
         "Last Day of Month": "2021-05-31",
         "Month": "May",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 6716.799999999999
     },
     {
@@ -4019,7 +4019,7 @@
         "Last Day of Month": "2021-06-30",
         "Month": "June",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 1175.4399999999998
     },
     {
@@ -4037,7 +4037,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 11711.84
     },
     {
@@ -4046,7 +4046,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 11919.24
     },
     {
@@ -4055,7 +4055,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 9821.52
     },
     {
@@ -4064,25 +4064,25 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 14774.519999999999
     },
     {
         "Customer": "Solar Flare Fashion",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 7832.48
     },
     {
         "Customer": "Solar Flare Fashion",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 6930.52
     },
     {
@@ -4090,7 +4090,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q1",
         "Amount": 2831.4
     },
@@ -4099,8 +4099,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 3014.8399999999997
     },
     {
@@ -4108,7 +4108,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 11509.48
     },
@@ -4117,8 +4117,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 21145.879999999997
     },
     {
@@ -4126,8 +4126,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 27848.719999999998
     },
     {
@@ -4135,8 +4135,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 27569.4
     },
     {
@@ -4144,8 +4144,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 23221.72
     },
     {
@@ -4159,11 +4159,11 @@
     },
     {
         "Customer": "Solar Flare Fashion",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 1035.0
     },
     {
@@ -4171,7 +4171,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q1",
         "Amount": 7759.4800000000005
     },
@@ -4180,8 +4180,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 8335.36
     },
     {
@@ -4189,8 +4189,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 7110.0
     },
     {
@@ -4198,7 +4198,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 21265.0
     },
@@ -4207,8 +4207,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 14770.96
     },
     {
@@ -4216,8 +4216,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 21781.88
     },
     {
@@ -4225,7 +4225,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q3",
         "Amount": 2700.0
     },
@@ -4234,8 +4234,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 17642.48
     },
     {
@@ -4243,17 +4243,17 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 15165.640000000001
     },
     {
         "Customer": "Solar Splendors",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 6882.959999999999
     },
     {
@@ -4271,7 +4271,7 @@
         "Last Day of Month": "2021-05-31",
         "Month": "May",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 5120.6
     },
     {
@@ -4289,7 +4289,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 20693.96
     },
     {
@@ -4298,7 +4298,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 23166.2
     },
     {
@@ -4316,7 +4316,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 23631.28
     },
     {
@@ -4325,7 +4325,7 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 30346.48
     },
     {
@@ -4339,20 +4339,20 @@
     },
     {
         "Customer": "Solar Splendors",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 10232.32
     },
     {
         "Customer": "Solar Splendors",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 2599.0
     },
     {
@@ -4360,7 +4360,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q1",
         "Amount": 4538.32
     },
@@ -4369,8 +4369,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 7625.24
     },
     {
@@ -4378,8 +4378,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 2090.88
     },
     {
@@ -4387,7 +4387,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 14958.8
     },
@@ -4396,8 +4396,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 12283.92
     },
     {
@@ -4405,8 +4405,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 26682.72
     },
     {
@@ -4414,7 +4414,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q3",
         "Amount": 8754.880000000001
     },
@@ -4423,8 +4423,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 10180.0
     },
     {
@@ -4432,8 +4432,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 58239.2
     },
     {
@@ -4447,20 +4447,20 @@
     },
     {
         "Customer": "Solar Splendors",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 4185.0
     },
     {
         "Customer": "Solar Splendors",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 17707.52
     },
     {
@@ -4468,7 +4468,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q1",
         "Amount": 2205.0
     },
@@ -4477,8 +4477,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 9085.16
     },
     {
@@ -4486,8 +4486,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 4109.6
     },
     {
@@ -4495,7 +4495,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 19795.8
     },
@@ -4504,8 +4504,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 13419.76
     },
     {
@@ -4513,8 +4513,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 33128.0
     },
     {
@@ -4522,7 +4522,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q3",
         "Amount": 22665.480000000003
     },
@@ -4531,8 +4531,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 20057.920000000002
     },
     {
@@ -4540,8 +4540,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 56008.12
     },
     {
@@ -4555,20 +4555,20 @@
     },
     {
         "Customer": "Stellar Style",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 2769.36
     },
     {
         "Customer": "Stellar Style",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 5582.16
     },
     {
@@ -4586,7 +4586,7 @@
         "Last Day of Month": "2021-05-31",
         "Month": "May",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 3021.92
     },
     {
@@ -4595,7 +4595,7 @@
         "Last Day of Month": "2021-06-30",
         "Month": "June",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 7261.879999999999
     },
     {
@@ -4613,7 +4613,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 10531.96
     },
     {
@@ -4622,7 +4622,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 19347.76
     },
     {
@@ -4640,7 +4640,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 14352.16
     },
     {
@@ -4649,25 +4649,25 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 30305.199999999997
     },
     {
         "Customer": "Stellar Style",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 2482.92
     },
     {
         "Customer": "Stellar Style",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 2989.92
     },
     {
@@ -4675,7 +4675,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q1",
         "Amount": 15919.6
     },
@@ -4684,8 +4684,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 13158.48
     },
     {
@@ -4693,8 +4693,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 5717.799999999999
     },
     {
@@ -4702,7 +4702,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 8108.879999999999
     },
@@ -4711,8 +4711,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 6454.96
     },
     {
@@ -4720,8 +4720,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 12116.4
     },
     {
@@ -4729,7 +4729,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q3",
         "Amount": 15480.84
     },
@@ -4738,8 +4738,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 21127.48
     },
     {
@@ -4747,26 +4747,26 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 24557.48
     },
     {
         "Customer": "Stellar Style",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 7870.160000000001
     },
     {
         "Customer": "Stellar Style",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 15233.16
     },
     {
@@ -4774,7 +4774,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q1",
         "Amount": 7022.4400000000005
     },
@@ -4783,8 +4783,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 15863.16
     },
     {
@@ -4792,8 +4792,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 4365.0
     },
     {
@@ -4801,7 +4801,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 27205.64
     },
@@ -4810,8 +4810,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 5542.32
     },
     {
@@ -4819,8 +4819,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 34069.96
     },
     {
@@ -4828,7 +4828,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q3",
         "Amount": 10292.880000000001
     },
@@ -4837,8 +4837,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 9720.0
     },
     {
@@ -4846,26 +4846,26 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 25802.08
     },
     {
         "Customer": "Uranus Universe",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 2643.48
     },
     {
         "Customer": "Uranus Universe",
-        "Fiscal Year": "F2022",
+        "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q1",
+        "Fiscal Quarter": "F2021-Q4",
         "Amount": 1342.72
     },
     {
@@ -4892,7 +4892,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 5581.16
     },
     {
@@ -4901,7 +4901,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 2433.68
     },
     {
@@ -4919,7 +4919,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 15909.64
     },
     {
@@ -4928,25 +4928,25 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 10323.92
     },
     {
         "Customer": "Uranus Universe",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 6237.599999999999
     },
     {
         "Customer": "Uranus Universe",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 6972.959999999999
     },
     {
@@ -4954,8 +4954,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 871.2
     },
     {
@@ -4963,8 +4963,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 1524.6000000000001
     },
     {
@@ -4972,7 +4972,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 4535.4
     },
@@ -4981,8 +4981,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 14239.16
     },
     {
@@ -4990,7 +4990,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q3",
         "Amount": 3005.6400000000003
     },
@@ -4999,8 +4999,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 21072.68
     },
     {
@@ -5008,17 +5008,17 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 22767.239999999998
     },
     {
         "Customer": "Uranus Universe",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 7830.0
     },
     {
@@ -5026,7 +5026,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q1",
         "Amount": 8803.0
     },
@@ -5035,8 +5035,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 7345.360000000001
     },
     {
@@ -5044,8 +5044,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 13502.480000000001
     },
     {
@@ -5053,7 +5053,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 7738.200000000001
     },
@@ -5062,8 +5062,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 6487.320000000001
     },
     {
@@ -5071,8 +5071,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 19555.0
     },
     {
@@ -5080,7 +5080,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q3",
         "Amount": 6334.080000000001
     },
@@ -5089,8 +5089,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 19773.920000000002
     },
     {
@@ -5098,8 +5098,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 8339.0
     },
     {
@@ -5117,7 +5117,7 @@
         "Last Day of Month": "2021-05-31",
         "Month": "May",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 5414.4
     },
     {
@@ -5126,7 +5126,7 @@
         "Last Day of Month": "2021-06-30",
         "Month": "June",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q2",
+        "Fiscal Quarter": "F2022-Q1",
         "Amount": 8478.64
     },
     {
@@ -5144,7 +5144,7 @@
         "Last Day of Month": "2021-08-31",
         "Month": "August",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 1342.72
     },
     {
@@ -5153,7 +5153,7 @@
         "Last Day of Month": "2021-09-30",
         "Month": "September",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q3",
+        "Fiscal Quarter": "F2022-Q2",
         "Amount": 7219.599999999999
     },
     {
@@ -5162,7 +5162,7 @@
         "Last Day of Month": "2021-11-30",
         "Month": "November",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 10703.4
     },
     {
@@ -5171,16 +5171,16 @@
         "Last Day of Month": "2021-12-31",
         "Month": "December",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2022-Q4",
+        "Fiscal Quarter": "F2022-Q3",
         "Amount": 11501.44
     },
     {
         "Customer": "Venus Visions",
-        "Fiscal Year": "F2023",
+        "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
         "LTM Period": "No",
-        "Fiscal Quarter": "F2023-Q1",
+        "Fiscal Quarter": "F2022-Q4",
         "Amount": 6653.44
     },
     {
@@ -5188,7 +5188,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q1",
         "Amount": 4479.04
     },
@@ -5197,8 +5197,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q2",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q1",
         "Amount": 4573.8
     },
     {
@@ -5206,7 +5206,7 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
-        "LTM Period": "Yes",
+        "LTM Period": "No",
         "Fiscal Quarter": "F2023-Q2",
         "Amount": 5301.96
     },
@@ -5215,8 +5215,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 4094.6400000000003
     },
     {
@@ -5224,8 +5224,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q3",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q2",
         "Amount": 3014.8399999999997
     },
     {
@@ -5233,8 +5233,8 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 8312.32
     },
     {
@@ -5242,17 +5242,17 @@
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
-        "LTM Period": "Yes",
-        "Fiscal Quarter": "F2023-Q4",
+        "LTM Period": "No",
+        "Fiscal Quarter": "F2023-Q3",
         "Amount": 13389.96
     },
     {
         "Customer": "Venus Visions",
-        "Fiscal Year": "F2024",
+        "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
         "LTM Period": "Yes",
-        "Fiscal Quarter": "F2024-Q1",
+        "Fiscal Quarter": "F2023-Q4",
         "Amount": 6598.0
     },
     {
@@ -5260,7 +5260,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q1",
         "Amount": 8233.2
     },
@@ -5269,8 +5269,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q2",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q1",
         "Amount": 2115.0
     },
     {
@@ -5278,7 +5278,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q2",
         "Amount": 3420.0
     },
@@ -5287,8 +5287,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 6586.4400000000005
     },
     {
@@ -5296,8 +5296,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q3",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q2",
         "Amount": 8445.44
     },
     {
@@ -5305,7 +5305,7 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
-        "LTM Period": "No",
+        "LTM Period": "Yes",
         "Fiscal Quarter": "F2024-Q3",
         "Amount": 4090.76
     },
@@ -5314,8 +5314,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 13100.52
     },
     {
@@ -5323,8 +5323,8 @@
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
-        "LTM Period": "No",
-        "Fiscal Quarter": "F2024-Q4",
+        "LTM Period": "Yes",
+        "Fiscal Quarter": "F2024-Q3",
         "Amount": 9090.0
     }
 ]
