@@ -1,0 +1,576 @@
+[
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Astro Artifacts",
+        "2022-03-31": 3462.0,
+        "2023-03-31": 755.0,
+        "2023-12-31": 5978.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Comet Creations",
+        "2022-03-31": 390.0,
+        "2023-03-31": 2898.0,
+        "2023-12-31": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Cosmic Collectibles",
+        "2022-03-31": 863.0,
+        "2023-03-31": 539.0,
+        "2023-12-31": 978.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Earthly Elegance",
+        "2022-03-31": 600.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 6757.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Galactic Goods",
+        "2022-03-31": 0.0,
+        "2023-03-31": 4030.0,
+        "2023-12-31": -1005.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Interstellar Emporium",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 14469.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Lunar Luxe",
+        "2022-03-31": 0.0,
+        "2023-03-31": 446.0,
+        "2023-12-31": 4952.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Meteorite Market",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 4663.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Neptune's Nook",
+        "2022-03-31": 0.0,
+        "2023-03-31": 2845.0,
+        "2023-12-31": 690.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Pluto's Finds",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": -203.08500000005
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Solar Splendors",
+        "2022-03-31": 171.0,
+        "2023-03-31": 1047.0,
+        "2023-12-31": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Stellar Style",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 6510.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Uranus Universe",
+        "2022-03-31": 0.0,
+        "2023-03-31": 4745.0,
+        "2023-12-31": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Astro Artifacts",
+        "2022-03-31": 0.0,
+        "2023-03-31": 1618.0,
+        "2023-12-31": 2943.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Celestial Emporium",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 4290.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Comet Creations",
+        "2022-03-31": 0.0,
+        "2023-03-31": 4933.0,
+        "2023-12-31": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Cosmic Collectibles",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 8109.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Galactic Goods",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 7219.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Interstellar Emporium",
+        "2022-03-31": 165.0,
+        "2023-03-31": 2710.0,
+        "2023-12-31": 2154.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Jupiter Junction",
+        "2022-03-31": 0.0,
+        "2023-03-31": 72.0,
+        "2023-12-31": 4122.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Lunar Luxe",
+        "2022-03-31": 138.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 8172.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Martian Merchandise",
+        "2022-03-31": 0.0,
+        "2023-03-31": -1049.30500000003,
+        "2023-12-31": 8387.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Meteorite Market",
+        "2022-03-31": 0.0,
+        "2023-03-31": 3571.0,
+        "2023-12-31": -6100.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Neptune's Nook",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 356.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Pluto's Finds",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 2781.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Solar Flare Fashion",
+        "2022-03-31": 314.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 5829.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Solar Splendors",
+        "2022-03-31": 0.0,
+        "2023-03-31": 876.0,
+        "2023-12-31": 530.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Venus Visions",
+        "2022-03-31": 638.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Astral Antiques",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 2608.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Astro Artifacts",
+        "2022-03-31": 0.0,
+        "2023-03-31": 3968.0,
+        "2023-12-31": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Celestial Emporium",
+        "2022-03-31": 2256.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 11705.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Comet Creations",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 2548.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Cosmic Collectibles",
+        "2022-03-31": 206.0,
+        "2023-03-31": 3791.0,
+        "2023-12-31": 5927.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Earthly Elegance",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 10349.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Galactic Goods",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": -7213.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Interstellar Emporium",
+        "2022-03-31": 0.0,
+        "2023-03-31": 3156.0,
+        "2023-12-31": 3908.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Jupiter Junction",
+        "2022-03-31": -306.245000000021,
+        "2023-03-31": 0.0,
+        "2023-12-31": 7318.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Lunar Luxe",
+        "2022-03-31": 0.0,
+        "2023-03-31": 598.0,
+        "2023-12-31": 8791.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Martian Merchandise",
+        "2022-03-31": 966.0,
+        "2023-03-31": 4669.0,
+        "2023-12-31": 1984.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Meteorite Market",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 6341.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Neptune's Nook",
+        "2022-03-31": 1793.0,
+        "2023-03-31": 106.0,
+        "2023-12-31": 2159.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Pluto's Finds",
+        "2022-03-31": 0.0,
+        "2023-03-31": 2382.0,
+        "2023-12-31": 5935.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Solar Flare Fashion",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": -1534.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Solar Splendors",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 7101.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Uranus Universe",
+        "2022-03-31": 0.0,
+        "2023-03-31": 4803.0,
+        "2023-12-31": 1611.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Venus Visions",
+        "2022-03-31": 5195.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 0.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Astral Antiques",
+        "2022-03-31": 885.0,
+        "2023-03-31": 3077.0,
+        "2023-12-31": 3786.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Celestial Emporium",
+        "2022-03-31": 2449.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 0.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Comet Creations",
+        "2022-03-31": 0.0,
+        "2023-03-31": 887.0,
+        "2023-12-31": 1763.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Cosmic Collectibles",
+        "2022-03-31": 3023.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 1833.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Galactic Goods",
+        "2022-03-31": 188.0,
+        "2023-03-31": 3364.0,
+        "2023-12-31": 541.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Interstellar Emporium",
+        "2022-03-31": 2889.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 1113.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Jupiter Junction",
+        "2022-03-31": 403.0,
+        "2023-03-31": 3096.0,
+        "2023-12-31": 1843.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Lunar Luxe",
+        "2022-03-31": 762.982000000018,
+        "2023-03-31": 794.0,
+        "2023-12-31": 1894.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Martian Merchandise",
+        "2022-03-31": 579.0,
+        "2023-03-31": 736.0,
+        "2023-12-31": 15981.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Meteorite Market",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 7641.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Neptune's Nook",
+        "2022-03-31": 0.0,
+        "2023-03-31": 582.0,
+        "2023-12-31": 0.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Pluto's Finds",
+        "2022-03-31": 2988.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 1545.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Solar Flare Fashion",
+        "2022-03-31": 0.0,
+        "2023-03-31": 808.0,
+        "2023-12-31": 7854.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Solar Splendors",
+        "2022-03-31": 4729.0,
+        "2023-03-31": 1883.0,
+        "2023-12-31": 934.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Stellar Style",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 2908.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Uranus Universe",
+        "2022-03-31": 0.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 2956.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Venus Visions",
+        "2022-03-31": 482.0,
+        "2023-03-31": 353.419400000115,
+        "2023-12-31": 0.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Astral Antiques",
+        "2022-03-31": 182.0,
+        "2023-03-31": 679.0,
+        "2023-12-31": 10245.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Astro Artifacts",
+        "2022-03-31": 474.0,
+        "2023-03-31": 3610.0,
+        "2023-12-31": 5501.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Celestial Emporium",
+        "2022-03-31": 148.0,
+        "2023-03-31": 657.0,
+        "2023-12-31": 9804.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Comet Creations",
+        "2022-03-31": 696.0,
+        "2023-03-31": 525.0,
+        "2023-12-31": 9582.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Cosmic Collectibles",
+        "2022-03-31": 2559.0,
+        "2023-03-31": 575.0,
+        "2023-12-31": 2505.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Earthly Elegance",
+        "2022-03-31": 700.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 12649.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Galactic Goods",
+        "2022-03-31": 0.0,
+        "2023-03-31": 1000.0,
+        "2023-12-31": 11652.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Interstellar Emporium",
+        "2022-03-31": 562.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 1687.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Jupiter Junction",
+        "2022-03-31": 0.0,
+        "2023-03-31": 5257.0,
+        "2023-12-31": 840.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Lunar Luxe",
+        "2022-03-31": 5450.0,
+        "2023-03-31": 1980.0,
+        "2023-12-31": 3445.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Martian Merchandise",
+        "2022-03-31": 0.0,
+        "2023-03-31": 2950.0,
+        "2023-12-31": 2311.369000000181
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Meteorite Market",
+        "2022-03-31": 601.0,
+        "2023-03-31": 111.0,
+        "2023-12-31": 2152.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Neptune's Nook",
+        "2022-03-31": 3619.0,
+        "2023-03-31": 1725.0,
+        "2023-12-31": 4458.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Pluto's Finds",
+        "2022-03-31": 2182.0,
+        "2023-03-31": 697.0,
+        "2023-12-31": 10739.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Solar Flare Fashion",
+        "2022-03-31": 0.0,
+        "2023-03-31": 354.0,
+        "2023-12-31": 7886.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Solar Splendors",
+        "2022-03-31": 976.0,
+        "2023-03-31": 1775.0,
+        "2023-12-31": 11204.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Stellar Style",
+        "2022-03-31": 3461.0,
+        "2023-03-31": 390.0,
+        "2023-12-31": 10592.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Uranus Universe",
+        "2022-03-31": 97.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 6714.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Venus Visions",
+        "2022-03-31": 4799.0,
+        "2023-03-31": 0.0,
+        "2023-12-31": 2063.0
+    }
+]
