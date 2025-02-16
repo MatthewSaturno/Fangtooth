@@ -1,6 +1,24 @@
 [
     {
         "Aging Group": "1 to 30 Days",
+        "Customer": "Astral Antiques",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Astral Antiques",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Astral Antiques",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
         "Customer": "Astro Artifacts",
         "Last Day of Month": "2022-03-31",
         "Ending Balance": 3462.0
@@ -19,6 +37,24 @@
     },
     {
         "Aging Group": "1 to 30 Days",
+        "Customer": "Celestial Emporium",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Celestial Emporium",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Celestial Emporium",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
         "Customer": "Comet Creations",
         "Last Day of Month": "2022-03-31",
         "Ending Balance": 390.0
@@ -28,6 +64,12 @@
         "Customer": "Comet Creations",
         "Last Day of Month": "2023-03-31",
         "Ending Balance": 2898.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Comet Creations",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "1 to 30 Days",
@@ -62,6 +104,12 @@
     {
         "Aging Group": "1 to 30 Days",
         "Customer": "Galactic Goods",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Galactic Goods",
         "Last Day of Month": "2023-03-31",
         "Ending Balance": 4030.0
     },
@@ -74,8 +122,44 @@
     {
         "Aging Group": "1 to 30 Days",
         "Customer": "Interstellar Emporium",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Interstellar Emporium",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Interstellar Emporium",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 14469.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Jupiter Junction",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Jupiter Junction",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Jupiter Junction",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Lunar Luxe",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "1 to 30 Days",
@@ -91,9 +175,45 @@
     },
     {
         "Aging Group": "1 to 30 Days",
+        "Customer": "Martian Merchandise",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Martian Merchandise",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Martian Merchandise",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Meteorite Market",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Meteorite Market",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
         "Customer": "Meteorite Market",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 4663.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Neptune's Nook",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "1 to 30 Days",
@@ -110,8 +230,38 @@
     {
         "Aging Group": "1 to 30 Days",
         "Customer": "Pluto's Finds",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Pluto's Finds",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Pluto's Finds",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": -203.08500000005
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Solar Flare Fashion",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Solar Flare Fashion",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Solar Flare Fashion",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "1 to 30 Days",
@@ -127,6 +277,24 @@
     },
     {
         "Aging Group": "1 to 30 Days",
+        "Customer": "Solar Splendors",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Stellar Style",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Stellar Style",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
         "Customer": "Stellar Style",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 6510.0
@@ -134,8 +302,62 @@
     {
         "Aging Group": "1 to 30 Days",
         "Customer": "Uranus Universe",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Uranus Universe",
         "Last Day of Month": "2023-03-31",
         "Ending Balance": 4745.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Uranus Universe",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Venus Visions",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Venus Visions",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "1 to 30 Days",
+        "Customer": "Venus Visions",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Astral Antiques",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Astral Antiques",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Astral Antiques",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Astro Artifacts",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "31 to 60 Days",
@@ -152,8 +374,26 @@
     {
         "Aging Group": "31 to 60 Days",
         "Customer": "Celestial Emporium",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Celestial Emporium",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Celestial Emporium",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 4290.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Comet Creations",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "31 to 60 Days",
@@ -163,9 +403,51 @@
     },
     {
         "Aging Group": "31 to 60 Days",
+        "Customer": "Comet Creations",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Cosmic Collectibles",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Cosmic Collectibles",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
         "Customer": "Cosmic Collectibles",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 8109.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Earthly Elegance",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Earthly Elegance",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Galactic Goods",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Galactic Goods",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "31 to 60 Days",
@@ -194,6 +476,12 @@
     {
         "Aging Group": "31 to 60 Days",
         "Customer": "Jupiter Junction",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Jupiter Junction",
         "Last Day of Month": "2023-03-31",
         "Ending Balance": 72.0
     },
@@ -212,8 +500,20 @@
     {
         "Aging Group": "31 to 60 Days",
         "Customer": "Lunar Luxe",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Lunar Luxe",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 8172.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Martian Merchandise",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "31 to 60 Days",
@@ -230,6 +530,12 @@
     {
         "Aging Group": "31 to 60 Days",
         "Customer": "Meteorite Market",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Meteorite Market",
         "Last Day of Month": "2023-03-31",
         "Ending Balance": 3571.0
     },
@@ -242,8 +548,32 @@
     {
         "Aging Group": "31 to 60 Days",
         "Customer": "Neptune's Nook",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Neptune's Nook",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Neptune's Nook",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 356.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Pluto's Finds",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Pluto's Finds",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "31 to 60 Days",
@@ -260,8 +590,20 @@
     {
         "Aging Group": "31 to 60 Days",
         "Customer": "Solar Flare Fashion",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Solar Flare Fashion",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 5829.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Solar Splendors",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "31 to 60 Days",
@@ -277,9 +619,69 @@
     },
     {
         "Aging Group": "31 to 60 Days",
+        "Customer": "Stellar Style",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Stellar Style",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Stellar Style",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Uranus Universe",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Uranus Universe",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Uranus Universe",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
         "Customer": "Venus Visions",
         "Last Day of Month": "2022-03-31",
         "Ending Balance": 638.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Venus Visions",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "31 to 60 Days",
+        "Customer": "Venus Visions",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Astral Antiques",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Astral Antiques",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "61 to 90 Days",
@@ -290,8 +692,20 @@
     {
         "Aging Group": "61 to 90 Days",
         "Customer": "Astro Artifacts",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Astro Artifacts",
         "Last Day of Month": "2023-03-31",
         "Ending Balance": 3968.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Astro Artifacts",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "61 to 90 Days",
@@ -302,8 +716,26 @@
     {
         "Aging Group": "61 to 90 Days",
         "Customer": "Celestial Emporium",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Celestial Emporium",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 11705.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Comet Creations",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Comet Creations",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "61 to 90 Days",
@@ -332,14 +764,38 @@
     {
         "Aging Group": "61 to 90 Days",
         "Customer": "Earthly Elegance",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Earthly Elegance",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 10349.0
     },
     {
         "Aging Group": "61 to 90 Days",
         "Customer": "Galactic Goods",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Galactic Goods",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Galactic Goods",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": -7213.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Interstellar Emporium",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "61 to 90 Days",
@@ -362,8 +818,20 @@
     {
         "Aging Group": "61 to 90 Days",
         "Customer": "Jupiter Junction",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Jupiter Junction",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 7318.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Lunar Luxe",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "61 to 90 Days",
@@ -398,6 +866,18 @@
     {
         "Aging Group": "61 to 90 Days",
         "Customer": "Meteorite Market",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Meteorite Market",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Meteorite Market",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 6341.0
     },
@@ -422,6 +902,12 @@
     {
         "Aging Group": "61 to 90 Days",
         "Customer": "Pluto's Finds",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Pluto's Finds",
         "Last Day of Month": "2023-03-31",
         "Ending Balance": 2382.0
     },
@@ -434,14 +920,62 @@
     {
         "Aging Group": "61 to 90 Days",
         "Customer": "Solar Flare Fashion",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Solar Flare Fashion",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Solar Flare Fashion",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": -1534.0
     },
     {
         "Aging Group": "61 to 90 Days",
         "Customer": "Solar Splendors",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Solar Splendors",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Solar Splendors",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 7101.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Stellar Style",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Stellar Style",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Stellar Style",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Uranus Universe",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "61 to 90 Days",
@@ -460,6 +994,18 @@
         "Customer": "Venus Visions",
         "Last Day of Month": "2022-03-31",
         "Ending Balance": 5195.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Venus Visions",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "61 to 90 Days",
+        "Customer": "Venus Visions",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "Current",
@@ -481,9 +1027,45 @@
     },
     {
         "Aging Group": "Current",
+        "Customer": "Astro Artifacts",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Astro Artifacts",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Astro Artifacts",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Current",
         "Customer": "Celestial Emporium",
         "Last Day of Month": "2022-03-31",
         "Ending Balance": 2449.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Celestial Emporium",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Celestial Emporium",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Comet Creations",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "Current",
@@ -506,8 +1088,26 @@
     {
         "Aging Group": "Current",
         "Customer": "Cosmic Collectibles",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Cosmic Collectibles",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 1833.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Earthly Elegance",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Earthly Elegance",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "Current",
@@ -532,6 +1132,12 @@
         "Customer": "Interstellar Emporium",
         "Last Day of Month": "2022-03-31",
         "Ending Balance": 2889.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Interstellar Emporium",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "Current",
@@ -596,14 +1202,38 @@
     {
         "Aging Group": "Current",
         "Customer": "Meteorite Market",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Meteorite Market",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Meteorite Market",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 7641.0
     },
     {
         "Aging Group": "Current",
         "Customer": "Neptune's Nook",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Neptune's Nook",
         "Last Day of Month": "2023-03-31",
         "Ending Balance": 582.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Neptune's Nook",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "Current",
@@ -614,8 +1244,20 @@
     {
         "Aging Group": "Current",
         "Customer": "Pluto's Finds",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Pluto's Finds",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 1545.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Solar Flare Fashion",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "Current",
@@ -650,8 +1292,32 @@
     {
         "Aging Group": "Current",
         "Customer": "Stellar Style",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Stellar Style",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Stellar Style",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 2908.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Uranus Universe",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Uranus Universe",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "Current",
@@ -670,6 +1336,12 @@
         "Customer": "Venus Visions",
         "Last Day of Month": "2023-03-31",
         "Ending Balance": 353.419400000115
+    },
+    {
+        "Aging Group": "Current",
+        "Customer": "Venus Visions",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "Over 90 Days",
@@ -776,6 +1448,12 @@
     {
         "Aging Group": "Over 90 Days",
         "Customer": "Galactic Goods",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Galactic Goods",
         "Last Day of Month": "2023-03-31",
         "Ending Balance": 1000.0
     },
@@ -794,8 +1472,20 @@
     {
         "Aging Group": "Over 90 Days",
         "Customer": "Interstellar Emporium",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Interstellar Emporium",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 1687.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Jupiter Junction",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "Over 90 Days",
@@ -826,6 +1516,12 @@
         "Customer": "Lunar Luxe",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 3445.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Martian Merchandise",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "Over 90 Days",
@@ -896,6 +1592,12 @@
     {
         "Aging Group": "Over 90 Days",
         "Customer": "Solar Flare Fashion",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Solar Flare Fashion",
         "Last Day of Month": "2023-03-31",
         "Ending Balance": 354.0
     },
@@ -950,6 +1652,12 @@
     {
         "Aging Group": "Over 90 Days",
         "Customer": "Uranus Universe",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Uranus Universe",
         "Last Day of Month": "2023-12-31",
         "Ending Balance": 6714.0
     },
@@ -958,6 +1666,12 @@
         "Customer": "Venus Visions",
         "Last Day of Month": "2022-03-31",
         "Ending Balance": 4799.0
+    },
+    {
+        "Aging Group": "Over 90 Days",
+        "Customer": "Venus Visions",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
     },
     {
         "Aging Group": "Over 90 Days",
