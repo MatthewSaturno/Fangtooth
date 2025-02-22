@@ -1,0 +1,2102 @@
+[
+    {
+        "Vendor": "AphroditeAdornments",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 953.0
+    },
+    {
+        "Vendor": "ApolloApparelWholesale",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 15800.0
+    },
+    {
+        "Vendor": "AresAthleticWear",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": -725.0
+    },
+    {
+        "Vendor": "ArtemisArcheryAttire",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 4500.0
+    },
+    {
+        "Vendor": "AthenaAttireWholesalers",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1388.0
+    },
+    {
+        "Vendor": "DemeterDressDepot",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "DionysusDeluxeTees",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1172.0
+    },
+    {
+        "Vendor": "DionysusSockBoutique",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1314.0
+    },
+    {
+        "Vendor": "ErosEliteTees",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 76.0
+    },
+    {
+        "Vendor": "HadesHosieryHaven",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 736.0
+    },
+    {
+        "Vendor": "HephaestusThreads",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1714.0
+    },
+    {
+        "Vendor": "HeraHosieryHeaven",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 662.0
+    },
+    {
+        "Vendor": "HermesHosieryHub",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 569.0
+    },
+    {
+        "Vendor": "HermesWingedHosiery",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 6600.0
+    },
+    {
+        "Vendor": "HestiaHomeComforts",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1794.0
+    },
+    {
+        "Vendor": "NikeVictoryWear",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1142.0
+    },
+    {
+        "Vendor": "PanPineTees",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1442.0
+    },
+    {
+        "Vendor": "PersephonePetalSocks",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": -1097.0
+    },
+    {
+        "Vendor": "PoseidonTidalTees",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ZeusZephyrTees",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 787.0
+    },
+    {
+        "Vendor": "AphroditeAdornments",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ApolloApparelWholesale",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AresAthleticWear",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1416.0
+    },
+    {
+        "Vendor": "ArtemisArcheryAttire",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 155.0
+    },
+    {
+        "Vendor": "AthenaAttireWholesalers",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 94.0
+    },
+    {
+        "Vendor": "DemeterDressDepot",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 926.0
+    },
+    {
+        "Vendor": "DionysusDeluxeTees",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "DionysusSockBoutique",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": -1372.0
+    },
+    {
+        "Vendor": "ErosEliteTees",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HadesHosieryHaven",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1726.0
+    },
+    {
+        "Vendor": "HephaestusThreads",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1644.0
+    },
+    {
+        "Vendor": "HeraHosieryHeaven",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1476.0
+    },
+    {
+        "Vendor": "HermesHosieryHub",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1652.0
+    },
+    {
+        "Vendor": "HermesWingedHosiery",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 4500.0
+    },
+    {
+        "Vendor": "HestiaHomeComforts",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 168.0
+    },
+    {
+        "Vendor": "NikeVictoryWear",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1751.0
+    },
+    {
+        "Vendor": "PanPineTees",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PersephonePetalSocks",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1898.0
+    },
+    {
+        "Vendor": "PoseidonTidalTees",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1780.0
+    },
+    {
+        "Vendor": "ZeusZephyrTees",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AphroditeAdornments",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ApolloApparelWholesale",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AresAthleticWear",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ArtemisArcheryAttire",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 956.0
+    },
+    {
+        "Vendor": "AthenaAttireWholesalers",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "DemeterDressDepot",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 170.0
+    },
+    {
+        "Vendor": "DionysusDeluxeTees",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "DionysusSockBoutique",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ErosEliteTees",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 662.0
+    },
+    {
+        "Vendor": "HadesHosieryHaven",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 801.0
+    },
+    {
+        "Vendor": "HephaestusThreads",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 4022.434544
+    },
+    {
+        "Vendor": "HeraHosieryHeaven",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HermesHosieryHub",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 608.0
+    },
+    {
+        "Vendor": "HermesWingedHosiery",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HestiaHomeComforts",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "NikeVictoryWear",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PanPineTees",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PersephonePetalSocks",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PoseidonTidalTees",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ZeusZephyrTees",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AphroditeAdornments",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ApolloApparelWholesale",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AresAthleticWear",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ArtemisArcheryAttire",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1539.0
+    },
+    {
+        "Vendor": "AthenaAttireWholesalers",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "DemeterDressDepot",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 930.0
+    },
+    {
+        "Vendor": "DionysusDeluxeTees",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "DionysusSockBoutique",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 441.0
+    },
+    {
+        "Vendor": "ErosEliteTees",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HadesHosieryHaven",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 411.0
+    },
+    {
+        "Vendor": "HephaestusThreads",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HeraHosieryHeaven",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 352.0
+    },
+    {
+        "Vendor": "HermesHosieryHub",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HermesWingedHosiery",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HestiaHomeComforts",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1253.0
+    },
+    {
+        "Vendor": "NikeVictoryWear",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1060.0
+    },
+    {
+        "Vendor": "PanPineTees",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 403.0
+    },
+    {
+        "Vendor": "PersephonePetalSocks",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 323.0
+    },
+    {
+        "Vendor": "PoseidonTidalTees",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ZeusZephyrTees",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": -604.0
+    },
+    {
+        "Vendor": "AphroditeAdornments",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 421.0
+    },
+    {
+        "Vendor": "ApolloApparelWholesale",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 12450.0
+    },
+    {
+        "Vendor": "AresAthleticWear",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ArtemisArcheryAttire",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 781.0
+    },
+    {
+        "Vendor": "AthenaAttireWholesalers",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 7596.0
+    },
+    {
+        "Vendor": "DemeterDressDepot",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "DionysusDeluxeTees",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "DionysusSockBoutique",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ErosEliteTees",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1934.0
+    },
+    {
+        "Vendor": "HadesHosieryHaven",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HephaestusThreads",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1574.0
+    },
+    {
+        "Vendor": "HeraHosieryHeaven",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HermesHosieryHub",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HermesWingedHosiery",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1453.0
+    },
+    {
+        "Vendor": "HestiaHomeComforts",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "NikeVictoryWear",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 6700.0
+    },
+    {
+        "Vendor": "PanPineTees",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PersephonePetalSocks",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PoseidonTidalTees",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ZeusZephyrTees",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2022-03-31",
+        "Ending Balance": 1195.0
+    },
+    {
+        "Vendor": "AphroditeAdornments",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 2703.0
+    },
+    {
+        "Vendor": "ApolloApparelWholesale",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AresAthleticWear",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ArtemisArcheryAttire",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1790.0
+    },
+    {
+        "Vendor": "AthenaAttireWholesalers",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1202.0
+    },
+    {
+        "Vendor": "DemeterDressDepot",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "DionysusDeluxeTees",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 2795.0
+    },
+    {
+        "Vendor": "DionysusSockBoutique",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 14668.552704
+    },
+    {
+        "Vendor": "ErosEliteTees",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HadesHosieryHaven",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 661.0
+    },
+    {
+        "Vendor": "HephaestusThreads",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HeraHosieryHeaven",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HermesHosieryHub",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 3425.0
+    },
+    {
+        "Vendor": "HermesWingedHosiery",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": -1189.0
+    },
+    {
+        "Vendor": "HestiaHomeComforts",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "NikeVictoryWear",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 3119.0
+    },
+    {
+        "Vendor": "PanPineTees",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PersephonePetalSocks",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PoseidonTidalTees",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 3387.0
+    },
+    {
+        "Vendor": "ZeusZephyrTees",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AphroditeAdornments",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ApolloApparelWholesale",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1843.0
+    },
+    {
+        "Vendor": "AresAthleticWear",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1803.0
+    },
+    {
+        "Vendor": "ArtemisArcheryAttire",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": -2761.0
+    },
+    {
+        "Vendor": "AthenaAttireWholesalers",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 179.0
+    },
+    {
+        "Vendor": "DemeterDressDepot",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 2.0
+    },
+    {
+        "Vendor": "DionysusDeluxeTees",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "DionysusSockBoutique",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 2740.0
+    },
+    {
+        "Vendor": "ErosEliteTees",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 231.0
+    },
+    {
+        "Vendor": "HadesHosieryHaven",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 2024.0
+    },
+    {
+        "Vendor": "HephaestusThreads",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 3019.0
+    },
+    {
+        "Vendor": "HeraHosieryHeaven",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HermesHosieryHub",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 3479.0
+    },
+    {
+        "Vendor": "HermesWingedHosiery",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HestiaHomeComforts",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1358.0
+    },
+    {
+        "Vendor": "NikeVictoryWear",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PanPineTees",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 836.0
+    },
+    {
+        "Vendor": "PersephonePetalSocks",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PoseidonTidalTees",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 2627.0
+    },
+    {
+        "Vendor": "ZeusZephyrTees",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AphroditeAdornments",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ApolloApparelWholesale",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AresAthleticWear",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 2187.0
+    },
+    {
+        "Vendor": "ArtemisArcheryAttire",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1370.0
+    },
+    {
+        "Vendor": "AthenaAttireWholesalers",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "DemeterDressDepot",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1755.0
+    },
+    {
+        "Vendor": "DionysusDeluxeTees",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1315.0
+    },
+    {
+        "Vendor": "DionysusSockBoutique",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 624.0
+    },
+    {
+        "Vendor": "ErosEliteTees",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 2866.0
+    },
+    {
+        "Vendor": "HadesHosieryHaven",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1697.0
+    },
+    {
+        "Vendor": "HephaestusThreads",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 3453.0
+    },
+    {
+        "Vendor": "HeraHosieryHeaven",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1683.0
+    },
+    {
+        "Vendor": "HermesHosieryHub",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HermesWingedHosiery",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1404.0
+    },
+    {
+        "Vendor": "HestiaHomeComforts",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "NikeVictoryWear",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 529.0
+    },
+    {
+        "Vendor": "PanPineTees",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PersephonePetalSocks",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PoseidonTidalTees",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ZeusZephyrTees",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AphroditeAdornments",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ApolloApparelWholesale",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AresAthleticWear",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1498.0
+    },
+    {
+        "Vendor": "ArtemisArcheryAttire",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1979.0
+    },
+    {
+        "Vendor": "AthenaAttireWholesalers",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "DemeterDressDepot",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 577.0
+    },
+    {
+        "Vendor": "DionysusDeluxeTees",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 367.0
+    },
+    {
+        "Vendor": "DionysusSockBoutique",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1668.0
+    },
+    {
+        "Vendor": "ErosEliteTees",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 2388.0
+    },
+    {
+        "Vendor": "HadesHosieryHaven",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1160.0
+    },
+    {
+        "Vendor": "HephaestusThreads",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 722.0
+    },
+    {
+        "Vendor": "HeraHosieryHeaven",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1495.0
+    },
+    {
+        "Vendor": "HermesHosieryHub",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1750.0
+    },
+    {
+        "Vendor": "HermesWingedHosiery",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 2757.0
+    },
+    {
+        "Vendor": "HestiaHomeComforts",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": -797.0
+    },
+    {
+        "Vendor": "NikeVictoryWear",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 3081.0
+    },
+    {
+        "Vendor": "PanPineTees",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PersephonePetalSocks",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PoseidonTidalTees",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ZeusZephyrTees",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AphroditeAdornments",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 3071.0
+    },
+    {
+        "Vendor": "ApolloApparelWholesale",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AresAthleticWear",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 3287.0
+    },
+    {
+        "Vendor": "ArtemisArcheryAttire",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AthenaAttireWholesalers",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": -2909.0
+    },
+    {
+        "Vendor": "DemeterDressDepot",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 3495.0
+    },
+    {
+        "Vendor": "DionysusDeluxeTees",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "DionysusSockBoutique",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 212.0
+    },
+    {
+        "Vendor": "ErosEliteTees",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HadesHosieryHaven",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 3394.0
+    },
+    {
+        "Vendor": "HephaestusThreads",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1006.0
+    },
+    {
+        "Vendor": "HeraHosieryHeaven",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HermesHosieryHub",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HermesWingedHosiery",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HestiaHomeComforts",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 10000.0
+    },
+    {
+        "Vendor": "NikeVictoryWear",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PanPineTees",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 1075.0
+    },
+    {
+        "Vendor": "PersephonePetalSocks",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 2623.0
+    },
+    {
+        "Vendor": "PoseidonTidalTees",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 3149.0
+    },
+    {
+        "Vendor": "ZeusZephyrTees",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-03-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AphroditeAdornments",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 9800.0
+    },
+    {
+        "Vendor": "ApolloApparelWholesale",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 2832.0
+    },
+    {
+        "Vendor": "AresAthleticWear",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 568.0
+    },
+    {
+        "Vendor": "ArtemisArcheryAttire",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 3052.0
+    },
+    {
+        "Vendor": "AthenaAttireWholesalers",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 2419.0
+    },
+    {
+        "Vendor": "DemeterDressDepot",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 14600.0
+    },
+    {
+        "Vendor": "DionysusDeluxeTees",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 2201.0
+    },
+    {
+        "Vendor": "DionysusSockBoutique",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 3273.0
+    },
+    {
+        "Vendor": "ErosEliteTees",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 4500.0
+    },
+    {
+        "Vendor": "HadesHosieryHaven",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HephaestusThreads",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 1902.0
+    },
+    {
+        "Vendor": "HeraHosieryHeaven",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 1350.0
+    },
+    {
+        "Vendor": "HermesHosieryHub",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 895.0
+    },
+    {
+        "Vendor": "HermesWingedHosiery",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 4700.0
+    },
+    {
+        "Vendor": "HestiaHomeComforts",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "NikeVictoryWear",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 11800.0
+    },
+    {
+        "Vendor": "PanPineTees",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PersephonePetalSocks",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PoseidonTidalTees",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 3500.0
+    },
+    {
+        "Vendor": "ZeusZephyrTees",
+        "Currency": "CAD",
+        "Aging Group": "Current",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 6300.391248
+    },
+    {
+        "Vendor": "AphroditeAdornments",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 1117.0
+    },
+    {
+        "Vendor": "ApolloApparelWholesale",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AresAthleticWear",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 3270.0
+    },
+    {
+        "Vendor": "ArtemisArcheryAttire",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AthenaAttireWholesalers",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 14700.0
+    },
+    {
+        "Vendor": "DemeterDressDepot",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 985.0
+    },
+    {
+        "Vendor": "DionysusDeluxeTees",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 1571.0
+    },
+    {
+        "Vendor": "DionysusSockBoutique",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ErosEliteTees",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 2523.0
+    },
+    {
+        "Vendor": "HadesHosieryHaven",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 3148.0
+    },
+    {
+        "Vendor": "HephaestusThreads",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HeraHosieryHeaven",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 2198.0
+    },
+    {
+        "Vendor": "HermesHosieryHub",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HermesWingedHosiery",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HestiaHomeComforts",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "NikeVictoryWear",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 22300.0
+    },
+    {
+        "Vendor": "PanPineTees",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PersephonePetalSocks",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 106.0
+    },
+    {
+        "Vendor": "PoseidonTidalTees",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ZeusZephyrTees",
+        "Currency": "CAD",
+        "Aging Group": "1 to 30 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AphroditeAdornments",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 3496.0
+    },
+    {
+        "Vendor": "ApolloApparelWholesale",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AresAthleticWear",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 3179.0
+    },
+    {
+        "Vendor": "ArtemisArcheryAttire",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AthenaAttireWholesalers",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 3064.0
+    },
+    {
+        "Vendor": "DemeterDressDepot",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "DionysusDeluxeTees",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "DionysusSockBoutique",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 3290.0
+    },
+    {
+        "Vendor": "ErosEliteTees",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 1156.0
+    },
+    {
+        "Vendor": "HadesHosieryHaven",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HephaestusThreads",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 12000.0
+    },
+    {
+        "Vendor": "HeraHosieryHeaven",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HermesHosieryHub",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 132.0
+    },
+    {
+        "Vendor": "HermesWingedHosiery",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HestiaHomeComforts",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 7600.0
+    },
+    {
+        "Vendor": "NikeVictoryWear",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 2738.0
+    },
+    {
+        "Vendor": "PanPineTees",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PersephonePetalSocks",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PoseidonTidalTees",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ZeusZephyrTees",
+        "Currency": "CAD",
+        "Aging Group": "31 to 60 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AphroditeAdornments",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 1318.0
+    },
+    {
+        "Vendor": "ApolloApparelWholesale",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AresAthleticWear",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 3449.0
+    },
+    {
+        "Vendor": "ArtemisArcheryAttire",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AthenaAttireWholesalers",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 12500.0
+    },
+    {
+        "Vendor": "DemeterDressDepot",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 6200.0
+    },
+    {
+        "Vendor": "DionysusDeluxeTees",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "DionysusSockBoutique",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ErosEliteTees",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 2753.0
+    },
+    {
+        "Vendor": "HadesHosieryHaven",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HephaestusThreads",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HeraHosieryHeaven",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HermesHosieryHub",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 1795.0
+    },
+    {
+        "Vendor": "HermesWingedHosiery",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HestiaHomeComforts",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "NikeVictoryWear",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 2638.0
+    },
+    {
+        "Vendor": "PanPineTees",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PersephonePetalSocks",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PoseidonTidalTees",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "ZeusZephyrTees",
+        "Currency": "CAD",
+        "Aging Group": "61 to 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "AphroditeAdornments",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 7900.0
+    },
+    {
+        "Vendor": "ApolloApparelWholesale",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 3480.0
+    },
+    {
+        "Vendor": "AresAthleticWear",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 1973.0
+    },
+    {
+        "Vendor": "ArtemisArcheryAttire",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 3144.0
+    },
+    {
+        "Vendor": "AthenaAttireWholesalers",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 1366.0
+    },
+    {
+        "Vendor": "DemeterDressDepot",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 2256.0
+    },
+    {
+        "Vendor": "DionysusDeluxeTees",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "DionysusSockBoutique",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 2973.0
+    },
+    {
+        "Vendor": "ErosEliteTees",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HadesHosieryHaven",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 1982.0
+    },
+    {
+        "Vendor": "HephaestusThreads",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 15000.0
+    },
+    {
+        "Vendor": "HeraHosieryHeaven",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 3477.0
+    },
+    {
+        "Vendor": "HermesHosieryHub",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 213.0
+    },
+    {
+        "Vendor": "HermesWingedHosiery",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "HestiaHomeComforts",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "NikeVictoryWear",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 2574.0
+    },
+    {
+        "Vendor": "PanPineTees",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    },
+    {
+        "Vendor": "PersephonePetalSocks",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 382.0
+    },
+    {
+        "Vendor": "PoseidonTidalTees",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 1126.0
+    },
+    {
+        "Vendor": "ZeusZephyrTees",
+        "Currency": "CAD",
+        "Aging Group": "Over 90 Days",
+        "Last Day of Month": "2023-12-31",
+        "Ending Balance": 0.0
+    }
+]
