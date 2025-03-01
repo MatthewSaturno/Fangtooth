@@ -1,6 +1,7 @@
 [
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-01-31",
         "Month": "January",
@@ -10,6 +11,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
@@ -19,6 +21,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
@@ -28,6 +31,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-04-30",
         "Month": "April",
@@ -37,6 +41,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-05-31",
         "Month": "May",
@@ -46,6 +51,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-06-30",
         "Month": "June",
@@ -55,6 +61,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -64,6 +71,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -73,6 +81,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -82,6 +91,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-10-31",
         "Month": "October",
@@ -91,6 +101,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -100,6 +111,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -109,6 +121,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-01-31",
         "Month": "January",
@@ -118,6 +131,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
@@ -127,6 +141,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
@@ -136,6 +151,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
@@ -145,6 +161,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
@@ -154,6 +171,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
@@ -163,6 +181,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -172,6 +191,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
@@ -181,6 +201,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -190,6 +211,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
@@ -199,6 +221,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -208,6 +231,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -217,6 +241,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-01-31",
         "Month": "January",
@@ -226,6 +251,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
@@ -235,6 +261,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
@@ -244,6 +271,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
@@ -253,6 +281,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
@@ -262,6 +291,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -271,6 +301,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -280,6 +311,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -289,6 +321,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -298,6 +331,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
@@ -307,6 +341,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -316,6 +351,7 @@
     },
     {
         "Customer": "Astral Antiques",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -325,6 +361,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
@@ -334,6 +371,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
@@ -343,6 +381,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-04-30",
         "Month": "April",
@@ -352,6 +391,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-05-31",
         "Month": "May",
@@ -361,6 +401,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-06-30",
         "Month": "June",
@@ -370,6 +411,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -379,6 +421,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -388,6 +431,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -397,6 +441,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-10-31",
         "Month": "October",
@@ -406,6 +451,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -415,6 +461,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -424,6 +471,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-01-31",
         "Month": "January",
@@ -433,6 +481,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
@@ -442,6 +491,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
@@ -451,6 +501,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
@@ -460,6 +511,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
@@ -469,6 +521,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
@@ -478,6 +531,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -487,6 +541,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
@@ -496,6 +551,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -505,6 +561,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
@@ -514,6 +571,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -523,6 +581,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -532,6 +591,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-01-31",
         "Month": "January",
@@ -541,6 +601,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
@@ -550,6 +611,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
@@ -559,6 +621,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
@@ -568,6 +631,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
@@ -577,6 +641,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -586,6 +651,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -595,6 +661,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -604,6 +671,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -613,6 +681,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
@@ -622,6 +691,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -631,6 +701,7 @@
     },
     {
         "Customer": "Astro Artifacts",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -640,6 +711,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-01-31",
         "Month": "January",
@@ -649,6 +721,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
@@ -658,6 +731,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
@@ -667,6 +741,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-04-30",
         "Month": "April",
@@ -676,6 +751,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-05-31",
         "Month": "May",
@@ -685,6 +761,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-06-30",
         "Month": "June",
@@ -694,6 +771,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -703,6 +781,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -712,6 +791,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -721,6 +801,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-10-31",
         "Month": "October",
@@ -730,6 +811,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -739,6 +821,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -748,6 +831,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-01-31",
         "Month": "January",
@@ -757,6 +841,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
@@ -766,6 +851,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
@@ -775,6 +861,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
@@ -784,6 +871,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
@@ -793,6 +881,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
@@ -802,6 +891,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -811,6 +901,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
@@ -820,6 +911,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -829,6 +921,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
@@ -838,6 +931,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -847,6 +941,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -856,6 +951,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-01-31",
         "Month": "January",
@@ -865,6 +961,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
@@ -874,6 +971,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
@@ -883,6 +981,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
@@ -892,6 +991,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
@@ -901,6 +1001,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -910,6 +1011,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -919,6 +1021,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -928,6 +1031,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -937,6 +1041,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
@@ -946,6 +1051,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -955,6 +1061,7 @@
     },
     {
         "Customer": "Celestial Emporium",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -964,6 +1071,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-01-31",
         "Month": "January",
@@ -973,6 +1081,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
@@ -982,6 +1091,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
@@ -991,6 +1101,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-04-30",
         "Month": "April",
@@ -1000,6 +1111,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-05-31",
         "Month": "May",
@@ -1009,6 +1121,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-06-30",
         "Month": "June",
@@ -1018,6 +1131,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -1027,6 +1141,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -1036,6 +1151,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -1045,6 +1161,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-10-31",
         "Month": "October",
@@ -1054,6 +1171,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -1063,6 +1181,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -1072,6 +1191,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-01-31",
         "Month": "January",
@@ -1081,6 +1201,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
@@ -1090,6 +1211,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
@@ -1099,6 +1221,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
@@ -1108,6 +1231,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
@@ -1117,6 +1241,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
@@ -1126,6 +1251,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -1135,6 +1261,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
@@ -1144,6 +1271,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -1153,6 +1281,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
@@ -1162,6 +1291,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -1171,6 +1301,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -1180,6 +1311,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-01-31",
         "Month": "January",
@@ -1189,6 +1321,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
@@ -1198,6 +1331,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
@@ -1207,6 +1341,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
@@ -1216,6 +1351,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
@@ -1225,6 +1361,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -1234,6 +1371,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -1243,6 +1381,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -1252,6 +1391,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -1261,6 +1401,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
@@ -1270,6 +1411,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -1279,6 +1421,7 @@
     },
     {
         "Customer": "Comet Creations",
+        "State": "Manitoba",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -1288,6 +1431,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-01-31",
         "Month": "January",
@@ -1297,6 +1441,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
@@ -1306,6 +1451,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-04-30",
         "Month": "April",
@@ -1315,6 +1461,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-05-31",
         "Month": "May",
@@ -1324,6 +1471,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-06-30",
         "Month": "June",
@@ -1333,6 +1481,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -1342,6 +1491,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -1351,6 +1501,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -1360,6 +1511,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-10-31",
         "Month": "October",
@@ -1369,6 +1521,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -1378,6 +1531,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -1387,6 +1541,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-01-31",
         "Month": "January",
@@ -1396,6 +1551,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
@@ -1405,6 +1561,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
@@ -1414,6 +1571,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
@@ -1423,6 +1581,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
@@ -1432,6 +1591,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
@@ -1441,6 +1601,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -1450,6 +1611,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
@@ -1459,6 +1621,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -1468,6 +1631,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
@@ -1477,6 +1641,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -1486,6 +1651,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -1495,6 +1661,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-01-31",
         "Month": "January",
@@ -1504,6 +1671,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
@@ -1513,6 +1681,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
@@ -1522,6 +1691,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
@@ -1531,6 +1701,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
@@ -1540,6 +1711,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -1549,6 +1721,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -1558,6 +1731,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -1567,6 +1741,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -1576,6 +1751,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -1585,6 +1761,7 @@
     },
     {
         "Customer": "Cosmic Collectibles",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -1594,6 +1771,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -1603,6 +1781,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -1612,6 +1791,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -1621,6 +1801,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -1630,6 +1811,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
@@ -1639,6 +1821,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
@@ -1648,6 +1831,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -1657,6 +1841,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
@@ -1666,6 +1851,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -1675,6 +1861,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -1684,6 +1871,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -1693,6 +1881,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-01-31",
         "Month": "January",
@@ -1702,6 +1891,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
@@ -1711,6 +1901,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -1720,6 +1911,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -1729,6 +1921,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
@@ -1738,6 +1931,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -1747,6 +1941,7 @@
     },
     {
         "Customer": "Earthly Elegance",
+        "State": "New York",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -1756,6 +1951,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-01-31",
         "Month": "January",
@@ -1765,6 +1961,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
@@ -1774,6 +1971,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
@@ -1783,6 +1981,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-05-31",
         "Month": "May",
@@ -1792,6 +1991,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-06-30",
         "Month": "June",
@@ -1801,6 +2001,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -1810,6 +2011,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -1819,6 +2021,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -1828,6 +2031,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-10-31",
         "Month": "October",
@@ -1837,6 +2041,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -1846,6 +2051,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -1855,6 +2061,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
@@ -1864,6 +2071,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
@@ -1873,6 +2081,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
@@ -1882,6 +2091,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -1891,6 +2101,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
@@ -1900,6 +2111,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -1909,6 +2121,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
@@ -1918,6 +2131,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -1927,6 +2141,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -1936,6 +2151,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-01-31",
         "Month": "January",
@@ -1945,6 +2161,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
@@ -1954,6 +2171,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
@@ -1963,6 +2181,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
@@ -1972,6 +2191,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
@@ -1981,6 +2201,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -1990,6 +2211,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -1999,6 +2221,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -2008,6 +2231,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -2017,6 +2241,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
@@ -2026,6 +2251,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -2035,6 +2261,7 @@
     },
     {
         "Customer": "Galactic Goods",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -2044,6 +2271,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
@@ -2053,6 +2281,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-04-30",
         "Month": "April",
@@ -2062,6 +2291,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -2071,6 +2301,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -2080,6 +2311,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -2089,6 +2321,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -2098,6 +2331,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -2107,6 +2341,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
@@ -2116,6 +2351,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
@@ -2125,6 +2361,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
@@ -2134,6 +2371,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -2143,6 +2381,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
@@ -2152,6 +2391,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -2161,6 +2401,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
@@ -2170,6 +2411,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -2179,6 +2421,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -2188,6 +2431,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
@@ -2197,6 +2441,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
@@ -2206,6 +2451,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
@@ -2215,6 +2461,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -2224,6 +2471,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -2233,6 +2481,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -2242,6 +2491,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -2251,6 +2501,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
@@ -2260,6 +2511,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -2269,6 +2521,7 @@
     },
     {
         "Customer": "Interstellar Emporium",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -2278,6 +2531,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-01-31",
         "Month": "January",
@@ -2287,6 +2541,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
@@ -2296,6 +2551,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
@@ -2305,6 +2561,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-04-30",
         "Month": "April",
@@ -2314,6 +2571,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-06-30",
         "Month": "June",
@@ -2323,6 +2581,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -2332,6 +2591,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -2341,6 +2601,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -2350,6 +2611,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-10-31",
         "Month": "October",
@@ -2359,6 +2621,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -2368,6 +2631,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -2377,6 +2641,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-01-31",
         "Month": "January",
@@ -2386,6 +2651,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
@@ -2395,6 +2661,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
@@ -2404,6 +2671,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
@@ -2413,6 +2681,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
@@ -2422,6 +2691,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
@@ -2431,6 +2701,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -2440,6 +2711,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
@@ -2449,6 +2721,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -2458,6 +2731,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
@@ -2467,6 +2741,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -2476,6 +2751,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -2485,6 +2761,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-01-31",
         "Month": "January",
@@ -2494,6 +2771,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
@@ -2503,6 +2781,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
@@ -2512,6 +2791,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
@@ -2521,6 +2801,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
@@ -2530,6 +2811,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -2539,6 +2821,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -2548,6 +2831,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -2557,6 +2841,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -2566,6 +2851,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
@@ -2575,6 +2861,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -2584,6 +2871,7 @@
     },
     {
         "Customer": "Jupiter Junction",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -2593,6 +2881,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-01-31",
         "Month": "January",
@@ -2602,6 +2891,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
@@ -2611,6 +2901,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -2620,6 +2911,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -2629,6 +2921,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -2638,6 +2931,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -2647,6 +2941,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -2656,6 +2951,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
@@ -2665,6 +2961,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
@@ -2674,6 +2971,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
@@ -2683,6 +2981,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
@@ -2692,6 +2991,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -2701,6 +3001,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
@@ -2710,6 +3011,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -2719,6 +3021,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
@@ -2728,6 +3031,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -2737,6 +3041,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -2746,6 +3051,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
@@ -2755,6 +3061,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
@@ -2764,6 +3071,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -2773,6 +3081,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -2782,6 +3091,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -2791,6 +3101,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -2800,6 +3111,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
@@ -2809,6 +3121,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -2818,6 +3131,7 @@
     },
     {
         "Customer": "Lunar Luxe",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -2827,6 +3141,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-01-31",
         "Month": "January",
@@ -2836,6 +3151,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
@@ -2845,6 +3161,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
@@ -2854,6 +3171,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-04-30",
         "Month": "April",
@@ -2863,6 +3181,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-05-31",
         "Month": "May",
@@ -2872,6 +3191,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-06-30",
         "Month": "June",
@@ -2881,6 +3201,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -2890,6 +3211,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -2899,6 +3221,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -2908,6 +3231,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-10-31",
         "Month": "October",
@@ -2917,6 +3241,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -2926,6 +3251,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -2935,6 +3261,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-01-31",
         "Month": "January",
@@ -2944,6 +3271,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
@@ -2953,6 +3281,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
@@ -2962,6 +3291,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
@@ -2971,6 +3301,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
@@ -2980,6 +3311,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -2989,6 +3321,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
@@ -2998,6 +3331,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -3007,6 +3341,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
@@ -3016,6 +3351,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -3025,6 +3361,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -3034,6 +3371,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-01-31",
         "Month": "January",
@@ -3043,6 +3381,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
@@ -3052,6 +3391,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
@@ -3061,6 +3401,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -3070,6 +3411,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -3079,6 +3421,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -3088,6 +3431,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -3097,6 +3441,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -3106,6 +3451,7 @@
     },
     {
         "Customer": "Martian Merchandise",
+        "State": "Nova Scotia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -3115,6 +3461,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
@@ -3124,6 +3471,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
@@ -3133,6 +3481,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-04-30",
         "Month": "April",
@@ -3142,6 +3491,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-05-31",
         "Month": "May",
@@ -3151,6 +3501,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-06-30",
         "Month": "June",
@@ -3160,6 +3511,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -3169,6 +3521,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -3178,6 +3531,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -3187,6 +3541,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-10-31",
         "Month": "October",
@@ -3196,6 +3551,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -3205,6 +3561,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -3214,6 +3571,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-01-31",
         "Month": "January",
@@ -3223,6 +3581,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
@@ -3232,6 +3591,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
@@ -3241,6 +3601,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
@@ -3250,6 +3611,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -3259,6 +3621,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
@@ -3268,6 +3631,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -3277,6 +3641,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -3286,6 +3651,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -3295,6 +3661,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-01-31",
         "Month": "January",
@@ -3304,6 +3671,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
@@ -3313,6 +3681,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
@@ -3322,6 +3691,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -3331,6 +3701,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -3340,6 +3711,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -3349,6 +3721,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -3358,6 +3731,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
@@ -3367,6 +3741,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -3376,6 +3751,7 @@
     },
     {
         "Customer": "Meteorite Market",
+        "State": "California",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -3385,6 +3761,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-01-31",
         "Month": "January",
@@ -3394,6 +3771,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
@@ -3403,6 +3781,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-04-30",
         "Month": "April",
@@ -3412,6 +3791,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-05-31",
         "Month": "May",
@@ -3421,6 +3801,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -3430,6 +3811,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -3439,6 +3821,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -3448,6 +3831,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-10-31",
         "Month": "October",
@@ -3457,6 +3841,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -3466,6 +3851,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -3475,6 +3861,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-01-31",
         "Month": "January",
@@ -3484,6 +3871,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
@@ -3493,6 +3881,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
@@ -3502,6 +3891,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
@@ -3511,6 +3901,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -3520,6 +3911,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -3529,6 +3921,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -3538,6 +3931,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -3547,6 +3941,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-01-31",
         "Month": "January",
@@ -3556,6 +3951,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
@@ -3565,6 +3961,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
@@ -3574,6 +3971,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
@@ -3583,6 +3981,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
@@ -3592,6 +3991,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -3601,6 +4001,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -3610,6 +4011,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -3619,6 +4021,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -3628,6 +4031,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
@@ -3637,6 +4041,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -3646,6 +4051,7 @@
     },
     {
         "Customer": "Neptune's Nook",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -3655,6 +4061,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-01-31",
         "Month": "January",
@@ -3664,6 +4071,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
@@ -3673,6 +4081,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
@@ -3682,6 +4091,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-04-30",
         "Month": "April",
@@ -3691,6 +4101,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-05-31",
         "Month": "May",
@@ -3700,6 +4111,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-06-30",
         "Month": "June",
@@ -3709,6 +4121,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -3718,6 +4131,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -3727,6 +4141,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -3736,6 +4151,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-10-31",
         "Month": "October",
@@ -3745,6 +4161,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -3754,6 +4171,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -3763,6 +4181,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-01-31",
         "Month": "January",
@@ -3772,6 +4191,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
@@ -3781,6 +4201,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
@@ -3790,6 +4211,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
@@ -3799,6 +4221,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
@@ -3808,6 +4231,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -3817,6 +4241,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
@@ -3826,6 +4251,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -3835,6 +4261,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
@@ -3844,6 +4271,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -3853,6 +4281,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -3862,6 +4291,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-01-31",
         "Month": "January",
@@ -3871,6 +4301,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
@@ -3880,6 +4311,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
@@ -3889,6 +4321,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
@@ -3898,6 +4331,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
@@ -3907,6 +4341,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -3916,6 +4351,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -3925,6 +4361,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -3934,6 +4371,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -3943,6 +4381,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
@@ -3952,6 +4391,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -3961,6 +4401,7 @@
     },
     {
         "Customer": "Pluto's Finds",
+        "State": "Florida",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -3970,6 +4411,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-01-31",
         "Month": "January",
@@ -3979,6 +4421,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
@@ -3988,6 +4431,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
@@ -3997,6 +4441,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-04-30",
         "Month": "April",
@@ -4006,6 +4451,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-05-31",
         "Month": "May",
@@ -4015,6 +4461,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-06-30",
         "Month": "June",
@@ -4024,6 +4471,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -4033,6 +4481,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -4042,6 +4491,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -4051,6 +4501,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -4060,6 +4511,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -4069,6 +4521,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
@@ -4078,6 +4531,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
@@ -4087,6 +4541,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
@@ -4096,6 +4551,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
@@ -4105,6 +4561,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -4114,6 +4571,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
@@ -4123,6 +4581,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -4132,6 +4591,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -4141,6 +4601,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -4150,6 +4611,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-01-31",
         "Month": "January",
@@ -4159,6 +4621,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
@@ -4168,6 +4631,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
@@ -4177,6 +4641,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
@@ -4186,6 +4651,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -4195,6 +4661,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -4204,6 +4671,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -4213,6 +4681,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -4222,6 +4691,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
@@ -4231,6 +4701,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -4240,6 +4711,7 @@
     },
     {
         "Customer": "Solar Flare Fashion",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -4249,6 +4721,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
@@ -4258,6 +4731,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-04-30",
         "Month": "April",
@@ -4267,6 +4741,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-05-31",
         "Month": "May",
@@ -4276,6 +4751,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -4285,6 +4761,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -4294,6 +4771,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -4303,6 +4781,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-10-31",
         "Month": "October",
@@ -4312,6 +4791,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -4321,6 +4801,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -4330,6 +4811,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-01-31",
         "Month": "January",
@@ -4339,6 +4821,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
@@ -4348,6 +4831,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
@@ -4357,6 +4841,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
@@ -4366,6 +4851,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
@@ -4375,6 +4861,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
@@ -4384,6 +4871,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -4393,6 +4881,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
@@ -4402,6 +4891,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -4411,6 +4901,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
@@ -4420,6 +4911,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -4429,6 +4921,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -4438,6 +4931,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-01-31",
         "Month": "January",
@@ -4447,6 +4941,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
@@ -4456,6 +4951,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
@@ -4465,6 +4961,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
@@ -4474,6 +4971,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
@@ -4483,6 +4981,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -4492,6 +4991,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -4501,6 +5001,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -4510,6 +5011,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -4519,6 +5021,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
@@ -4528,6 +5031,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -4537,6 +5041,7 @@
     },
     {
         "Customer": "Solar Splendors",
+        "State": "British Columbia",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -4546,6 +5051,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-01-31",
         "Month": "January",
@@ -4555,6 +5061,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
@@ -4564,6 +5071,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
@@ -4573,6 +5081,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-04-30",
         "Month": "April",
@@ -4582,6 +5091,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-05-31",
         "Month": "May",
@@ -4591,6 +5101,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-06-30",
         "Month": "June",
@@ -4600,6 +5111,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -4609,6 +5121,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -4618,6 +5131,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -4627,6 +5141,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-10-31",
         "Month": "October",
@@ -4636,6 +5151,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -4645,6 +5161,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -4654,6 +5171,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
@@ -4663,6 +5181,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
@@ -4672,6 +5191,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
@@ -4681,6 +5201,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
@@ -4690,6 +5211,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
@@ -4699,6 +5221,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -4708,6 +5231,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
@@ -4717,6 +5241,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -4726,6 +5251,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
@@ -4735,6 +5261,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -4744,6 +5271,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -4753,6 +5281,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-02-28",
         "Month": "February",
@@ -4762,6 +5291,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
@@ -4771,6 +5301,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
@@ -4780,6 +5311,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
@@ -4789,6 +5321,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -4798,6 +5331,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -4807,6 +5341,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -4816,6 +5351,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -4825,6 +5361,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
@@ -4834,6 +5371,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -4843,6 +5381,7 @@
     },
     {
         "Customer": "Stellar Style",
+        "State": "Ontario",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -4852,6 +5391,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-02-28",
         "Month": "February",
@@ -4861,6 +5401,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2021",
         "Last Day of Month": "2021-03-31",
         "Month": "March",
@@ -4870,6 +5411,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-04-30",
         "Month": "April",
@@ -4879,6 +5421,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -4888,6 +5431,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -4897,6 +5441,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -4906,6 +5451,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-10-31",
         "Month": "October",
@@ -4915,6 +5461,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -4924,6 +5471,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -4933,6 +5481,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-02-28",
         "Month": "February",
@@ -4942,6 +5491,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
@@ -4951,6 +5501,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-05-31",
         "Month": "May",
@@ -4960,6 +5511,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
@@ -4969,6 +5521,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -4978,6 +5531,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -4987,6 +5541,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-10-31",
         "Month": "October",
@@ -4996,6 +5551,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -5005,6 +5561,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -5014,6 +5571,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
@@ -5023,6 +5581,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
@@ -5032,6 +5591,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-05-31",
         "Month": "May",
@@ -5041,6 +5601,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -5050,6 +5611,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -5059,6 +5621,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -5068,6 +5631,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -5077,6 +5641,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
@@ -5086,6 +5651,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -5095,6 +5661,7 @@
     },
     {
         "Customer": "Uranus Universe",
+        "State": "Quebec",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
@@ -5104,6 +5671,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-04-30",
         "Month": "April",
@@ -5113,6 +5681,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-05-31",
         "Month": "May",
@@ -5122,6 +5691,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-06-30",
         "Month": "June",
@@ -5131,6 +5701,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-07-31",
         "Month": "July",
@@ -5140,6 +5711,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-08-31",
         "Month": "August",
@@ -5149,6 +5721,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-09-30",
         "Month": "September",
@@ -5158,6 +5731,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-11-30",
         "Month": "November",
@@ -5167,6 +5741,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2021-12-31",
         "Month": "December",
@@ -5176,6 +5751,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2022",
         "Last Day of Month": "2022-03-31",
         "Month": "March",
@@ -5185,6 +5761,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-04-30",
         "Month": "April",
@@ -5194,6 +5771,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-06-30",
         "Month": "June",
@@ -5203,6 +5781,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-07-31",
         "Month": "July",
@@ -5212,6 +5791,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-08-31",
         "Month": "August",
@@ -5221,6 +5801,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-09-30",
         "Month": "September",
@@ -5230,6 +5811,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-11-30",
         "Month": "November",
@@ -5239,6 +5821,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2022-12-31",
         "Month": "December",
@@ -5248,6 +5831,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2023",
         "Last Day of Month": "2023-03-31",
         "Month": "March",
@@ -5257,6 +5841,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-04-30",
         "Month": "April",
@@ -5266,6 +5851,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-06-30",
         "Month": "June",
@@ -5275,6 +5861,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-07-31",
         "Month": "July",
@@ -5284,6 +5871,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-08-31",
         "Month": "August",
@@ -5293,6 +5881,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-09-30",
         "Month": "September",
@@ -5302,6 +5891,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-10-31",
         "Month": "October",
@@ -5311,6 +5901,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-11-30",
         "Month": "November",
@@ -5320,6 +5911,7 @@
     },
     {
         "Customer": "Venus Visions",
+        "State": "Alberta",
         "Fiscal Year": "F2024",
         "Last Day of Month": "2023-12-31",
         "Month": "December",
