@@ -2,13 +2,13 @@
     "company_name": "Matthew Inc.",
     "currency": "CAD",
     "denomination": "$",
-    "value_date": "2020-12-31",
+    "value_date": "2020-03-31",
     "fiscal_year": "2020-12-31",
     "fiscal_year_end_month": 12,
     "LTM_fiscal_year": "F2020",
-    "LTM_name": "LTM Dec 20",
+    "LTM_name": "LTM Mar 20",
     "YTD_name": "F2020 YTD",
     "fiscal_year_name": "December 31",
-    "value_date_name": "December 31",
+    "value_date_name": "March 31",
     "value_date_year": 2020
 }
